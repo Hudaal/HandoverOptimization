@@ -1,0 +1,2926 @@
+cell = 4: ue = 1: avg_throughput = 769.1294117647059: avg_rsrq  = 24.294117647058822: avg_rsrp  = 48.35294117647059
+
+cell = 4: ue = 3: avg_throughput = 17463.238095238095: avg_rsrq  = 27.974358974358974: avg_rsrp  = 49.17948717948718
+
+cell = 4: ue = 4: avg_throughput = 14376.0: avg_rsrq  = 30.4: avg_rsrp  = 50.8
+
+cell = 4: ue = 5: avg_throughput = 10375.008849557522: avg_rsrq  = 27.217391304347824: avg_rsrp  = 52.43478260869565
+
+cell = 4: ue = 7: avg_throughput = 2765.1428571428573: avg_rsrq  = 24.714285714285715: avg_rsrp  = 50.142857142857146
+
+cell = 1: ue = 1: avg_throughput = 11845.631067961165: avg_rsrq  = 28.488372093023255: avg_rsrp  = 49.27906976744186
+
+cell = 1: ue = 2: avg_throughput = 11869.127071823204: avg_rsrq  = 28.92: avg_rsrp  = 49.22666666666667
+
+cell = 1: ue = 4: avg_throughput = 4049.5384615384614: avg_rsrq  = 23.375: avg_rsrp  = 49.75
+
+cell = 1: ue = 5: avg_throughput = 6985.44: avg_rsrq  = 22.470588235294116: avg_rsrp  = 59.94117647058823
+
+cell = 1: ue = 6: avg_throughput = 13416.6288209607: avg_rsrq  = 28.8125: avg_rsrp  = 53.229166666666664
+
+cell = 1: ue = 7: avg_throughput = 12307.90909090909: avg_rsrq  = 29.796296296296298: avg_rsrp  = 49.351851851851855
+
+cell = 3: ue = 1: avg_throughput = 14773.019607843138: avg_rsrq  = 27.6: avg_rsrp  = 50.25
+
+cell = 3: ue = 2: avg_throughput = 12539.829787234043: avg_rsrq  = 27.3: avg_rsrp  = 50.2
+
+cell = 3: ue = 3: avg_throughput = 16895.3: avg_rsrq  = 32.625: avg_rsrp  = 47.625
+
+cell = 3: ue = 5: avg_throughput = 16511.14285714286: avg_rsrq  = 21.555555555555557: avg_rsrp  = 44.62222222222222
+
+cell = 3: ue = 7: avg_throughput = 14935.2: avg_rsrq  = 30.13157894736842: avg_rsrp  = 47.3421052631579
+
+cell = 2: ue = 1: avg_throughput = 16060.692307692309: avg_rsrq  = 29.939393939393938: avg_rsrp  = 47.57575757575758
+
+cell = 2: ue = 2: avg_throughput = 14265.125: avg_rsrq  = 31.6: avg_rsrp  = 47.1
+
+cell = 2: ue = 3: avg_throughput = 8611.527272727273: avg_rsrq  = 27.304347826086957: avg_rsrp  = 44.08695652173913
+
+cell = 2: ue = 4: avg_throughput = 20736.932432432433: avg_rsrq  = 30.491803278688526: avg_rsrp  = 51.42622950819672
+
+cell = 2: ue = 5: avg_throughput = 16580.101910828027: avg_rsrq  = 28.454545454545453: avg_rsrp  = 48.303030303030305
+
+cell = 5: ue = 3: avg_throughput = 14284.199095022625: avg_rsrq  = 29.130434782608695: avg_rsrp  = 52.04347826086956
+
+cell = 5: ue = 4: avg_throughput = 15567.050847457627: avg_rsrq  = 29.333333333333332: avg_rsrp  = 53.44444444444444
+
+cell = 5: ue = 5: avg_throughput = 12372.5: avg_rsrq  = 32.0: avg_rsrp  = 56.8
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 1: ue = 1: avg_throughput = 14436.556053811659: avg_rsrq  = 30.610526315789475: avg_rsrp  = 53.136842105263156
+
+cell = 1: ue = 2: avg_throughput = 10912.923076923076: avg_rsrq  = 27.57894736842105: avg_rsrp  = 59.10526315789474
+
+cell = 1: ue = 3: avg_throughput = 10742.358208955224: avg_rsrq  = 27.964285714285715: avg_rsrp  = 49.0
+
+cell = 1: ue = 4: avg_throughput = 12729.756756756757: avg_rsrq  = 28.03174603174603: avg_rsrp  = 51.65079365079365
+
+cell = 1: ue = 5: avg_throughput = 16521.724444444444: avg_rsrq  = 29.42222222222222: avg_rsrp  = 53.2
+
+cell = 1: ue = 6: avg_throughput = 15506.405498281787: avg_rsrq  = 28.566666666666666: avg_rsrp  = 49.65
+
+cell = 1: ue = 7: avg_throughput = 14243.597051597051: avg_rsrq  = 27.083333333333332: avg_rsrp  = 49.45238095238095
+
+cell = 1: ue = 8: avg_throughput = 16193.768844221106: avg_rsrq  = 28.934131736526947: avg_rsrp  = 49.868263473053894
+
+cell = 3: ue = 1: avg_throughput = 12794.444444444445: avg_rsrq  = 19.68: avg_rsrp  = 54.72
+
+cell = 3: ue = 2: avg_throughput = 14498.702702702703: avg_rsrq  = 24.31578947368421: avg_rsrp  = 51.421052631578945
+
+cell = 3: ue = 3: avg_throughput = 14034.222222222223: avg_rsrq  = 27.727272727272727: avg_rsrp  = 45.90909090909091
+
+cell = 3: ue = 4: avg_throughput = 19449.480662983424: avg_rsrq  = 32.4: avg_rsrp  = 47.333333333333336
+
+cell = 3: ue = 5: avg_throughput = 14065.578947368422: avg_rsrq  = 28.413793103448278: avg_rsrp  = 47.827586206896555
+
+cell = 3: ue = 6: avg_throughput = 12681.576923076924: avg_rsrq  = 17.4375: avg_rsrp  = 51.625
+
+cell = 3: ue = 7: avg_throughput = 13649.44: avg_rsrq  = 18.0: avg_rsrp  = 61.4
+
+cell = 3: ue = 8: avg_throughput = 11586.272727272728: avg_rsrq  = 23.125: avg_rsrp  = 53.375
+
+cell = 2: ue = 1: avg_throughput = 7064.86432160804: avg_rsrq  = 27.341463414634145: avg_rsrp  = 48.80487804878049
+
+cell = 2: ue = 2: avg_throughput = 3484.891495601173: avg_rsrq  = 22.689393939393938: avg_rsrp  = 49.871212121212125
+
+cell = 2: ue = 3: avg_throughput = 12394.2: avg_rsrq  = 27.789473684210527: avg_rsrp  = 51.0
+
+cell = 2: ue = 4: avg_throughput = 12806.077448747152: avg_rsrq  = 25.11464968152866: avg_rsrp  = 47.71974522292994
+
+cell = 2: ue = 5: avg_throughput = 8738.49504950495: avg_rsrq  = 18.50574712643678: avg_rsrp  = 52.747126436781606
+
+cell = 2: ue = 6: avg_throughput = 5817.0: avg_rsrq  = 28.338983050847457: avg_rsrp  = 48.271186440677965
+
+cell = 2: ue = 7: avg_throughput = 1085.5384615384614: avg_rsrq  = 25.076923076923077: avg_rsrp  = 47.46153846153846
+
+cell = 2: ue = 8: avg_throughput = 16412.022099447513: avg_rsrq  = 29.89189189189189: avg_rsrp  = 51.16216216216216
+
+cell = 5: ue = 1: avg_throughput = 15966.872727272726: avg_rsrq  = 29.355555555555554: avg_rsrp  = 52.355555555555554
+
+cell = 5: ue = 2: avg_throughput = 1059.4315789473685: avg_rsrq  = 27.277227722772277: avg_rsrp  = 51.475247524752476
+
+cell = 5: ue = 3: avg_throughput = 10648.087193460491: avg_rsrq  = 16.673076923076923: avg_rsrp  = 48.21153846153846
+
+cell = 5: ue = 4: avg_throughput = 11584.921348314607: avg_rsrq  = 25.62857142857143: avg_rsrp  = 51.25714285714286
+
+cell = 5: ue = 5: avg_throughput = 16188.375: avg_rsrq  = 32.38461538461539: avg_rsrp  = 58.76923076923077
+
+cell = 5: ue = 7: avg_throughput = 16286.490566037735: avg_rsrq  = 28.5: avg_rsrp  = 55.59090909090909
+
+cell = 4: ue = 2: avg_throughput = 9754.306748466257: avg_rsrq  = 28.63768115942029: avg_rsrp  = 50.56521739130435
+
+cell = 4: ue = 3: avg_throughput = 11371.783783783783: avg_rsrq  = 28.458715596330276: avg_rsrp  = 50.74311926605505
+
+cell = 4: ue = 4: avg_throughput = 4227.517241379311: avg_rsrq  = 21.833333333333332: avg_rsrp  = 46.416666666666664
+
+cell = 4: ue = 5: avg_throughput = 12180.242074927954: avg_rsrq  = 26.379310344827587: avg_rsrp  = 50.775862068965516
+
+cell = 4: ue = 6: avg_throughput = 14592.841463414634: avg_rsrq  = 29.63235294117647: avg_rsrp  = 50.26470588235294
+
+cell = 4: ue = 7: avg_throughput = 12936.712727272727: avg_rsrq  = 19.756521739130434: avg_rsrp  = 46.88695652173913
+
+cell = 4: ue = 8: avg_throughput = 13298.76404494382: avg_rsrq  = 29.62162162162162: avg_rsrp  = 52.486486486486484
+
+
+
+cell = 1: ue = 1: avg_throughput = 14436.556053811659: avg_rsrq  = 30.610526315789475: avg_rsrp  = 53.136842105263156
+
+cell = 1: ue = 2: avg_throughput = 10912.923076923076: avg_rsrq  = 27.57894736842105: avg_rsrp  = 59.10526315789474
+
+cell = 1: ue = 3: avg_throughput = 10742.358208955224: avg_rsrq  = 27.964285714285715: avg_rsrp  = 49.0
+
+cell = 1: ue = 4: avg_throughput = 12729.756756756757: avg_rsrq  = 28.03174603174603: avg_rsrp  = 51.65079365079365
+
+cell = 1: ue = 5: avg_throughput = 16521.724444444444: avg_rsrq  = 29.42222222222222: avg_rsrp  = 53.2
+
+cell = 1: ue = 6: avg_throughput = 15506.405498281787: avg_rsrq  = 28.566666666666666: avg_rsrp  = 49.65
+
+cell = 1: ue = 7: avg_throughput = 14243.597051597051: avg_rsrq  = 27.083333333333332: avg_rsrp  = 49.45238095238095
+
+cell = 1: ue = 8: avg_throughput = 16193.768844221106: avg_rsrq  = 28.934131736526947: avg_rsrp  = 49.868263473053894
+
+cell = 3: ue = 1: avg_throughput = 12794.444444444445: avg_rsrq  = 19.68: avg_rsrp  = 54.72
+
+cell = 3: ue = 2: avg_throughput = 14498.702702702703: avg_rsrq  = 24.31578947368421: avg_rsrp  = 51.421052631578945
+
+cell = 3: ue = 3: avg_throughput = 14034.222222222223: avg_rsrq  = 27.727272727272727: avg_rsrp  = 45.90909090909091
+
+cell = 3: ue = 4: avg_throughput = 19449.480662983424: avg_rsrq  = 32.4: avg_rsrp  = 47.333333333333336
+
+cell = 3: ue = 5: avg_throughput = 14065.578947368422: avg_rsrq  = 28.413793103448278: avg_rsrp  = 47.827586206896555
+
+cell = 3: ue = 6: avg_throughput = 12681.576923076924: avg_rsrq  = 17.4375: avg_rsrp  = 51.625
+
+cell = 3: ue = 7: avg_throughput = 13649.44: avg_rsrq  = 18.0: avg_rsrp  = 61.4
+
+cell = 3: ue = 8: avg_throughput = 11586.272727272728: avg_rsrq  = 23.125: avg_rsrp  = 53.375
+
+cell = 2: ue = 1: avg_throughput = 7064.86432160804: avg_rsrq  = 27.341463414634145: avg_rsrp  = 48.80487804878049
+
+cell = 2: ue = 2: avg_throughput = 3484.891495601173: avg_rsrq  = 22.689393939393938: avg_rsrp  = 49.871212121212125
+
+cell = 2: ue = 3: avg_throughput = 12394.2: avg_rsrq  = 27.789473684210527: avg_rsrp  = 51.0
+
+cell = 2: ue = 4: avg_throughput = 12806.077448747152: avg_rsrq  = 25.11464968152866: avg_rsrp  = 47.71974522292994
+
+cell = 2: ue = 5: avg_throughput = 8738.49504950495: avg_rsrq  = 18.50574712643678: avg_rsrp  = 52.747126436781606
+
+cell = 2: ue = 6: avg_throughput = 5817.0: avg_rsrq  = 28.338983050847457: avg_rsrp  = 48.271186440677965
+
+cell = 2: ue = 7: avg_throughput = 1085.5384615384614: avg_rsrq  = 25.076923076923077: avg_rsrp  = 47.46153846153846
+
+cell = 2: ue = 8: avg_throughput = 16412.022099447513: avg_rsrq  = 29.89189189189189: avg_rsrp  = 51.16216216216216
+
+cell = 5: ue = 1: avg_throughput = 15966.872727272726: avg_rsrq  = 29.355555555555554: avg_rsrp  = 52.355555555555554
+
+cell = 5: ue = 2: avg_throughput = 1059.4315789473685: avg_rsrq  = 27.277227722772277: avg_rsrp  = 51.475247524752476
+
+cell = 5: ue = 3: avg_throughput = 10648.087193460491: avg_rsrq  = 16.673076923076923: avg_rsrp  = 48.21153846153846
+
+cell = 5: ue = 4: avg_throughput = 11584.921348314607: avg_rsrq  = 25.62857142857143: avg_rsrp  = 51.25714285714286
+
+cell = 5: ue = 5: avg_throughput = 16188.375: avg_rsrq  = 32.38461538461539: avg_rsrp  = 58.76923076923077
+
+cell = 5: ue = 7: avg_throughput = 16286.490566037735: avg_rsrq  = 28.5: avg_rsrp  = 55.59090909090909
+
+cell = 4: ue = 2: avg_throughput = 9754.306748466257: avg_rsrq  = 28.63768115942029: avg_rsrp  = 50.56521739130435
+
+cell = 4: ue = 3: avg_throughput = 11371.783783783783: avg_rsrq  = 28.458715596330276: avg_rsrp  = 50.74311926605505
+
+cell = 4: ue = 4: avg_throughput = 4227.517241379311: avg_rsrq  = 21.833333333333332: avg_rsrp  = 46.416666666666664
+
+cell = 4: ue = 5: avg_throughput = 12180.242074927954: avg_rsrq  = 26.379310344827587: avg_rsrp  = 50.775862068965516
+
+cell = 4: ue = 6: avg_throughput = 14592.841463414634: avg_rsrq  = 29.63235294117647: avg_rsrp  = 50.26470588235294
+
+cell = 4: ue = 7: avg_throughput = 12936.712727272727: avg_rsrq  = 19.756521739130434: avg_rsrp  = 46.88695652173913
+
+cell = 4: ue = 8: avg_throughput = 13298.76404494382: avg_rsrq  = 29.62162162162162: avg_rsrp  = 52.486486486486484
+
+
+
+cell = 4: ue = 1: avg_throughput = 11466.620689655172: avg_rsrq  = 27.305555555555557: avg_rsrp  = 50.833333333333336
+
+cell = 4: ue = 2: avg_throughput = 12421.30693069307: avg_rsrq  = 27.571428571428573: avg_rsrp  = 48.54761904761905
+
+cell = 4: ue = 3: avg_throughput = 16057.04: avg_rsrq  = 28.612903225806452: avg_rsrp  = 53.67741935483871
+
+cell = 4: ue = 4: avg_throughput = 16269.731343283582: avg_rsrq  = 29.535714285714285: avg_rsrp  = 49.964285714285715
+
+cell = 4: ue = 5: avg_throughput = 13286.297872340425: avg_rsrq  = 28.333333333333332: avg_rsrp  = 53.30769230769231
+
+cell = 4: ue = 6: avg_throughput = 15367.033492822966: avg_rsrq  = 29.402298850574713: avg_rsrp  = 47.54022988505747
+
+cell = 4: ue = 7: avg_throughput = 15844.885714285714: avg_rsrq  = 28.88888888888889: avg_rsrp  = 51.34188034188034
+
+cell = 1: ue = 1: avg_throughput = 16599.08108108108: avg_rsrq  = 26.26086956521739: avg_rsrp  = 58.78260869565217
+
+cell = 1: ue = 2: avg_throughput = 18652.666666666668: avg_rsrq  = 30.686746987951807: avg_rsrp  = 50.45783132530121
+
+cell = 1: ue = 5: avg_throughput = 3708.494117647059: avg_rsrq  = 23.65714285714286: avg_rsrp  = 46.2
+
+cell = 1: ue = 6: avg_throughput = 11802.232044198896: avg_rsrq  = 27.486486486486488: avg_rsrp  = 48.62162162162162
+
+cell = 3: ue = 1: avg_throughput = 18783.141176470588: avg_rsrq  = 11.105263157894736: avg_rsrp  = 52.26315789473684
+
+cell = 3: ue = 3: avg_throughput = 14321.192307692309: avg_rsrq  = 33.0: avg_rsrp  = 51.666666666666664
+
+cell = 2: ue = 1: avg_throughput = 10290.0: avg_rsrq  = 26.0: avg_rsrp  = 54.625
+
+cell = 2: ue = 3: avg_throughput = 12384.105263157895: avg_rsrq  = 28.043478260869566: avg_rsrp  = 46.21739130434783
+
+cell = 2: ue = 4: avg_throughput = 4552.258064516129: avg_rsrq  = 28.23076923076923: avg_rsrp  = 64.3076923076923
+
+cell = 2: ue = 5: avg_throughput = 13036.033195020747: avg_rsrq  = 29.2: avg_rsrp  = 48.42
+
+cell = 5: ue = 3: avg_throughput = 17460.05172413793: avg_rsrq  = 28.854166666666668: avg_rsrp  = 52.0625
+
+cell = 5: ue = 7: avg_throughput = 19380.03761755486: avg_rsrq  = 31.681818181818183: avg_rsrp  = 54.42424242424242
+
+
+
+cell = 1: ue = 1: avg_throughput = 10405.38144329897: avg_rsrq  = 27.875: avg_rsrp  = 50.35
+
+cell = 1: ue = 2: avg_throughput = 10537.8: avg_rsrq  = 29.535714285714285: avg_rsrp  = 53.17857142857143
+
+cell = 1: ue = 3: avg_throughput = 17018.4: avg_rsrq  = 29.29268292682927: avg_rsrp  = 57.073170731707314
+
+cell = 1: ue = 4: avg_throughput = 15293.378048780487: avg_rsrq  = 30.421875: avg_rsrp  = 51.9375
+
+cell = 1: ue = 5: avg_throughput = 3822.0: avg_rsrq  = 27.217391304347824: avg_rsrp  = 61.04347826086956
+
+cell = 1: ue = 7: avg_throughput = 10012.706896551725: avg_rsrq  = 26.974358974358974: avg_rsrp  = 50.38974358974359
+
+cell = 4: ue = 1: avg_throughput = 15858.315789473685: avg_rsrq  = 27.892857142857142: avg_rsrp  = 53.142857142857146
+
+cell = 4: ue = 2: avg_throughput = 4133.505617977528: avg_rsrq  = 26.35135135135135: avg_rsrp  = 49.32432432432432
+
+cell = 4: ue = 3: avg_throughput = 14830.952380952382: avg_rsrq  = 28.632911392405063: avg_rsrp  = 48.0253164556962
+
+cell = 4: ue = 4: avg_throughput = 2587.0344827586205: avg_rsrq  = 23.416666666666668: avg_rsrp  = 49.583333333333336
+
+cell = 4: ue = 5: avg_throughput = 2687.4495412844035: avg_rsrq  = 24.772727272727273: avg_rsrp  = 49.68181818181818
+
+cell = 4: ue = 6: avg_throughput = 16914.953271028036: avg_rsrq  = 29.686567164179106: avg_rsrp  = 51.47761194029851
+
+cell = 4: ue = 7: avg_throughput = 6279.84: avg_rsrq  = 32.4: avg_rsrp  = 65.8
+
+cell = 5: ue = 1: avg_throughput = 15376.632352941177: avg_rsrq  = 28.228070175438596: avg_rsrp  = 51.56140350877193
+
+cell = 3: ue = 2: avg_throughput = 19132.837209302324: avg_rsrq  = 23.88888888888889: avg_rsrp  = 60.0
+
+cell = 3: ue = 3: avg_throughput = 17162.5641025641: avg_rsrq  = 33.0: avg_rsrp  = 60.0
+
+cell = 3: ue = 4: avg_throughput = 17661.981308411214: avg_rsrq  = 25.058823529411764: avg_rsrp  = 57.05882352941177
+
+cell = 3: ue = 5: avg_throughput = 16855.055421686746: avg_rsrq  = 33.0: avg_rsrp  = 60.0
+
+cell = 3: ue = 6: avg_throughput = 19171.25: avg_rsrq  = 33.0: avg_rsrp  = 61.0
+
+cell = 2: ue = 2: avg_throughput = 14072.144144144144: avg_rsrq  = 26.7: avg_rsrp  = 55.7
+
+cell = 2: ue = 5: avg_throughput = 762.2222222222222: avg_rsrq  = 19.133333333333333: avg_rsrp  = 61.46666666666667
+
+cell = 2: ue = 6: avg_throughput = 8508.104347826087: avg_rsrq  = 28.416666666666668: avg_rsrp  = 47.625
+
+cell = 2: ue = 7: avg_throughput = 16426.581818181818: avg_rsrq  = 27.166666666666668: avg_rsrp  = 58.833333333333336
+
+
+
+cell = 4: ue = 1: avg_throughput = 17009.62694300518: avg_rsrq  = 29.9625: avg_rsrp  = 53.9875
+
+cell = 4: ue = 2: avg_throughput = 12355.597633136094: avg_rsrq  = 26.485714285714284: avg_rsrp  = 47.94285714285714
+
+cell = 4: ue = 3: avg_throughput = 12927.456: avg_rsrq  = 26.653846153846153: avg_rsrp  = 50.30769230769231
+
+cell = 4: ue = 4: avg_throughput = 14311.93220338983: avg_rsrq  = 26.324324324324323: avg_rsrp  = 48.513513513513516
+
+cell = 4: ue = 5: avg_throughput = 15829.284403669724: avg_rsrq  = 28.41176470588235: avg_rsrp  = 54.14705882352941
+
+cell = 4: ue = 6: avg_throughput = 12074.506024096385: avg_rsrq  = 28.0: avg_rsrp  = 49.48076923076923
+
+cell = 4: ue = 7: avg_throughput = 13117.404255319148: avg_rsrq  = 27.285714285714285: avg_rsrp  = 51.625
+
+cell = 2: ue = 1: avg_throughput = 22355.042253521126: avg_rsrq  = 29.772727272727273: avg_rsrp  = 50.56818181818182
+
+cell = 2: ue = 2: avg_throughput = 20293.53846153846: avg_rsrq  = 32.31578947368421: avg_rsrp  = 53.21052631578947
+
+cell = 2: ue = 7: avg_throughput = 12755.076923076924: avg_rsrq  = 28.166666666666668: avg_rsrp  = 48.541666666666664
+
+cell = 1: ue = 2: avg_throughput = 17102.088888888888: avg_rsrq  = 30.336283185840706: avg_rsrp  = 51.14159292035398
+
+cell = 1: ue = 3: avg_throughput = 11079.616858237549: avg_rsrq  = 29.62962962962963: avg_rsrp  = 48.68518518518518
+
+cell = 1: ue = 4: avg_throughput = 13804.290155440414: avg_rsrq  = 28.55: avg_rsrp  = 49.075
+
+cell = 1: ue = 6: avg_throughput = 13742.129032258064: avg_rsrq  = 28.0: avg_rsrp  = 60.88235294117647
+
+cell = 1: ue = 7: avg_throughput = 5419.081967213115: avg_rsrq  = 23.25: avg_rsrp  = 47.833333333333336
+
+cell = 3: ue = 2: avg_throughput = 12625.243523316061: avg_rsrq  = 15.882352941176471: avg_rsrp  = 54.23529411764706
+
+cell = 3: ue = 3: avg_throughput = 17841.333333333332: avg_rsrq  = 32.42857142857143: avg_rsrp  = 48.42857142857143
+
+cell = 3: ue = 4: avg_throughput = 15218.67248908297: avg_rsrq  = 27.303030303030305: avg_rsrp  = 46.515151515151516
+
+cell = 3: ue = 6: avg_throughput = 19730.666666666668: avg_rsrq  = 28.384615384615383: avg_rsrp  = 49.53846153846154
+
+cell = 3: ue = 7: avg_throughput = 13574.4: avg_rsrq  = 32.7: avg_rsrp  = 48.0
+
+cell = 5: ue = 5: avg_throughput = 18024.79411764706: avg_rsrq  = 30.104347826086958: avg_rsrp  = 55.29565217391304
+
+
+
+cell = 4: ue = 1: avg_throughput = 15984.631578947368: avg_rsrq  = 30.454545454545453: avg_rsrp  = 50.73426573426573
+
+cell = 4: ue = 2: avg_throughput = 13157.02005730659: avg_rsrq  = 29.438356164383563: avg_rsrp  = 48.63013698630137
+
+cell = 4: ue = 4: avg_throughput = 14183.34677419355: avg_rsrq  = 28.555555555555557: avg_rsrp  = 50.67632850241546
+
+cell = 4: ue = 5: avg_throughput = 19582.956521739132: avg_rsrq  = 29.157894736842106: avg_rsrp  = 58.0
+
+cell = 4: ue = 6: avg_throughput = 1063.968: avg_rsrq  = 24.26923076923077: avg_rsrp  = 48.03846153846154
+
+cell = 4: ue = 7: avg_throughput = 6562.978723404255: avg_rsrq  = 28.121951219512194: avg_rsrp  = 52.63414634146341
+
+cell = 2: ue = 1: avg_throughput = 10660.187919463087: avg_rsrq  = 28.166666666666668: avg_rsrp  = 48.8
+
+cell = 2: ue = 4: avg_throughput = 53.45454545454545: avg_rsrq  = 25.0: avg_rsrp  = 54.0
+
+cell = 2: ue = 7: avg_throughput = 17764.95238095238: avg_rsrq  = 27.41025641025641: avg_rsrp  = 49.30769230769231
+
+cell = 3: ue = 1: avg_throughput = 4306.555555555556: avg_rsrq  = 31.846153846153847: avg_rsrp  = 46.46153846153846
+
+cell = 3: ue = 3: avg_throughput = 19221.121338912133: avg_rsrq  = 32.8: avg_rsrp  = 48.85
+
+cell = 3: ue = 6: avg_throughput = 19817.53846153846: avg_rsrq  = 32.77272727272727: avg_rsrp  = 49.22727272727273
+
+cell = 3: ue = 7: avg_throughput = 19425.958506224066: avg_rsrq  = 28.806451612903224: avg_rsrp  = 52.483870967741936
+
+cell = 1: ue = 2: avg_throughput = 17424.24096385542: avg_rsrq  = 31.807692307692307: avg_rsrp  = 50.42307692307692
+
+cell = 1: ue = 3: avg_throughput = 11193.533333333333: avg_rsrq  = 29.119205298013245: avg_rsrp  = 48.966887417218544
+
+cell = 1: ue = 4: avg_throughput = 15492.521739130434: avg_rsrq  = 27.666666666666668: avg_rsrp  = 55.2
+
+cell = 1: ue = 5: avg_throughput = 17450.798418972332: avg_rsrq  = 30.746478873239436: avg_rsrp  = 51.17370892018779
+
+cell = 1: ue = 6: avg_throughput = 1860.2181818181818: avg_rsrq  = 30.893617021276597: avg_rsrp  = 55.59574468085106
+
+cell = 1: ue = 7: avg_throughput = 16907.57894736842: avg_rsrq  = 29.94736842105263: avg_rsrp  = 61.526315789473685
+
+cell = 5: ue = 7: avg_throughput = 16375.8: avg_rsrq  = 32.0: avg_rsrp  = 57.0
+
+
+
+cell = 4: ue = 1: avg_throughput = 14569.661764705883: avg_rsrq  = 30.16521739130435: avg_rsrp  = 48.4
+
+cell = 4: ue = 2: avg_throughput = 14480.330578512398: avg_rsrq  = 30.665024630541872: avg_rsrp  = 49.06896551724138
+
+cell = 4: ue = 3: avg_throughput = 10272.2: avg_rsrq  = 29.444444444444443: avg_rsrp  = 53.7037037037037
+
+cell = 4: ue = 4: avg_throughput = 14157.291666666666: avg_rsrq  = 30.173553719008265: avg_rsrp  = 48.68595041322314
+
+cell = 4: ue = 5: avg_throughput = 13645.603053435114: avg_rsrq  = 30.36936936936937: avg_rsrp  = 49.34234234234234
+
+cell = 4: ue = 6: avg_throughput = 13109.516129032258: avg_rsrq  = 29.704761904761906: avg_rsrp  = 49.266666666666666
+
+cell = 4: ue = 7: avg_throughput = 18359.08280254777: avg_rsrq  = 30.70149253731343: avg_rsrp  = 54.61194029850746
+
+cell = 1: ue = 1: avg_throughput = 15369.165644171779: avg_rsrq  = 31.235294117647058: avg_rsrp  = 48.794117647058826
+
+cell = 1: ue = 2: avg_throughput = 17633.393258426968: avg_rsrq  = 30.93103448275862: avg_rsrp  = 58.0
+
+cell = 1: ue = 4: avg_throughput = 17330.825806451612: avg_rsrq  = 31.746031746031747: avg_rsrp  = 52.492063492063494
+
+cell = 1: ue = 5: avg_throughput = 16493.772151898735: avg_rsrq  = 30.037037037037038: avg_rsrp  = 58.77777777777778
+
+cell = 1: ue = 6: avg_throughput = 14962.8038585209: avg_rsrq  = 29.66412213740458: avg_rsrp  = 52.587786259541986
+
+cell = 1: ue = 7: avg_throughput = 15488.366666666667: avg_rsrq  = 28.176470588235293: avg_rsrp  = 49.78431372549019
+
+cell = 3: ue = 2: avg_throughput = 12732.461538461539: avg_rsrq  = 31.4: avg_rsrp  = 56.6
+
+cell = 3: ue = 3: avg_throughput = 21945.217993079586: avg_rsrq  = 30.6734693877551: avg_rsrp  = 47.95918367346939
+
+cell = 3: ue = 5: avg_throughput = 20199.39534883721: avg_rsrq  = 31.0: avg_rsrp  = 48.93333333333333
+
+cell = 2: ue = 3: avg_throughput = 16796.76923076923: avg_rsrq  = 30.15714285714286: avg_rsrp  = 51.457142857142856
+
+cell = 2: ue = 6: avg_throughput = 15537.9: avg_rsrq  = 32.5: avg_rsrp  = 65.0
+
+cell = 2: ue = 7: avg_throughput = 20167.0: avg_rsrq  = 31.5: avg_rsrp  = 49.888888888888886
+
+cell = 5: ue = 3: avg_throughput = 17614.8: avg_rsrq  = 31.466666666666665: avg_rsrp  = 55.8
+
+cell = 5: ue = 7: avg_throughput = 20464.36820083682: avg_rsrq  = 30.92079207920792: avg_rsrp  = 54.45544554455446
+
+
+
+cell = 1: ue = 1: avg_throughput = 11915.115789473684: avg_rsrq  = 29.06779661016949: avg_rsrp  = 51.30508474576271
+
+cell = 1: ue = 2: avg_throughput = 13094.76: avg_rsrq  = 27.235294117647058: avg_rsrp  = 55.0
+
+cell = 1: ue = 3: avg_throughput = 14819.356783919598: avg_rsrq  = 29.904: avg_rsrp  = 50.128
+
+cell = 1: ue = 4: avg_throughput = 15111.065502183406: avg_rsrq  = 30.63157894736842: avg_rsrp  = 51.357894736842105
+
+cell = 1: ue = 7: avg_throughput = 13373.355371900827: avg_rsrq  = 28.8: avg_rsrp  = 53.72
+
+cell = 4: ue = 1: avg_throughput = 15834.191082802548: avg_rsrq  = 29.03076923076923: avg_rsrp  = 51.61538461538461
+
+cell = 4: ue = 2: avg_throughput = 4704.9152542372885: avg_rsrq  = 26.64: avg_rsrp  = 50.52
+
+cell = 4: ue = 4: avg_throughput = 14209.04854368932: avg_rsrq  = 28.837209302325583: avg_rsrp  = 60.06976744186046
+
+cell = 4: ue = 5: avg_throughput = 11829.125628140704: avg_rsrq  = 30.168: avg_rsrp  = 48.832
+
+cell = 4: ue = 6: avg_throughput = 14006.36018957346: avg_rsrq  = 30.011363636363637: avg_rsrp  = 51.125
+
+cell = 4: ue = 7: avg_throughput = 10717.243128964059: avg_rsrq  = 29.755102040816325: avg_rsrp  = 48.59183673469388
+
+cell = 3: ue = 2: avg_throughput = 17318.20895522388: avg_rsrq  = 27.470588235294116: avg_rsrp  = 51.8235294117647
+
+cell = 3: ue = 7: avg_throughput = 0.0: avg_rsrq  = 32.0: avg_rsrp  = 51.0
+
+cell = 2: ue = 2: avg_throughput = 15944.173913043478: avg_rsrq  = 28.642857142857142: avg_rsrp  = 51.214285714285715
+
+cell = 2: ue = 6: avg_throughput = 18381.68181818182: avg_rsrq  = 31.405405405405407: avg_rsrp  = 48.62162162162162
+
+cell = 5: ue = 2: avg_throughput = 17840.454545454544: avg_rsrq  = 31.0: avg_rsrp  = 53.333333333333336
+
+cell = 5: ue = 4: avg_throughput = 9196.923076923076: avg_rsrq  = 33.0: avg_rsrp  = 63.75
+
+
+
+cell = 4: ue = 1: avg_throughput = 16182.968609865471: avg_rsrq  = 30.294117647058822: avg_rsrp  = 49.13368983957219
+
+cell = 4: ue = 2: avg_throughput = 15952.295454545454: avg_rsrq  = 30.12: avg_rsrp  = 53.906666666666666
+
+cell = 4: ue = 3: avg_throughput = 14771.739130434782: avg_rsrq  = 30.93220338983051: avg_rsrp  = 54.57627118644068
+
+cell = 4: ue = 4: avg_throughput = 12346.451612903225: avg_rsrq  = 28.11111111111111: avg_rsrp  = 52.25925925925926
+
+cell = 4: ue = 5: avg_throughput = 11272.846153846154: avg_rsrq  = 28.066666666666666: avg_rsrp  = 48.68888888888889
+
+cell = 4: ue = 6: avg_throughput = 17046.861878453037: avg_rsrq  = 29.45751633986928: avg_rsrp  = 51.95424836601307
+
+cell = 4: ue = 7: avg_throughput = 11998.186046511628: avg_rsrq  = 28.72972972972973: avg_rsrp  = 50.945945945945944
+
+cell = 1: ue = 1: avg_throughput = 16383.29411764706: avg_rsrq  = 29.0: avg_rsrp  = 49.815384615384616
+
+cell = 1: ue = 4: avg_throughput = 10454.926829268292: avg_rsrq  = 28.789473684210527: avg_rsrp  = 47.21052631578947
+
+cell = 1: ue = 5: avg_throughput = 15706.083650190114: avg_rsrq  = 30.693693693693692: avg_rsrp  = 49.126126126126124
+
+cell = 1: ue = 6: avg_throughput = 13894.777070063694: avg_rsrq  = 29.35820895522388: avg_rsrp  = 51.04477611940298
+
+cell = 1: ue = 7: avg_throughput = 20713.725752508362: avg_rsrq  = 31.818181818181817: avg_rsrp  = 53.93388429752066
+
+cell = 2: ue = 2: avg_throughput = 14966.386740331493: avg_rsrq  = 30.61038961038961: avg_rsrp  = 48.58441558441559
+
+cell = 2: ue = 3: avg_throughput = 17203.2: avg_rsrq  = 31.4: avg_rsrp  = 48.0
+
+cell = 2: ue = 4: avg_throughput = 14063.803278688525: avg_rsrq  = 29.434782608695652: avg_rsrp  = 60.43478260869565
+
+cell = 2: ue = 6: avg_throughput = 14758.168674698794: avg_rsrq  = 24.542857142857144: avg_rsrp  = 48.0
+
+cell = 2: ue = 7: avg_throughput = 19296.841121495327: avg_rsrq  = 31.044444444444444: avg_rsrp  = 54.17777777777778
+
+cell = 3: ue = 2: avg_throughput = 19011.090909090908: avg_rsrq  = 32.28: avg_rsrp  = 48.16
+
+cell = 3: ue = 4: avg_throughput = 20788.558352402746: avg_rsrq  = 30.37142857142857: avg_rsrp  = 51.74285714285714
+
+cell = 3: ue = 5: avg_throughput = 18625.91379310345: avg_rsrq  = 31.857142857142858: avg_rsrp  = 48.785714285714285
+
+cell = 5: ue = 3: avg_throughput = 19321.289002557543: avg_rsrq  = 31.11042944785276: avg_rsrp  = 53.920245398773005
+
+
+
+cell = 4: ue = 1: avg_throughput = 15428.23395149786: avg_rsrq  = 28.352941176470587: avg_rsrp  = 50.740484429065745
+
+cell = 4: ue = 2: avg_throughput = 16685.379310344826: avg_rsrq  = 29.40650406504065: avg_rsrp  = 49.60162601626016
+
+cell = 4: ue = 3: avg_throughput = 14446.91943127962: avg_rsrq  = 28.84090909090909: avg_rsrp  = 51.63636363636363
+
+cell = 4: ue = 4: avg_throughput = 13489.061728395061: avg_rsrq  = 27.0: avg_rsrp  = 52.94202898550725
+
+cell = 4: ue = 5: avg_throughput = 13888.695652173914: avg_rsrq  = 28.06086956521739: avg_rsrp  = 55.721739130434784
+
+cell = 4: ue = 6: avg_throughput = 16971.183673469386: avg_rsrq  = 29.598039215686274: avg_rsrp  = 50.833333333333336
+
+cell = 4: ue = 7: avg_throughput = 11304.21301775148: avg_rsrq  = 30.112676056338028: avg_rsrp  = 53.098591549295776
+
+cell = 5: ue = 1: avg_throughput = 15561.576736672052: avg_rsrq  = 28.465753424657535: avg_rsrp  = 52.917808219178085
+
+cell = 5: ue = 2: avg_throughput = 18599.06796116505: avg_rsrq  = 30.107692307692307: avg_rsrp  = 54.52307692307692
+
+cell = 5: ue = 5: avg_throughput = 19910.545454545456: avg_rsrq  = 31.568421052631578: avg_rsrp  = 58.06315789473684
+
+cell = 5: ue = 6: avg_throughput = 2241.056603773585: avg_rsrq  = 22.272727272727273: avg_rsrp  = 45.81818181818182
+
+cell = 5: ue = 7: avg_throughput = 20867.608695652172: avg_rsrq  = 31.896551724137932: avg_rsrp  = 56.56896551724138
+
+cell = 1: ue = 1: avg_throughput = 0.0: avg_rsrq  = 31.0: avg_rsrp  = 52.0
+
+cell = 1: ue = 3: avg_throughput = 18829.066666666666: avg_rsrq  = 27.76923076923077: avg_rsrp  = 62.46153846153846
+
+cell = 1: ue = 5: avg_throughput = 17323.870967741936: avg_rsrq  = 32.4: avg_rsrp  = 56.2
+
+cell = 1: ue = 6: avg_throughput = 2673.684210526316: avg_rsrq  = 22.833333333333332: avg_rsrp  = 48.166666666666664
+
+cell = 1: ue = 7: avg_throughput = 4777.2467532467535: avg_rsrq  = 24.1875: avg_rsrp  = 46.3125
+
+cell = 3: ue = 3: avg_throughput = 24012.91914893617: avg_rsrq  = 27.857142857142858: avg_rsrp  = 65.71428571428571
+
+cell = 3: ue = 4: avg_throughput = 16595.25: avg_rsrq  = 32.84615384615385: avg_rsrp  = 48.23076923076923
+
+cell = 2: ue = 3: avg_throughput = 12315.927272727273: avg_rsrq  = 26.8: avg_rsrp  = 55.55
+
+cell = 2: ue = 4: avg_throughput = 10164.523364485982: avg_rsrq  = 26.0: avg_rsrp  = 45.26
+
+
+
+cell = 4: ue = 1: avg_throughput = 11149.714285714286: avg_rsrq  = 25.75609756097561: avg_rsrp  = 54.48780487804878
+
+cell = 4: ue = 2: avg_throughput = 12432.179104477613: avg_rsrq  = 27.157894736842106: avg_rsrp  = 52.05263157894737
+
+cell = 4: ue = 3: avg_throughput = 13692.947368421053: avg_rsrq  = 28.968553459119498: avg_rsrp  = 49.138364779874216
+
+cell = 4: ue = 4: avg_throughput = 8188.054794520548: avg_rsrq  = 26.41269841269841: avg_rsrp  = 51.42857142857143
+
+cell = 4: ue = 5: avg_throughput = 12845.503480278423: avg_rsrq  = 26.793357933579337: avg_rsrp  = 49.18450184501845
+
+cell = 4: ue = 6: avg_throughput = 14392.030959752323: avg_rsrq  = 19.170454545454547: avg_rsrp  = 46.64772727272727
+
+cell = 4: ue = 7: avg_throughput = 15467.269565217392: avg_rsrq  = 29.75862068965517: avg_rsrp  = 52.0551724137931
+
+cell = 1: ue = 1: avg_throughput = 18703.92546583851: avg_rsrq  = 31.525925925925925: avg_rsrp  = 52.51851851851852
+
+cell = 1: ue = 5: avg_throughput = 6410.181818181818: avg_rsrq  = 27.148936170212767: avg_rsrp  = 50.53191489361702
+
+cell = 1: ue = 6: avg_throughput = 6729.375: avg_rsrq  = 25.25925925925926: avg_rsrp  = 49.77777777777778
+
+cell = 2: ue = 1: avg_throughput = 11922.83076923077: avg_rsrq  = 24.88888888888889: avg_rsrp  = 54.666666666666664
+
+cell = 2: ue = 2: avg_throughput = 17397.346478873238: avg_rsrq  = 20.75: avg_rsrp  = 48.885714285714286
+
+cell = 2: ue = 4: avg_throughput = 15684.104109589041: avg_rsrq  = 27.629139072847682: avg_rsrp  = 49.741721854304636
+
+cell = 2: ue = 6: avg_throughput = 13048.77519379845: avg_rsrq  = 25.037735849056602: avg_rsrp  = 43.41509433962264
+
+cell = 2: ue = 7: avg_throughput = 11140.429530201342: avg_rsrq  = 29.06451612903226: avg_rsrp  = 51.096774193548384
+
+cell = 5: ue = 1: avg_throughput = 19446.0: avg_rsrq  = 31.944444444444443: avg_rsrp  = 56.833333333333336
+
+cell = 5: ue = 3: avg_throughput = 17049.31506849315: avg_rsrq  = 31.288888888888888: avg_rsrp  = 56.0
+
+cell = 5: ue = 4: avg_throughput = 15921.23076923077: avg_rsrq  = 29.625: avg_rsrp  = 54.02777777777778
+
+cell = 5: ue = 5: avg_throughput = 12463.318965517241: avg_rsrq  = 21.41176470588235: avg_rsrp  = 46.26470588235294
+
+cell = 5: ue = 6: avg_throughput = 16570.50193050193: avg_rsrq  = 30.03669724770642: avg_rsrp  = 52.669724770642205
+
+cell = 5: ue = 7: avg_throughput = 11560.301886792453: avg_rsrq  = 28.0: avg_rsrp  = 55.666666666666664
+
+cell = 3: ue = 2: avg_throughput = 18160.495468277946: avg_rsrq  = 30.52777777777778: avg_rsrp  = 48.648148148148145
+
+cell = 3: ue = 6: avg_throughput = 14700.0: avg_rsrq  = 32.5: avg_rsrp  = 48.0
+
+
+
+cell = 4: ue = 1: avg_throughput = 14769.970588235294: avg_rsrq  = 29.050847457627118: avg_rsrp  = 48.779661016949156
+
+cell = 4: ue = 2: avg_throughput = 19939.539033457248: avg_rsrq  = 30.54954954954955: avg_rsrp  = 55.0990990990991
+
+cell = 4: ue = 3: avg_throughput = 16759.960975609756: avg_rsrq  = 29.602272727272727: avg_rsrp  = 55.51136363636363
+
+cell = 4: ue = 4: avg_throughput = 11376.916666666666: avg_rsrq  = 27.83606557377049: avg_rsrp  = 49.540983606557376
+
+cell = 4: ue = 5: avg_throughput = 2313.8571428571427: avg_rsrq  = 26.307692307692307: avg_rsrp  = 48.76923076923077
+
+cell = 4: ue = 6: avg_throughput = 17033.40350877193: avg_rsrq  = 30.39160839160839: avg_rsrp  = 49.75524475524475
+
+cell = 4: ue = 7: avg_throughput = 15733.50857142857: avg_rsrq  = 30.408163265306122: avg_rsrp  = 50.006802721088434
+
+cell = 1: ue = 1: avg_throughput = 15903.939524838013: avg_rsrq  = 30.88082901554404: avg_rsrp  = 49.52849740932643
+
+cell = 1: ue = 2: avg_throughput = 9565.5: avg_rsrq  = 26.666666666666668: avg_rsrp  = 50.4
+
+cell = 1: ue = 3: avg_throughput = 10784.924623115578: avg_rsrq  = 30.36144578313253: avg_rsrp  = 52.19277108433735
+
+cell = 1: ue = 4: avg_throughput = 15828.0: avg_rsrq  = 31.285714285714285: avg_rsrp  = 55.698412698412696
+
+cell = 1: ue = 5: avg_throughput = 14671.081967213115: avg_rsrq  = 31.652694610778443: avg_rsrp  = 51.131736526946106
+
+cell = 1: ue = 6: avg_throughput = 19312.954838709677: avg_rsrq  = 30.78688524590164: avg_rsrp  = 53.81967213114754
+
+cell = 1: ue = 7: avg_throughput = 18988.09756097561: avg_rsrq  = 29.333333333333332: avg_rsrp  = 62.733333333333334
+
+cell = 5: ue = 2: avg_throughput = 21891.538983050847: avg_rsrq  = 30.991869918699187: avg_rsrp  = 54.77235772357724
+
+cell = 5: ue = 3: avg_throughput = 19881.0: avg_rsrq  = 31.833333333333332: avg_rsrp  = 56.833333333333336
+
+cell = 5: ue = 5: avg_throughput = 15876.0: avg_rsrq  = 29.833333333333332: avg_rsrp  = 56.333333333333336
+
+cell = 2: ue = 2: avg_throughput = 5409.6: avg_rsrq  = 24.0: avg_rsrp  = 49.0
+
+cell = 2: ue = 4: avg_throughput = 215.6: avg_rsrq  = 30.384615384615383: avg_rsrp  = 45.46153846153846
+
+cell = 2: ue = 5: avg_throughput = 16392.29268292683: avg_rsrq  = 30.654545454545456: avg_rsrp  = 57.6
+
+cell = 2: ue = 7: avg_throughput = 6314.608695652174: avg_rsrq  = 24.90909090909091: avg_rsrp  = 53.09090909090909
+
+cell = 3: ue = 4: avg_throughput = 19611.807228915663: avg_rsrq  = 30.46511627906977: avg_rsrp  = 50.0
+
+cell = 3: ue = 6: avg_throughput = 14705.708737864077: avg_rsrq  = 30.6046511627907: avg_rsrp  = 49.44186046511628
+
+cell = 3: ue = 7: avg_throughput = 19210.860215053763: avg_rsrq  = 31.666666666666668: avg_rsrp  = 66.0
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 4: ue = 1: avg_throughput = 15612.03870967742: avg_rsrq  = 30.106870229007633: avg_rsrp  = 51.656488549618324
+
+cell = 4: ue = 2: avg_throughput = 14446.377358490567: avg_rsrq  = 28.345864661654137: avg_rsrp  = 49.0
+
+cell = 4: ue = 3: avg_throughput = 11592.868217054263: avg_rsrq  = 27.345454545454544: avg_rsrp  = 49.527272727272724
+
+cell = 4: ue = 4: avg_throughput = 15188.934306569343: avg_rsrq  = 30.452173913043477: avg_rsrp  = 51.321739130434786
+
+cell = 4: ue = 5: avg_throughput = 16158.295918367347: avg_rsrq  = 29.56969696969697: avg_rsrp  = 52.13333333333333
+
+cell = 4: ue = 6: avg_throughput = 15726.661764705883: avg_rsrq  = 30.334801762114537: avg_rsrp  = 48.27312775330397
+
+cell = 4: ue = 7: avg_throughput = 14962.658385093167: avg_rsrq  = 29.748148148148147: avg_rsrp  = 49.02962962962963
+
+cell = 2: ue = 1: avg_throughput = 17341.01694915254: avg_rsrq  = 30.88235294117647: avg_rsrp  = 61.94117647058823
+
+cell = 2: ue = 4: avg_throughput = 15101.158878504673: avg_rsrq  = 29.6: avg_rsrp  = 53.62222222222222
+
+cell = 3: ue = 1: avg_throughput = 19787.478260869564: avg_rsrq  = 30.76923076923077: avg_rsrp  = 52.15384615384615
+
+cell = 3: ue = 3: avg_throughput = 17318.56: avg_rsrq  = 28.242424242424242: avg_rsrp  = 47.81818181818182
+
+cell = 3: ue = 4: avg_throughput = 16439.835616438355: avg_rsrq  = 32.63636363636363: avg_rsrp  = 48.45454545454545
+
+cell = 3: ue = 7: avg_throughput = 19230.129032258064: avg_rsrq  = 32.54545454545455: avg_rsrp  = 54.54545454545455
+
+cell = 5: ue = 2: avg_throughput = 19881.096085409252: avg_rsrq  = 30.93103448275862: avg_rsrp  = 55.310344827586206
+
+cell = 5: ue = 5: avg_throughput = 18997.797101449276: avg_rsrq  = 30.93103448275862: avg_rsrp  = 54.91954022988506
+
+cell = 1: ue = 3: avg_throughput = 15977.501675977654: avg_rsrq  = 27.67539267015707: avg_rsrp  = 50.31937172774869
+
+cell = 1: ue = 6: avg_throughput = 18738.33962264151: avg_rsrq  = 30.63157894736842: avg_rsrp  = 62.21052631578947
+
+cell = 1: ue = 7: avg_throughput = 17549.53846153846: avg_rsrq  = 30.0: avg_rsrp  = 57.225806451612904
+
+
+
+cell = 1: ue = 1: avg_throughput = 16840.725440806047: avg_rsrq  = 30.197604790419163: avg_rsrp  = 52.73053892215569
+
+cell = 1: ue = 3: avg_throughput = 15689.158878504673: avg_rsrq  = 28.666666666666668: avg_rsrp  = 54.266666666666666
+
+cell = 1: ue = 5: avg_throughput = 14370.219435736677: avg_rsrq  = 29.772727272727273: avg_rsrp  = 51.621212121212125
+
+cell = 1: ue = 7: avg_throughput = 1727.2131147540983: avg_rsrq  = 23.25: avg_rsrp  = 47.833333333333336
+
+cell = 3: ue = 1: avg_throughput = 14908.551724137931: avg_rsrq  = 29.5: avg_rsrp  = 51.18421052631579
+
+cell = 3: ue = 2: avg_throughput = 13421.395973154362: avg_rsrq  = 28.161290322580644: avg_rsrp  = 45.45161290322581
+
+cell = 4: ue = 2: avg_throughput = 11034.935779816513: avg_rsrq  = 27.355555555555554: avg_rsrp  = 50.08888888888889
+
+cell = 4: ue = 3: avg_throughput = 4284.184615384615: avg_rsrq  = 22.925925925925927: avg_rsrp  = 47.48148148148148
+
+cell = 4: ue = 4: avg_throughput = 17212.190476190477: avg_rsrq  = 29.899328859060404: avg_rsrp  = 53.20134228187919
+
+cell = 4: ue = 5: avg_throughput = 13024.2: avg_rsrq  = 29.396551724137932: avg_rsrp  = 50.189655172413794
+
+cell = 4: ue = 6: avg_throughput = 16252.818181818182: avg_rsrq  = 30.163636363636364: avg_rsrp  = 56.74545454545454
+
+cell = 4: ue = 7: avg_throughput = 13621.324137931035: avg_rsrq  = 30.666666666666668: avg_rsrp  = 52.72357723577236
+
+cell = 2: ue = 2: avg_throughput = 14048.909871244636: avg_rsrq  = 28.27906976744186: avg_rsrp  = 53.02325581395349
+
+cell = 2: ue = 3: avg_throughput = 16662.82093663912: avg_rsrq  = 32.026666666666664: avg_rsrp  = 53.82666666666667
+
+cell = 2: ue = 4: avg_throughput = 16092.441717791411: avg_rsrq  = 29.52173913043478: avg_rsrp  = 50.14492753623188
+
+cell = 2: ue = 6: avg_throughput = 6716.556962025316: avg_rsrq  = 27.09090909090909: avg_rsrp  = 48.63636363636363
+
+cell = 2: ue = 7: avg_throughput = 17710.56: avg_rsrq  = 32.292682926829265: avg_rsrp  = 51.390243902439025
+
+cell = 5: ue = 4: avg_throughput = 14001.58371040724: avg_rsrq  = 18.508196721311474: avg_rsrp  = 46.721311475409834
+
+cell = 5: ue = 6: avg_throughput = 15895.709497206704: avg_rsrq  = 30.013333333333332: avg_rsrp  = 54.986666666666665
+
+cell = 5: ue = 7: avg_throughput = 6156.0: avg_rsrq  = 24.272727272727273: avg_rsrp  = 53.90909090909091
+
+
+
+cell = 4: ue = 1: avg_throughput = 13164.273615635178: avg_rsrq  = 28.859375: avg_rsrp  = 49.296875
+
+cell = 4: ue = 2: avg_throughput = 14505.42857142857: avg_rsrq  = 28.557377049180328: avg_rsrp  = 48.14754098360656
+
+cell = 4: ue = 3: avg_throughput = 13450.055555555555: avg_rsrq  = 29.910569105691057: avg_rsrp  = 51.96747967479675
+
+cell = 4: ue = 4: avg_throughput = 4162.615384615385: avg_rsrq  = 25.375: avg_rsrp  = 50.75
+
+cell = 4: ue = 5: avg_throughput = 12757.2: avg_rsrq  = 28.80722891566265: avg_rsrp  = 53.8433734939759
+
+cell = 4: ue = 6: avg_throughput = 12898.130653266331: avg_rsrq  = 28.69047619047619: avg_rsrp  = 53.666666666666664
+
+cell = 4: ue = 7: avg_throughput = 7153.2786885245905: avg_rsrq  = 26.6: avg_rsrp  = 49.6
+
+cell = 5: ue = 1: avg_throughput = 16139.794520547945: avg_rsrq  = 30.166666666666668: avg_rsrp  = 53.65
+
+cell = 5: ue = 3: avg_throughput = 17430.13504823151: avg_rsrq  = 30.171875: avg_rsrp  = 54.265625
+
+cell = 5: ue = 6: avg_throughput = 17954.58: avg_rsrq  = 29.29268292682927: avg_rsrp  = 52.146341463414636
+
+cell = 1: ue = 2: avg_throughput = 10867.028571428571: avg_rsrq  = 27.581196581196583: avg_rsrp  = 51.27350427350427
+
+cell = 1: ue = 4: avg_throughput = 16317.731343283582: avg_rsrq  = 28.714285714285715: avg_rsrp  = 50.095238095238095
+
+cell = 1: ue = 7: avg_throughput = 17238.56090651558: avg_rsrq  = 31.38095238095238: avg_rsrp  = 50.795918367346935
+
+cell = 3: ue = 2: avg_throughput = 7578.666666666667: avg_rsrq  = 33.0: avg_rsrp  = 56.666666666666664
+
+cell = 3: ue = 4: avg_throughput = 10449.85: avg_rsrq  = 29.166666666666668: avg_rsrp  = 46.708333333333336
+
+cell = 3: ue = 5: avg_throughput = 19378.63529411765: avg_rsrq  = 28.03448275862069: avg_rsrp  = 53.41379310344828
+
+cell = 3: ue = 7: avg_throughput = 10810.947368421053: avg_rsrq  = 24.1: avg_rsrp  = 57.7
+
+cell = 2: ue = 5: avg_throughput = 15734.70337922403: avg_rsrq  = 23.95798319327731: avg_rsrp  = 54.1764705882353
+
+cell = 2: ue = 6: avg_throughput = 19237.353233830847: avg_rsrq  = 29.073170731707318: avg_rsrp  = 48.78048780487805
+
+cell = 2: ue = 7: avg_throughput = 16922.29411764706: avg_rsrq  = 32.285714285714285: avg_rsrp  = 53.285714285714285
+
+
+
+cell = 4: ue = 1: avg_throughput = 9422.976: avg_rsrq  = 27.115384615384617: avg_rsrp  = 52.80769230769231
+
+cell = 4: ue = 2: avg_throughput = 9146.03305785124: avg_rsrq  = 28.04: avg_rsrp  = 48.96
+
+cell = 4: ue = 3: avg_throughput = 12985.5625: avg_rsrq  = 30.62962962962963: avg_rsrp  = 54.111111111111114
+
+cell = 4: ue = 4: avg_throughput = 7477.401459854014: avg_rsrq  = 25.678571428571427: avg_rsrp  = 47.82142857142857
+
+cell = 4: ue = 5: avg_throughput = 10564.358974358975: avg_rsrq  = 28.86868686868687: avg_rsrp  = 52.494949494949495
+
+cell = 4: ue = 6: avg_throughput = 12443.58878504673: avg_rsrq  = 29.388059701492537: avg_rsrp  = 48.88059701492537
+
+cell = 4: ue = 7: avg_throughput = 16342.78947368421: avg_rsrq  = 31.3125: avg_rsrp  = 50.375
+
+cell = 2: ue = 1: avg_throughput = 14231.847133757961: avg_rsrq  = 28.151515151515152: avg_rsrp  = 49.45454545454545
+
+cell = 2: ue = 3: avg_throughput = 8440.472727272727: avg_rsrq  = 27.26086956521739: avg_rsrp  = 44.26086956521739
+
+cell = 2: ue = 5: avg_throughput = 18150.527027027027: avg_rsrq  = 26.580645161290324: avg_rsrp  = 49.24193548387097
+
+cell = 2: ue = 6: avg_throughput = 24411.925925925927: avg_rsrq  = 31.82608695652174: avg_rsrp  = 47.73913043478261
+
+cell = 3: ue = 1: avg_throughput = 15311.41592920354: avg_rsrq  = 29.333333333333332: avg_rsrp  = 49.333333333333336
+
+cell = 3: ue = 2: avg_throughput = 19308.57894736842: avg_rsrq  = 32.43478260869565: avg_rsrp  = 49.391304347826086
+
+cell = 3: ue = 3: avg_throughput = 15636.444444444445: avg_rsrq  = 32.57142857142857: avg_rsrp  = 47.857142857142854
+
+cell = 3: ue = 4: avg_throughput = 19770.0: avg_rsrq  = 32.666666666666664: avg_rsrp  = 57.333333333333336
+
+cell = 1: ue = 1: avg_throughput = 18406.956521739132: avg_rsrq  = 32.0: avg_rsrp  = 50.473684210526315
+
+cell = 1: ue = 2: avg_throughput = 13884.093023255815: avg_rsrq  = 28.85185185185185: avg_rsrp  = 52.74074074074074
+
+cell = 1: ue = 4: avg_throughput = 16782.5: avg_rsrq  = 30.760563380281692: avg_rsrp  = 53.29577464788732
+
+cell = 1: ue = 7: avg_throughput = 16894.122605363984: avg_rsrq  = 30.14814814814815: avg_rsrp  = 50.157407407407405
+
+cell = 5: ue = 3: avg_throughput = 15176.589473684211: avg_rsrq  = 29.17948717948718: avg_rsrp  = 53.51282051282051
+
+cell = 5: ue = 5: avg_throughput = 14815.94366197183: avg_rsrq  = 26.3943661971831: avg_rsrp  = 51.816901408450704
+
+cell = 5: ue = 6: avg_throughput = 15239.576470588236: avg_rsrq  = 29.02857142857143: avg_rsrp  = 54.457142857142856
+
+
+
+cell = 4: ue = 1: avg_throughput = 9720.422287390029: avg_rsrq  = 29.225352112676056: avg_rsrp  = 48.901408450704224
+
+cell = 4: ue = 2: avg_throughput = 12272.423841059603: avg_rsrq  = 27.577235772357724: avg_rsrp  = 52.83739837398374
+
+cell = 4: ue = 3: avg_throughput = 11973.23076923077: avg_rsrq  = 28.623376623376622: avg_rsrp  = 53.90909090909091
+
+cell = 4: ue = 4: avg_throughput = 19517.8064516129: avg_rsrq  = 29.921875: avg_rsrp  = 54.71875
+
+cell = 4: ue = 5: avg_throughput = 5136.5504587155965: avg_rsrq  = 25.652173913043477: avg_rsrp  = 51.30434782608695
+
+cell = 4: ue = 6: avg_throughput = 1207.948051948052: avg_rsrq  = 24.125: avg_rsrp  = 50.125
+
+cell = 4: ue = 7: avg_throughput = 5911.450980392156: avg_rsrq  = 25.875: avg_rsrp  = 47.78125
+
+cell = 1: ue = 1: avg_throughput = 13239.8: avg_rsrq  = 24.235294117647058: avg_rsrp  = 59.0
+
+cell = 1: ue = 3: avg_throughput = 12489.698630136987: avg_rsrq  = 25.833333333333332: avg_rsrp  = 48.46666666666667
+
+cell = 1: ue = 4: avg_throughput = 3883.890410958904: avg_rsrq  = 23.333333333333332: avg_rsrp  = 48.6
+
+cell = 1: ue = 6: avg_throughput = 5000.910891089109: avg_rsrq  = 27.42105263157895: avg_rsrp  = 55.473684210526315
+
+cell = 1: ue = 7: avg_throughput = 15202.141592920354: avg_rsrq  = 29.340425531914892: avg_rsrp  = 47.765957446808514
+
+cell = 3: ue = 5: avg_throughput = 18954.98181818182: avg_rsrq  = 29.5625: avg_rsrp  = 48.96875
+
+cell = 3: ue = 6: avg_throughput = 19061.31210191083: avg_rsrq  = 29.029411764705884: avg_rsrp  = 46.11764705882353
+
+cell = 3: ue = 7: avg_throughput = 22007.236363636363: avg_rsrq  = 32.75: avg_rsrp  = 51.5
+
+cell = 5: ue = 2: avg_throughput = 23303.77027027027: avg_rsrq  = 31.366666666666667: avg_rsrp  = 55.75
+
+cell = 5: ue = 3: avg_throughput = 19231.828767123287: avg_rsrq  = 28.223140495867767: avg_rsrp  = 53.01652892561984
+
+cell = 5: ue = 4: avg_throughput = 19309.16129032258: avg_rsrq  = 29.22222222222222: avg_rsrp  = 55.422222222222224
+
+cell = 5: ue = 6: avg_throughput = 65.33333333333333: avg_rsrq  = 33.0: avg_rsrp  = 65.0
+
+cell = 2: ue = 5: avg_throughput = 12680.347826086956: avg_rsrq  = 27.766666666666666: avg_rsrp  = 57.3
+
+cell = 2: ue = 6: avg_throughput = 11224.92: avg_rsrq  = 27.8: avg_rsrp  = 50.8
+
+
+
+cell = 1: ue = 1: avg_throughput = 14809.840707964602: avg_rsrq  = 31.44705882352941: avg_rsrp  = 52.63529411764706
+
+cell = 1: ue = 2: avg_throughput = 11335.744680851063: avg_rsrq  = 31.04: avg_rsrp  = 59.8
+
+cell = 1: ue = 3: avg_throughput = 11631.009174311926: avg_rsrq  = 30.524390243902438: avg_rsrp  = 50.19512195121951
+
+cell = 1: ue = 4: avg_throughput = 11561.5: avg_rsrq  = 29.973214285714285: avg_rsrp  = 52.0625
+
+cell = 1: ue = 5: avg_throughput = 15331.055555555555: avg_rsrq  = 30.96078431372549: avg_rsrp  = 51.833333333333336
+
+cell = 1: ue = 6: avg_throughput = 16036.8281938326: avg_rsrq  = 31.238888888888887: avg_rsrp  = 51.67777777777778
+
+cell = 1: ue = 7: avg_throughput = 15944.027972027972: avg_rsrq  = 30.546666666666667: avg_rsrp  = 51.15555555555556
+
+cell = 1: ue = 8: avg_throughput = 15450.467605633803: avg_rsrq  = 30.667796610169493: avg_rsrp  = 50.60677966101695
+
+cell = 3: ue = 1: avg_throughput = 16439.204819277107: avg_rsrq  = 28.833333333333332: avg_rsrp  = 55.75
+
+cell = 3: ue = 2: avg_throughput = 17456.46017699115: avg_rsrq  = 30.583333333333332: avg_rsrp  = 55.888888888888886
+
+cell = 3: ue = 3: avg_throughput = 17794.212765957447: avg_rsrq  = 31.12676056338028: avg_rsrp  = 47.71830985915493
+
+cell = 3: ue = 4: avg_throughput = 18622.8: avg_rsrq  = 31.602739726027398: avg_rsrp  = 46.945205479452056
+
+cell = 3: ue = 5: avg_throughput = 17298.58064516129: avg_rsrq  = 30.714285714285715: avg_rsrp  = 49.64835164835165
+
+cell = 3: ue = 6: avg_throughput = 17995.53488372093: avg_rsrq  = 30.035714285714285: avg_rsrp  = 57.92857142857143
+
+cell = 3: ue = 7: avg_throughput = 19848.0625: avg_rsrq  = 29.595238095238095: avg_rsrp  = 53.61904761904762
+
+cell = 3: ue = 8: avg_throughput = 14515.2: avg_rsrq  = 29.47826086956522: avg_rsrp  = 59.65217391304348
+
+cell = 2: ue = 1: avg_throughput = 15774.9375: avg_rsrq  = 31.054054054054053: avg_rsrp  = 50.479729729729726
+
+cell = 2: ue = 2: avg_throughput = 13896.878048780487: avg_rsrq  = 30.204918032786885: avg_rsrp  = 52.81147540983606
+
+cell = 2: ue = 3: avg_throughput = 19819.90243902439: avg_rsrq  = 31.100775193798448: avg_rsrp  = 50.16279069767442
+
+cell = 2: ue = 4: avg_throughput = 14357.671232876712: avg_rsrq  = 30.18942731277533: avg_rsrp  = 49.38766519823788
+
+cell = 2: ue = 5: avg_throughput = 14263.2: avg_rsrq  = 30.197802197802197: avg_rsrp  = 52.505494505494504
+
+cell = 2: ue = 6: avg_throughput = 11309.617021276596: avg_rsrq  = 30.862068965517242: avg_rsrp  = 48.87931034482759
+
+cell = 2: ue = 7: avg_throughput = 11718.736842105263: avg_rsrq  = 30.8: avg_rsrp  = 51.55555555555556
+
+cell = 2: ue = 8: avg_throughput = 19039.857868020306: avg_rsrq  = 31.58503401360544: avg_rsrp  = 51.734693877551024
+
+cell = 5: ue = 1: avg_throughput = 17586.301369863013: avg_rsrq  = 31.01685393258427: avg_rsrp  = 53.76966292134831
+
+cell = 5: ue = 2: avg_throughput = 15890.90322580645: avg_rsrq  = 30.5974025974026: avg_rsrp  = 54.422077922077925
+
+cell = 5: ue = 3: avg_throughput = 11153.032258064517: avg_rsrq  = 29.91111111111111: avg_rsrp  = 60.15555555555556
+
+cell = 5: ue = 4: avg_throughput = 13778.8: avg_rsrq  = 29.71264367816092: avg_rsrp  = 56.298850574712645
+
+cell = 5: ue = 5: avg_throughput = 20136.869565217392: avg_rsrq  = 32.06122448979592: avg_rsrp  = 58.46938775510204
+
+cell = 5: ue = 7: avg_throughput = 17898.935779816515: avg_rsrq  = 30.31764705882353: avg_rsrp  = 55.6
+
+cell = 4: ue = 2: avg_throughput = 12816.461538461539: avg_rsrq  = 30.467105263157894: avg_rsrp  = 51.60526315789474
+
+cell = 4: ue = 3: avg_throughput = 15164.540925266903: avg_rsrq  = 29.87772925764192: avg_rsrp  = 52.248908296943235
+
+cell = 4: ue = 4: avg_throughput = 5201.538461538462: avg_rsrq  = 25.547619047619047: avg_rsrp  = 47.333333333333336
+
+cell = 4: ue = 5: avg_throughput = 14578.62385321101: avg_rsrq  = 29.451428571428572: avg_rsrp  = 53.21714285714286
+
+cell = 4: ue = 6: avg_throughput = 15853.933503836317: avg_rsrq  = 30.64437689969605: avg_rsrp  = 50.52279635258358
+
+cell = 4: ue = 7: avg_throughput = 15269.739130434782: avg_rsrq  = 28.81021897810219: avg_rsrp  = 52.1021897810219
+
+cell = 4: ue = 8: avg_throughput = 17190.833333333332: avg_rsrq  = 30.417142857142856: avg_rsrp  = 51.42857142857143
+
+
+
+cell = 4: ue = 1: avg_throughput = 12327.768595041322: avg_rsrq  = 26.0: avg_rsrp  = 48.88
+
+cell = 4: ue = 2: avg_throughput = 12655.91489361702: avg_rsrq  = 27.79310344827586: avg_rsrp  = 53.13793103448276
+
+cell = 4: ue = 3: avg_throughput = 15110.100719424461: avg_rsrq  = 29.60919540229885: avg_rsrp  = 50.701149425287355
+
+cell = 4: ue = 4: avg_throughput = 13114.360248447205: avg_rsrq  = 28.272727272727273: avg_rsrp  = 49.27272727272727
+
+cell = 4: ue = 5: avg_throughput = 14246.365217391305: avg_rsrq  = 29.154929577464788: avg_rsrp  = 48.08450704225352
+
+cell = 4: ue = 6: avg_throughput = 14479.793103448275: avg_rsrq  = 29.77777777777778: avg_rsrp  = 55.888888888888886
+
+cell = 4: ue = 7: avg_throughput = 14551.872832369942: avg_rsrq  = 28.87074829931973: avg_rsrp  = 52.02721088435374
+
+cell = 1: ue = 1: avg_throughput = 15613.978947368421: avg_rsrq  = 29.8135593220339: avg_rsrp  = 47.83050847457627
+
+cell = 1: ue = 4: avg_throughput = 17691.013698630137: avg_rsrq  = 29.846153846153847: avg_rsrp  = 50.0
+
+cell = 1: ue = 5: avg_throughput = 19042.466403162056: avg_rsrq  = 31.77358490566038: avg_rsrp  = 50.83018867924528
+
+cell = 3: ue = 1: avg_throughput = 19778.73575129534: avg_rsrq  = 32.75: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 16731.01661129568: avg_rsrq  = 29.91304347826087: avg_rsrp  = 50.594202898550726
+
+cell = 2: ue = 2: avg_throughput = 11880.981132075472: avg_rsrq  = 29.0: avg_rsrp  = 54.3448275862069
+
+cell = 2: ue = 6: avg_throughput = 10325.777777777777: avg_rsrq  = 29.128205128205128: avg_rsrp  = 49.56410256410256
+
+cell = 2: ue = 7: avg_throughput = 19927.42196531792: avg_rsrq  = 29.63888888888889: avg_rsrp  = 50.44444444444444
+
+cell = 5: ue = 3: avg_throughput = 14832.21978021978: avg_rsrq  = 29.18421052631579: avg_rsrp  = 52.78947368421053
+
+cell = 5: ue = 6: avg_throughput = 16593.01265822785: avg_rsrq  = 30.306122448979593: avg_rsrp  = 56.12244897959184
+
+cell = 5: ue = 7: avg_throughput = 13257.762711864407: avg_rsrq  = 18.29230769230769: avg_rsrp  = 47.09230769230769
+
+
+
+cell = 4: ue = 1: avg_throughput = 7983.627906976744: avg_rsrq  = 27.885714285714286: avg_rsrp  = 48.0
+
+cell = 4: ue = 2: avg_throughput = 17924.426666666666: avg_rsrq  = 30.07079646017699: avg_rsrp  = 50.11504424778761
+
+cell = 4: ue = 3: avg_throughput = 16700.896551724138: avg_rsrq  = 30.192857142857143: avg_rsrp  = 51.22142857142857
+
+cell = 4: ue = 4: avg_throughput = 13768.051948051949: avg_rsrq  = 30.655405405405407: avg_rsrp  = 53.0
+
+cell = 4: ue = 5: avg_throughput = 13862.820512820514: avg_rsrq  = 29.20740740740741: avg_rsrp  = 51.77777777777778
+
+cell = 4: ue = 6: avg_throughput = 15153.284671532847: avg_rsrq  = 30.7: avg_rsrp  = 49.43333333333333
+
+cell = 4: ue = 7: avg_throughput = 10656.495867768595: avg_rsrq  = 30.271929824561404: avg_rsrp  = 48.780701754385966
+
+cell = 1: ue = 1: avg_throughput = 13518.4875: avg_rsrq  = 30.45394736842105: avg_rsrp  = 49.348684210526315
+
+cell = 1: ue = 2: avg_throughput = 15275.422459893049: avg_rsrq  = 30.80225988700565: avg_rsrp  = 51.186440677966104
+
+cell = 1: ue = 3: avg_throughput = 17145.148514851484: avg_rsrq  = 30.341463414634145: avg_rsrp  = 55.646341463414636
+
+cell = 1: ue = 5: avg_throughput = 16749.40350877193: avg_rsrq  = 30.818713450292396: avg_rsrp  = 52.71345029239766
+
+cell = 1: ue = 7: avg_throughput = 14709.453376205787: avg_rsrq  = 30.315151515151516: avg_rsrp  = 51.18181818181818
+
+cell = 3: ue = 1: avg_throughput = 15737.64705882353: avg_rsrq  = 29.721311475409838: avg_rsrp  = 50.950819672131146
+
+cell = 3: ue = 3: avg_throughput = 15641.888888888889: avg_rsrq  = 29.423728813559322: avg_rsrp  = 49.271186440677965
+
+cell = 3: ue = 6: avg_throughput = 18882.0: avg_rsrq  = 32.03703703703704: avg_rsrp  = 53.629629629629626
+
+cell = 3: ue = 7: avg_throughput = 14352.0: avg_rsrq  = 28.214285714285715: avg_rsrp  = 46.476190476190474
+
+cell = 2: ue = 1: avg_throughput = 1517.860465116279: avg_rsrq  = 28.535211267605632: avg_rsrp  = 44.394366197183096
+
+cell = 2: ue = 4: avg_throughput = 10490.4: avg_rsrq  = 25.842105263157894: avg_rsrp  = 47.0
+
+cell = 2: ue = 5: avg_throughput = 11595.36: avg_rsrq  = 25.863636363636363: avg_rsrp  = 46.18181818181818
+
+cell = 2: ue = 6: avg_throughput = 20109.6: avg_rsrq  = 29.78048780487805: avg_rsrp  = 56.853658536585364
+
+cell = 5: ue = 4: avg_throughput = 19612.432835820895: avg_rsrq  = 29.6734693877551: avg_rsrp  = 53.38775510204081
+
+
+
+cell = 4: ue = 1: avg_throughput = 9630.88695652174: avg_rsrq  = 26.587628865979383: avg_rsrp  = 50.04123711340206
+
+cell = 4: ue = 2: avg_throughput = 16578.898395721924: avg_rsrq  = 30.961783439490446: avg_rsrp  = 54.28662420382165
+
+cell = 4: ue = 3: avg_throughput = 12289.972602739726: avg_rsrq  = 29.3739837398374: avg_rsrp  = 50.24390243902439
+
+cell = 4: ue = 5: avg_throughput = 8261.35294117647: avg_rsrq  = 28.839080459770116: avg_rsrp  = 50.40229885057471
+
+cell = 4: ue = 6: avg_throughput = 12051.720930232557: avg_rsrq  = 30.70909090909091: avg_rsrp  = 56.56363636363636
+
+cell = 4: ue = 7: avg_throughput = 15572.120141342757: avg_rsrq  = 27.435374149659864: avg_rsrp  = 54.49659863945578
+
+cell = 1: ue = 1: avg_throughput = 374.1818181818182: avg_rsrq  = 25.5: avg_rsrp  = 53.5
+
+cell = 1: ue = 3: avg_throughput = 1037.6470588235295: avg_rsrq  = 23.285714285714285: avg_rsrp  = 53.0
+
+cell = 1: ue = 4: avg_throughput = 15659.567010309278: avg_rsrq  = 30.895705521472394: avg_rsrp  = 51.4601226993865
+
+cell = 1: ue = 6: avg_throughput = 4242.461538461538: avg_rsrq  = 24.217391304347824: avg_rsrp  = 48.30434782608695
+
+cell = 2: ue = 1: avg_throughput = 4571.387186629527: avg_rsrq  = 27.949640287769785: avg_rsrp  = 49.51798561151079
+
+cell = 2: ue = 3: avg_throughput = 18505.35849056604: avg_rsrq  = 28.58823529411765: avg_rsrp  = 60.470588235294116
+
+cell = 2: ue = 4: avg_throughput = 18679.39393939394: avg_rsrq  = 30.805555555555557: avg_rsrp  = 53.52777777777778
+
+cell = 2: ue = 5: avg_throughput = 13806.24: avg_rsrq  = 28.659574468085108: avg_rsrp  = 53.46808510638298
+
+cell = 2: ue = 6: avg_throughput = 15061.43119266055: avg_rsrq  = 29.127659574468087: avg_rsrp  = 46.48936170212766
+
+cell = 2: ue = 7: avg_throughput = 10767.75: avg_rsrq  = 25.92105263157895: avg_rsrp  = 51.921052631578945
+
+cell = 5: ue = 2: avg_throughput = 18459.413333333334: avg_rsrq  = 31.357894736842105: avg_rsrp  = 58.410526315789475
+
+cell = 5: ue = 6: avg_throughput = 17480.129032258064: avg_rsrq  = 30.406593406593405: avg_rsrp  = 54.2967032967033
+
+cell = 3: ue = 3: avg_throughput = 19055.647058823528: avg_rsrq  = 32.76470588235294: avg_rsrp  = 53.76470588235294
+
+cell = 3: ue = 4: avg_throughput = 45.23076923076923: avg_rsrq  = 26.857142857142858: avg_rsrp  = 68.42857142857143
+
+cell = 3: ue = 5: avg_throughput = 14915.6: avg_rsrq  = 32.03846153846154: avg_rsrp  = 47.96153846153846
+
+cell = 3: ue = 6: avg_throughput = 18891.063829787236: avg_rsrq  = 32.22222222222222: avg_rsrp  = 48.888888888888886
+
+cell = 3: ue = 7: avg_throughput = 18510.6875: avg_rsrq  = 32.333333333333336: avg_rsrp  = 56.666666666666664
+
+
+
+cell = 4: ue = 1: avg_throughput = 5543.25: avg_rsrq  = 26.057142857142857: avg_rsrp  = 50.457142857142856
+
+cell = 4: ue = 2: avg_throughput = 17821.3: avg_rsrq  = 30.47: avg_rsrp  = 48.23
+
+cell = 4: ue = 3: avg_throughput = 14558.0: avg_rsrq  = 29.647058823529413: avg_rsrp  = 52.48235294117647
+
+cell = 4: ue = 4: avg_throughput = 13801.347826086956: avg_rsrq  = 29.521367521367523: avg_rsrp  = 49.00854700854701
+
+cell = 4: ue = 5: avg_throughput = 14678.888888888889: avg_rsrq  = 29.73913043478261: avg_rsrp  = 52.79710144927536
+
+cell = 4: ue = 6: avg_throughput = 14764.609271523179: avg_rsrq  = 29.543307086614174: avg_rsrp  = 53.46456692913386
+
+cell = 4: ue = 7: avg_throughput = 15880.461538461539: avg_rsrq  = 31.19402985074627: avg_rsrp  = 57.940298507462686
+
+cell = 1: ue = 1: avg_throughput = 15606.211764705882: avg_rsrq  = 30.615384615384617: avg_rsrp  = 57.0
+
+cell = 1: ue = 2: avg_throughput = 4131.864406779661: avg_rsrq  = 24.862745098039216: avg_rsrp  = 46.705882352941174
+
+cell = 2: ue = 1: avg_throughput = 0.0: avg_rsrq  = 25.0: avg_rsrp  = 68.0
+
+cell = 2: ue = 3: avg_throughput = 14790.131386861314: avg_rsrq  = 26.210526315789473: avg_rsrp  = 53.80701754385965
+
+cell = 2: ue = 6: avg_throughput = 18016.161616161615: avg_rsrq  = 30.304: avg_rsrp  = 51.976
+
+cell = 2: ue = 7: avg_throughput = 15990.477876106195: avg_rsrq  = 29.78723404255319: avg_rsrp  = 46.765957446808514
+
+cell = 3: ue = 1: avg_throughput = 20518.032786885247: avg_rsrq  = 28.88888888888889: avg_rsrp  = 53.51851851851852
+
+cell = 3: ue = 7: avg_throughput = 20470.886597938144: avg_rsrq  = 32.125: avg_rsrp  = 49.75
+
+cell = 5: ue = 3: avg_throughput = 13310.988679245283: avg_rsrq  = 28.91891891891892: avg_rsrp  = 52.072072072072075
+
+cell = 5: ue = 4: avg_throughput = 17755.043478260868: avg_rsrq  = 31.29850746268657: avg_rsrp  = 55.298507462686565
+
+cell = 5: ue = 5: avg_throughput = 18040.54128440367: avg_rsrq  = 31.36263736263736: avg_rsrp  = 54.54945054945055
+
+cell = 5: ue = 7: avg_throughput = 14137.751824817518: avg_rsrq  = 28.566037735849058: avg_rsrp  = 52.24528301886792
+
+
+
+cell = 1: ue = 1: avg_throughput = 15750.526315789473: avg_rsrq  = 29.014388489208635: avg_rsrp  = 51.86330935251799
+
+cell = 1: ue = 2: avg_throughput = 15582.0: avg_rsrq  = 29.19047619047619: avg_rsrp  = 60.38095238095238
+
+cell = 1: ue = 3: avg_throughput = 13551.283018867925: avg_rsrq  = 28.44: avg_rsrp  = 51.36
+
+cell = 1: ue = 4: avg_throughput = 20311.464566929135: avg_rsrq  = 31.11578947368421: avg_rsrp  = 54.189473684210526
+
+cell = 1: ue = 7: avg_throughput = 18176.117647058825: avg_rsrq  = 31.52112676056338: avg_rsrp  = 50.28169014084507
+
+cell = 4: ue = 1: avg_throughput = 10493.072164948453: avg_rsrq  = 28.785714285714285: avg_rsrp  = 48.50714285714286
+
+cell = 4: ue = 2: avg_throughput = 10447.455445544554: avg_rsrq  = 29.843575418994412: avg_rsrp  = 49.391061452513966
+
+cell = 4: ue = 3: avg_throughput = 10179.75: avg_rsrq  = 24.671641791044777: avg_rsrp  = 53.88059701492537
+
+cell = 4: ue = 4: avg_throughput = 8084.04255319149: avg_rsrq  = 26.375: avg_rsrp  = 49.410714285714285
+
+cell = 4: ue = 5: avg_throughput = 15349.858585858587: avg_rsrq  = 30.544444444444444: avg_rsrp  = 58.31111111111111
+
+cell = 4: ue = 6: avg_throughput = 11087.51677852349: avg_rsrq  = 27.02285714285714: avg_rsrp  = 50.27428571428572
+
+cell = 4: ue = 7: avg_throughput = 10946.170542635658: avg_rsrq  = 28.975806451612904: avg_rsrp  = 49.225806451612904
+
+cell = 2: ue = 1: avg_throughput = 13328.0: avg_rsrq  = 28.8: avg_rsrp  = 55.2
+
+cell = 2: ue = 3: avg_throughput = 20056.549618320612: avg_rsrq  = 29.939655172413794: avg_rsrp  = 49.956896551724135
+
+cell = 2: ue = 4: avg_throughput = 18211.6015936255: avg_rsrq  = 31.444444444444443: avg_rsrp  = 50.54545454545455
+
+cell = 2: ue = 5: avg_throughput = 15552.0: avg_rsrq  = 27.573333333333334: avg_rsrp  = 48.85333333333333
+
+cell = 3: ue = 2: avg_throughput = 20301.95348837209: avg_rsrq  = 32.0: avg_rsrp  = 68.0
+
+cell = 3: ue = 3: avg_throughput = 18432.521739130436: avg_rsrq  = 32.2: avg_rsrp  = 55.2
+
+cell = 5: ue = 5: avg_throughput = 18564.65882352941: avg_rsrq  = 31.073394495412845: avg_rsrp  = 54.99082568807339
+
+cell = 5: ue = 6: avg_throughput = 17789.506666666668: avg_rsrq  = 31.234375: avg_rsrp  = 54.53125
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 4: ue = 1: avg_throughput = 12820.67256637168: avg_rsrq  = 28.910714285714285: avg_rsrp  = 52.964285714285715
+
+cell = 4: ue = 2: avg_throughput = 10802.788732394367: avg_rsrq  = 29.295774647887324: avg_rsrp  = 48.87323943661972
+
+cell = 4: ue = 3: avg_throughput = 11472.307692307691: avg_rsrq  = 29.657894736842106: avg_rsrp  = 51.05263157894737
+
+cell = 4: ue = 4: avg_throughput = 12078.981818181817: avg_rsrq  = 28.53125: avg_rsrp  = 49.0
+
+cell = 4: ue = 5: avg_throughput = 14652.223602484471: avg_rsrq  = 28.951351351351352: avg_rsrp  = 51.87567567567567
+
+cell = 4: ue = 6: avg_throughput = 14391.953488372093: avg_rsrq  = 30.0: avg_rsrp  = 50.59055118110236
+
+cell = 4: ue = 7: avg_throughput = 13864.591304347827: avg_rsrq  = 31.122448979591837: avg_rsrp  = 51.25170068027211
+
+cell = 2: ue = 1: avg_throughput = 15299.574803149606: avg_rsrq  = 30.466666666666665: avg_rsrp  = 49.766666666666666
+
+cell = 2: ue = 3: avg_throughput = 16935.564356435643: avg_rsrq  = 32.421052631578945: avg_rsrp  = 57.0
+
+cell = 2: ue = 4: avg_throughput = 12772.666666666666: avg_rsrq  = 29.42105263157895: avg_rsrp  = 46.21052631578947
+
+cell = 2: ue = 5: avg_throughput = 18668.328767123287: avg_rsrq  = 31.31578947368421: avg_rsrp  = 50.1578947368421
+
+cell = 2: ue = 7: avg_throughput = 14453.644268774704: avg_rsrq  = 28.432098765432098: avg_rsrp  = 47.48148148148148
+
+cell = 3: ue = 1: avg_throughput = 17554.197424892704: avg_rsrq  = 30.440677966101696: avg_rsrp  = 47.49152542372882
+
+cell = 3: ue = 2: avg_throughput = 16444.4: avg_rsrq  = 29.384615384615383: avg_rsrp  = 46.76923076923077
+
+cell = 3: ue = 3: avg_throughput = 13700.4: avg_rsrq  = 29.357142857142858: avg_rsrp  = 51.25714285714286
+
+cell = 3: ue = 4: avg_throughput = 16901.733333333334: avg_rsrq  = 30.825: avg_rsrp  = 47.5375
+
+cell = 3: ue = 6: avg_throughput = 20163.5: avg_rsrq  = 30.5: avg_rsrp  = 52.111111111111114
+
+cell = 1: ue = 2: avg_throughput = 18796.72131147541: avg_rsrq  = 30.967914438502675: avg_rsrp  = 49.93582887700535
+
+cell = 1: ue = 3: avg_throughput = 13582.583025830258: avg_rsrq  = 30.92436974789916: avg_rsrp  = 49.621848739495796
+
+cell = 1: ue = 4: avg_throughput = 17738.410041841005: avg_rsrq  = 30.25: avg_rsrp  = 49.88392857142857
+
+cell = 1: ue = 6: avg_throughput = 18099.56313993174: avg_rsrq  = 31.053435114503817: avg_rsrp  = 50.534351145038165
+
+cell = 5: ue = 5: avg_throughput = 15327.864406779661: avg_rsrq  = 29.36: avg_rsrp  = 58.8
+
+
+
+cell = 4: ue = 1: avg_throughput = 14615.348416289593: avg_rsrq  = 29.52173913043478: avg_rsrp  = 53.72826086956522
+
+cell = 4: ue = 2: avg_throughput = 14834.68051948052: avg_rsrq  = 30.395061728395063: avg_rsrp  = 48.370370370370374
+
+cell = 4: ue = 3: avg_throughput = 13387.939393939394: avg_rsrq  = 31.373493975903614: avg_rsrp  = 56.10843373493976
+
+cell = 4: ue = 4: avg_throughput = 12025.826086956522: avg_rsrq  = 28.155844155844157: avg_rsrp  = 49.57142857142857
+
+cell = 4: ue = 6: avg_throughput = 13582.736842105263: avg_rsrq  = 29.476923076923075: avg_rsrp  = 50.10769230769231
+
+cell = 4: ue = 7: avg_throughput = 13174.153846153846: avg_rsrq  = 28.417910447761194: avg_rsrp  = 48.940298507462686
+
+cell = 2: ue = 1: avg_throughput = 16252.046511627907: avg_rsrq  = 28.756756756756758: avg_rsrp  = 49.2972972972973
+
+cell = 2: ue = 2: avg_throughput = 7526.4: avg_rsrq  = 24.333333333333332: avg_rsrp  = 48.5
+
+cell = 2: ue = 3: avg_throughput = 15876.0: avg_rsrq  = 31.050847457627118: avg_rsrp  = 50.898305084745765
+
+cell = 2: ue = 4: avg_throughput = 18807.0: avg_rsrq  = 30.43243243243243: avg_rsrp  = 53.310810810810814
+
+cell = 2: ue = 5: avg_throughput = 12470.304: avg_rsrq  = 29.58490566037736: avg_rsrp  = 45.45283018867924
+
+cell = 2: ue = 6: avg_throughput = 17070.846153846152: avg_rsrq  = 30.484848484848484: avg_rsrp  = 52.10606060606061
+
+cell = 3: ue = 1: avg_throughput = 16348.096153846154: avg_rsrq  = 32.214285714285715: avg_rsrp  = 50.0
+
+cell = 3: ue = 3: avg_throughput = 16858.8: avg_rsrq  = 31.88888888888889: avg_rsrp  = 52.77777777777778
+
+cell = 3: ue = 4: avg_throughput = 14477.671641791045: avg_rsrq  = 30.941176470588236: avg_rsrp  = 47.8235294117647
+
+cell = 3: ue = 5: avg_throughput = 18504.0: avg_rsrq  = 30.892307692307693: avg_rsrp  = 50.23076923076923
+
+cell = 3: ue = 6: avg_throughput = 16207.531914893618: avg_rsrq  = 32.18181818181818: avg_rsrp  = 56.45454545454545
+
+cell = 3: ue = 7: avg_throughput = 18286.423076923078: avg_rsrq  = 30.272727272727273: avg_rsrp  = 47.515151515151516
+
+cell = 5: ue = 2: avg_throughput = 17671.941747572815: avg_rsrq  = 30.88372093023256: avg_rsrp  = 54.27906976744186
+
+cell = 5: ue = 3: avg_throughput = 15364.487804878048: avg_rsrq  = 28.53061224489796: avg_rsrp  = 53.42857142857143
+
+cell = 5: ue = 6: avg_throughput = 18334.371859296483: avg_rsrq  = 30.313253012048193: avg_rsrp  = 53.83132530120482
+
+cell = 1: ue = 4: avg_throughput = 6916.0: avg_rsrq  = 26.444444444444443: avg_rsrp  = 52.77777777777778
+
+cell = 1: ue = 5: avg_throughput = 19061.81818181818: avg_rsrq  = 31.29824561403509: avg_rsrp  = 55.92982456140351
+
+cell = 1: ue = 7: avg_throughput = 19404.0: avg_rsrq  = 31.563636363636363: avg_rsrp  = 56.41818181818182
+
+
+
+cell = 4: ue = 1: avg_throughput = 15686.792452830188: avg_rsrq  = 30.52: avg_rsrp  = 57.50666666666667
+
+cell = 4: ue = 2: avg_throughput = 13241.60946745562: avg_rsrq  = 29.34965034965035: avg_rsrp  = 49.95104895104895
+
+cell = 4: ue = 3: avg_throughput = 13284.776470588235: avg_rsrq  = 29.108527131782946: avg_rsrp  = 53.47286821705426
+
+cell = 4: ue = 4: avg_throughput = 13741.36923076923: avg_rsrq  = 30.126262626262626: avg_rsrp  = 50.984848484848484
+
+cell = 4: ue = 5: avg_throughput = 13856.743718592965: avg_rsrq  = 29.983967935871743: avg_rsrp  = 48.503006012024045
+
+cell = 4: ue = 6: avg_throughput = 15087.148936170213: avg_rsrq  = 30.882978723404257: avg_rsrp  = 57.202127659574465
+
+cell = 4: ue = 7: avg_throughput = 15888.469667318983: avg_rsrq  = 30.66744730679157: avg_rsrp  = 49.43559718969555
+
+cell = 5: ue = 1: avg_throughput = 12318.6: avg_rsrq  = 24.78125: avg_rsrp  = 49.90625
+
+cell = 5: ue = 3: avg_throughput = 15166.666666666666: avg_rsrq  = 30.73076923076923: avg_rsrp  = 54.59615384615385
+
+cell = 5: ue = 6: avg_throughput = 18917.563636363637: avg_rsrq  = 30.778260869565216: avg_rsrp  = 53.969565217391306
+
+cell = 5: ue = 7: avg_throughput = 17342.620689655174: avg_rsrq  = 30.471698113207548: avg_rsrp  = 57.339622641509436
+
+cell = 2: ue = 1: avg_throughput = 21574.51851851852: avg_rsrq  = 30.283870967741937: avg_rsrp  = 51.94838709677419
+
+cell = 2: ue = 3: avg_throughput = 14081.238095238095: avg_rsrq  = 30.333333333333332: avg_rsrp  = 58.69047619047619
+
+cell = 2: ue = 6: avg_throughput = 17926.054054054053: avg_rsrq  = 30.65573770491803: avg_rsrp  = 51.98360655737705
+
+cell = 1: ue = 1: avg_throughput = 17531.74683544304: avg_rsrq  = 30.76691729323308: avg_rsrp  = 53.12781954887218
+
+cell = 1: ue = 2: avg_throughput = 17295.46875: avg_rsrq  = 29.308724832214764: avg_rsrp  = 54.23489932885906
+
+cell = 1: ue = 3: avg_throughput = 16969.68: avg_rsrq  = 30.3265306122449: avg_rsrp  = 56.326530612244895
+
+cell = 1: ue = 4: avg_throughput = 17255.7: avg_rsrq  = 30.085365853658537: avg_rsrp  = 53.6890243902439
+
+cell = 3: ue = 2: avg_throughput = 18836.045454545456: avg_rsrq  = 30.575: avg_rsrp  = 55.275
+
+cell = 3: ue = 3: avg_throughput = 19728.194594594595: avg_rsrq  = 30.848484848484848: avg_rsrp  = 56.18181818181818
+
+cell = 3: ue = 4: avg_throughput = 11547.934426229509: avg_rsrq  = 27.07547169811321: avg_rsrp  = 46.83018867924528
+
+cell = 3: ue = 6: avg_throughput = 5814.666666666667: avg_rsrq  = 31.8: avg_rsrp  = 55.2
+
+
+
+cell = 4: ue = 1: avg_throughput = 17430.35616438356: avg_rsrq  = 30.692307692307693: avg_rsrp  = 51.53846153846154
+
+cell = 4: ue = 2: avg_throughput = 15585.28: avg_rsrq  = 31.523809523809526: avg_rsrp  = 58.04761904761905
+
+cell = 4: ue = 3: avg_throughput = 16714.037735849055: avg_rsrq  = 30.616161616161616: avg_rsrp  = 51.72727272727273
+
+cell = 4: ue = 4: avg_throughput = 11184.558139534884: avg_rsrq  = 24.77777777777778: avg_rsrp  = 50.611111111111114
+
+cell = 4: ue = 5: avg_throughput = 12088.078125: avg_rsrq  = 26.02: avg_rsrp  = 52.06
+
+cell = 4: ue = 6: avg_throughput = 16488.166666666668: avg_rsrq  = 29.950413223140497: avg_rsrp  = 51.96694214876033
+
+cell = 4: ue = 7: avg_throughput = 16208.291545189504: avg_rsrq  = 29.73103448275862: avg_rsrp  = 52.02758620689655
+
+cell = 2: ue = 1: avg_throughput = 17930.325: avg_rsrq  = 31.939393939393938: avg_rsrp  = 49.21212121212121
+
+cell = 2: ue = 2: avg_throughput = 4410.0: avg_rsrq  = 27.95744680851064: avg_rsrp  = 46.91489361702128
+
+cell = 2: ue = 3: avg_throughput = 14957.553719008265: avg_rsrq  = 31.88: avg_rsrp  = 48.96
+
+cell = 2: ue = 4: avg_throughput = 10389.365853658537: avg_rsrq  = 23.42622950819672: avg_rsrp  = 50.77049180327869
+
+cell = 2: ue = 5: avg_throughput = 13821.62962962963: avg_rsrq  = 27.257142857142856: avg_rsrp  = 57.542857142857144
+
+cell = 2: ue = 6: avg_throughput = 16518.87664041995: avg_rsrq  = 22.96875: avg_rsrp  = 52.90625
+
+cell = 5: ue = 2: avg_throughput = 16217.675675675675: avg_rsrq  = 26.533333333333335: avg_rsrp  = 51.333333333333336
+
+cell = 5: ue = 4: avg_throughput = 13775.184466019418: avg_rsrq  = 32.38095238095238: avg_rsrp  = 57.857142857142854
+
+cell = 5: ue = 5: avg_throughput = 0.0: avg_rsrq  = 32.75: avg_rsrp  = 64.75
+
+cell = 5: ue = 7: avg_throughput = 18051.942611190818: avg_rsrq  = 29.871559633027523: avg_rsrp  = 54.357798165137616
+
+cell = 3: ue = 2: avg_throughput = 13359.481865284974: avg_rsrq  = 32.166666666666664: avg_rsrp  = 51.083333333333336
+
+cell = 3: ue = 4: avg_throughput = 18813.87725631769: avg_rsrq  = 26.696969696969695: avg_rsrp  = 47.72727272727273
+
+cell = 3: ue = 6: avg_throughput = 20511.336170212766: avg_rsrq  = 33.0: avg_rsrp  = 57.333333333333336
+
+cell = 1: ue = 4: avg_throughput = 18557.853658536584: avg_rsrq  = 30.2: avg_rsrp  = 63.93333333333333
+
+cell = 1: ue = 5: avg_throughput = 17842.758620689656: avg_rsrq  = 31.119266055045873: avg_rsrp  = 51.95412844036697
+
+
+
+cell = 4: ue = 1: avg_throughput = 7953.9190751445085: avg_rsrq  = 27.38888888888889: avg_rsrp  = 49.27777777777778
+
+cell = 4: ue = 3: avg_throughput = 11925.507692307692: avg_rsrq  = 28.724770642201836: avg_rsrp  = 50.08256880733945
+
+cell = 4: ue = 4: avg_throughput = 13777.567567567568: avg_rsrq  = 30.449197860962567: avg_rsrp  = 51.19786096256684
+
+cell = 4: ue = 5: avg_throughput = 14636.884615384615: avg_rsrq  = 28.87037037037037: avg_rsrp  = 48.94444444444444
+
+cell = 4: ue = 6: avg_throughput = 9679.760479041915: avg_rsrq  = 26.61111111111111: avg_rsrp  = 51.68055555555556
+
+cell = 4: ue = 7: avg_throughput = 9657.184615384615: avg_rsrq  = 29.18348623853211: avg_rsrp  = 48.5045871559633
+
+cell = 1: ue = 1: avg_throughput = 10308.037470725996: avg_rsrq  = 30.18435754189944: avg_rsrp  = 49.66480446927374
+
+cell = 1: ue = 2: avg_throughput = 17172.439024390245: avg_rsrq  = 31.72992700729927: avg_rsrp  = 53.503649635036496
+
+cell = 1: ue = 3: avg_throughput = 12877.344827586207: avg_rsrq  = 28.32484076433121: avg_rsrp  = 50.1656050955414
+
+cell = 1: ue = 6: avg_throughput = 13817.232375979112: avg_rsrq  = 30.91269841269841: avg_rsrp  = 52.34920634920635
+
+cell = 1: ue = 7: avg_throughput = 16670.40707964602: avg_rsrq  = 31.557142857142857: avg_rsrp  = 49.98571428571429
+
+cell = 3: ue = 2: avg_throughput = 9696.842105263158: avg_rsrq  = 26.428571428571427: avg_rsrp  = 57.857142857142854
+
+cell = 2: ue = 2: avg_throughput = 18870.953271028036: avg_rsrq  = 31.91111111111111: avg_rsrp  = 49.75555555555555
+
+cell = 2: ue = 5: avg_throughput = 5247.9: avg_rsrq  = 23.285714285714285: avg_rsrp  = 45.51428571428571
+
+cell = 2: ue = 6: avg_throughput = 11689.44: avg_rsrq  = 28.272727272727273: avg_rsrp  = 57.303030303030305
+
+cell = 5: ue = 4: avg_throughput = 16490.727272727272: avg_rsrq  = 31.75: avg_rsrp  = 56.875
+
+cell = 5: ue = 6: avg_throughput = 19282.344827586207: avg_rsrq  = 32.75: avg_rsrp  = 63.583333333333336
+
+
+
+cell = 4: ue = 1: avg_throughput = 16761.66857142857: avg_rsrq  = 30.801369863013697: avg_rsrp  = 49.49315068493151
+
+cell = 4: ue = 2: avg_throughput = 12983.625: avg_rsrq  = 29.74468085106383: avg_rsrp  = 55.851063829787236
+
+cell = 4: ue = 3: avg_throughput = 4400.7692307692305: avg_rsrq  = 29.02777777777778: avg_rsrp  = 54.333333333333336
+
+cell = 4: ue = 4: avg_throughput = 10655.192307692309: avg_rsrq  = 29.674418604651162: avg_rsrp  = 49.133720930232556
+
+cell = 4: ue = 5: avg_throughput = 12058.925373134329: avg_rsrq  = 30.562874251497007: avg_rsrp  = 48.40718562874252
+
+cell = 4: ue = 6: avg_throughput = 18885.585798816566: avg_rsrq  = 31.037735849056602: avg_rsrp  = 54.094339622641506
+
+cell = 4: ue = 7: avg_throughput = 5605.142857142857: avg_rsrq  = 28.875: avg_rsrp  = 51.5
+
+cell = 2: ue = 1: avg_throughput = 15504.629213483146: avg_rsrq  = 30.25: avg_rsrp  = 57.25
+
+cell = 2: ue = 2: avg_throughput = 15065.513513513513: avg_rsrq  = 30.51063829787234: avg_rsrp  = 58.53191489361702
+
+cell = 2: ue = 3: avg_throughput = 16343.727272727272: avg_rsrq  = 30.3855421686747: avg_rsrp  = 49.096385542168676
+
+cell = 2: ue = 6: avg_throughput = 19281.855072463768: avg_rsrq  = 30.267241379310345: avg_rsrp  = 52.991379310344826
+
+cell = 3: ue = 1: avg_throughput = 18720.45: avg_rsrq  = 31.62857142857143: avg_rsrp  = 53.542857142857144
+
+cell = 3: ue = 3: avg_throughput = 20382.21818181818: avg_rsrq  = 30.86842105263158: avg_rsrp  = 53.71052631578947
+
+cell = 3: ue = 5: avg_throughput = 20727.0: avg_rsrq  = 30.857142857142858: avg_rsrp  = 54.857142857142854
+
+cell = 3: ue = 6: avg_throughput = 20088.657534246577: avg_rsrq  = 29.658536585365855: avg_rsrp  = 46.03252032520325
+
+cell = 3: ue = 7: avg_throughput = 17177.919003115265: avg_rsrq  = 31.04237288135593: avg_rsrp  = 47.932203389830505
+
+cell = 1: ue = 2: avg_throughput = 16396.84679665738: avg_rsrq  = 30.93121693121693: avg_rsrp  = 51.94708994708995
+
+cell = 1: ue = 3: avg_throughput = 14921.788235294118: avg_rsrq  = 29.069767441860463: avg_rsrp  = 56.93023255813954
+
+cell = 1: ue = 4: avg_throughput = 17326.4: avg_rsrq  = 30.866935483870968: avg_rsrp  = 50.560483870967744
+
+cell = 1: ue = 5: avg_throughput = 15810.666666666666: avg_rsrq  = 30.793333333333333: avg_rsrp  = 52.03333333333333
+
+cell = 1: ue = 6: avg_throughput = 11940.0: avg_rsrq  = 29.328358208955223: avg_rsrp  = 54.32835820895522
+
+cell = 1: ue = 7: avg_throughput = 14546.708171206226: avg_rsrq  = 30.55952380952381: avg_rsrp  = 50.04761904761905
+
+cell = 5: ue = 2: avg_throughput = 21965.19230769231: avg_rsrq  = 32.256410256410255: avg_rsrp  = 60.41025641025641
+
+cell = 5: ue = 3: avg_throughput = 22302.37168141593: avg_rsrq  = 28.945054945054945: avg_rsrp  = 52.94505494505494
+
+
+
+cell = 4: ue = 1: avg_throughput = 14386.784810126583: avg_rsrq  = 29.459183673469386: avg_rsrp  = 53.10204081632653
+
+cell = 4: ue = 2: avg_throughput = 13557.619834710744: avg_rsrq  = 30.447154471544714: avg_rsrp  = 49.390243902439025
+
+cell = 4: ue = 3: avg_throughput = 13613.273885350318: avg_rsrq  = 29.422764227642276: avg_rsrp  = 52.666666666666664
+
+cell = 4: ue = 4: avg_throughput = 14017.214285714286: avg_rsrq  = 30.221621621621622: avg_rsrp  = 53.178378378378376
+
+cell = 4: ue = 5: avg_throughput = 17055.773755656108: avg_rsrq  = 29.152027027027028: avg_rsrp  = 50.15878378378378
+
+cell = 4: ue = 6: avg_throughput = 14068.32558139535: avg_rsrq  = 30.35211267605634: avg_rsrp  = 50.69718309859155
+
+cell = 4: ue = 7: avg_throughput = 16383.457627118643: avg_rsrq  = 30.964285714285715: avg_rsrp  = 55.5
+
+cell = 1: ue = 1: avg_throughput = 12195.555555555555: avg_rsrq  = 26.585365853658537: avg_rsrp  = 51.707317073170735
+
+cell = 1: ue = 2: avg_throughput = 17742.348122866893: avg_rsrq  = 29.55263157894737: avg_rsrp  = 49.1
+
+cell = 1: ue = 4: avg_throughput = 0.0: avg_rsrq  = 27.0: avg_rsrp  = 50.0
+
+cell = 1: ue = 5: avg_throughput = 18069.69230769231: avg_rsrq  = 30.563218390804597: avg_rsrp  = 53.12643678160919
+
+cell = 2: ue = 1: avg_throughput = 18052.39819004525: avg_rsrq  = 30.155172413793103: avg_rsrp  = 54.5
+
+cell = 2: ue = 3: avg_throughput = 18996.923076923078: avg_rsrq  = 30.387755102040817: avg_rsrp  = 55.96938775510204
+
+cell = 2: ue = 7: avg_throughput = 17858.548672566372: avg_rsrq  = 30.419354838709676: avg_rsrp  = 49.403225806451616
+
+cell = 3: ue = 1: avg_throughput = 18610.033898305086: avg_rsrq  = 29.923076923076923: avg_rsrp  = 46.99038461538461
+
+cell = 3: ue = 2: avg_throughput = 18972.1875: avg_rsrq  = 29.78125: avg_rsrp  = 53.6875
+
+cell = 3: ue = 3: avg_throughput = 21002.698795180724: avg_rsrq  = 31.446280991735538: avg_rsrp  = 49.231404958677686
+
+cell = 3: ue = 7: avg_throughput = 20169.509433962263: avg_rsrq  = 30.695652173913043: avg_rsrp  = 50.04347826086956
+
+cell = 5: ue = 4: avg_throughput = 19838.215384615385: avg_rsrq  = 31.108333333333334: avg_rsrp  = 55.75
+
+cell = 5: ue = 6: avg_throughput = 19035.63529411765: avg_rsrq  = 31.58219178082192: avg_rsrp  = 55.13013698630137
+
+cell = 5: ue = 7: avg_throughput = 18681.6: avg_rsrq  = 30.79047619047619: avg_rsrp  = 54.67619047619048
+
+
+
+cell = 4: ue = 1: avg_throughput = 13056.40776699029: avg_rsrq  = 27.11627906976744: avg_rsrp  = 48.16279069767442
+
+cell = 4: ue = 2: avg_throughput = 12690.884615384615: avg_rsrq  = 28.84375: avg_rsrp  = 49.171875
+
+cell = 4: ue = 3: avg_throughput = 13855.015384615384: avg_rsrq  = 30.145454545454545: avg_rsrp  = 54.38181818181818
+
+cell = 4: ue = 4: avg_throughput = 13071.574468085106: avg_rsrq  = 29.24: avg_rsrp  = 53.71
+
+cell = 4: ue = 5: avg_throughput = 15382.190476190477: avg_rsrq  = 29.072727272727274: avg_rsrp  = 56.21818181818182
+
+cell = 4: ue = 6: avg_throughput = 14169.123287671233: avg_rsrq  = 30.841269841269842: avg_rsrp  = 56.58730158730159
+
+cell = 4: ue = 7: avg_throughput = 5019.4: avg_rsrq  = 24.11111111111111: avg_rsrp  = 50.55555555555556
+
+cell = 1: ue = 1: avg_throughput = 18810.0: avg_rsrq  = 29.890243902439025: avg_rsrp  = 48.78048780487805
+
+cell = 1: ue = 2: avg_throughput = 13468.975609756097: avg_rsrq  = 28.616666666666667: avg_rsrp  = 48.333333333333336
+
+cell = 1: ue = 7: avg_throughput = 17582.31325301205: avg_rsrq  = 17.051948051948052: avg_rsrp  = 50.701298701298704
+
+cell = 5: ue = 3: avg_throughput = 18973.701149425287: avg_rsrq  = 30.522935779816514: avg_rsrp  = 53.34862385321101
+
+cell = 5: ue = 4: avg_throughput = 13090.736842105263: avg_rsrq  = 26.902439024390244: avg_rsrp  = 50.829268292682926
+
+cell = 5: ue = 7: avg_throughput = 21766.88888888889: avg_rsrq  = 32.391304347826086: avg_rsrp  = 58.91304347826087
+
+cell = 2: ue = 3: avg_throughput = 15038.230088495575: avg_rsrq  = 29.659574468085108: avg_rsrp  = 48.659574468085104
+
+cell = 2: ue = 4: avg_throughput = 17556.0: avg_rsrq  = 30.952380952380953: avg_rsrp  = 60.19047619047619
+
+cell = 2: ue = 5: avg_throughput = 18893.190635451505: avg_rsrq  = 27.05982905982906: avg_rsrp  = 53.495726495726494
+
+cell = 2: ue = 6: avg_throughput = 17651.939086294416: avg_rsrq  = 29.870588235294118: avg_rsrp  = 47.694117647058825
+
+cell = 2: ue = 7: avg_throughput = 19494.46153846154: avg_rsrq  = 30.28205128205128: avg_rsrp  = 51.53846153846154
+
+cell = 3: ue = 3: avg_throughput = 18479.125: avg_rsrq  = 32.6: avg_rsrp  = 52.0
+
+cell = 3: ue = 4: avg_throughput = 19751.71153846154: avg_rsrq  = 32.5: avg_rsrp  = 63.0
+
+cell = 3: ue = 5: avg_throughput = 17221.073482428113: avg_rsrq  = 28.313432835820894: avg_rsrp  = 46.507462686567166
+
+cell = 3: ue = 6: avg_throughput = 16841.50972762646: avg_rsrq  = 29.677419354838708: avg_rsrp  = 45.903225806451616
+
+cell = 3: ue = 7: avg_throughput = 19430.449826989618: avg_rsrq  = 29.060606060606062: avg_rsrp  = 47.81818181818182
+
+
+
+cell = 4: ue = 1: avg_throughput = 15569.97833935018: avg_rsrq  = 31.310924369747898: avg_rsrp  = 53.53781512605042
+
+cell = 4: ue = 2: avg_throughput = 12847.29411764706: avg_rsrq  = 30.03680981595092: avg_rsrp  = 48.08588957055215
+
+cell = 4: ue = 3: avg_throughput = 9196.258064516129: avg_rsrq  = 28.23076923076923: avg_rsrp  = 50.0
+
+cell = 4: ue = 4: avg_throughput = 12863.16: avg_rsrq  = 29.352631578947367: avg_rsrp  = 47.76842105263158
+
+cell = 4: ue = 5: avg_throughput = 14239.304347826086: avg_rsrq  = 30.92391304347826: avg_rsrp  = 53.47826086956522
+
+cell = 4: ue = 6: avg_throughput = 18419.385245901638: avg_rsrq  = 30.358565737051794: avg_rsrp  = 51.14342629482072
+
+cell = 4: ue = 7: avg_throughput = 13087.974683544304: avg_rsrq  = 29.323076923076922: avg_rsrp  = 48.63076923076923
+
+cell = 2: ue = 1: avg_throughput = 15411.956756756757: avg_rsrq  = 30.07017543859649: avg_rsrp  = 47.48245614035088
+
+cell = 2: ue = 4: avg_throughput = 5218.5: avg_rsrq  = 25.0: avg_rsrp  = 47.391304347826086
+
+cell = 2: ue = 5: avg_throughput = 18045.176470588234: avg_rsrq  = 30.70967741935484: avg_rsrp  = 50.306451612903224
+
+cell = 2: ue = 6: avg_throughput = 6526.8: avg_rsrq  = 24.8: avg_rsrp  = 47.86666666666667
+
+cell = 3: ue = 1: avg_throughput = 18850.33576642336: avg_rsrq  = 30.53191489361702: avg_rsrp  = 51.40425531914894
+
+cell = 3: ue = 2: avg_throughput = 19208.0: avg_rsrq  = 31.0: avg_rsrp  = 71.0
+
+cell = 3: ue = 3: avg_throughput = 16482.375: avg_rsrq  = 26.77777777777778: avg_rsrp  = 45.0
+
+cell = 3: ue = 5: avg_throughput = 20693.8064516129: avg_rsrq  = 30.526315789473685: avg_rsrp  = 51.94736842105263
+
+cell = 3: ue = 7: avg_throughput = 15478.478873239437: avg_rsrq  = 29.488888888888887: avg_rsrp  = 48.044444444444444
+
+cell = 1: ue = 2: avg_throughput = 15208.108695652174: avg_rsrq  = 28.96039603960396: avg_rsrp  = 53.227722772277225
+
+cell = 1: ue = 3: avg_throughput = 18585.81818181818: avg_rsrq  = 30.99230769230769: avg_rsrp  = 49.95384615384615
+
+cell = 1: ue = 7: avg_throughput = 18128.686327077747: avg_rsrq  = 30.51196172248804: avg_rsrp  = 51.813397129186605
+
+cell = 5: ue = 4: avg_throughput = 19879.89928057554: avg_rsrq  = 30.450704225352112: avg_rsrp  = 53.063380281690144
+
+cell = 5: ue = 5: avg_throughput = 18900.971098265894: avg_rsrq  = 30.557894736842105: avg_rsrp  = 54.757894736842104
+
+cell = 5: ue = 6: avg_throughput = 15060.387096774193: avg_rsrq  = 28.6: avg_rsrp  = 50.642857142857146
+
+
+
+cell = 1: ue = 1: avg_throughput = 7821.398230088495: avg_rsrq  = 26.46315789473684: avg_rsrp  = 50.06315789473684
+
+cell = 1: ue = 2: avg_throughput = 12676.186046511628: avg_rsrq  = 31.0: avg_rsrp  = 59.96296296296296
+
+cell = 1: ue = 3: avg_throughput = 20042.412060301507: avg_rsrq  = 31.344: avg_rsrp  = 49.688
+
+cell = 1: ue = 4: avg_throughput = 17914.245059288536: avg_rsrq  = 31.67924528301887: avg_rsrp  = 50.0
+
+cell = 1: ue = 5: avg_throughput = 15667.938461538462: avg_rsrq  = 32.0: avg_rsrp  = 51.857142857142854
+
+cell = 1: ue = 7: avg_throughput = 13917.638095238095: avg_rsrq  = 28.863636363636363: avg_rsrp  = 49.70454545454545
+
+cell = 2: ue = 1: avg_throughput = 15997.50743801653: avg_rsrq  = 26.225225225225227: avg_rsrp  = 47.54054054054054
+
+cell = 2: ue = 2: avg_throughput = 17052.0: avg_rsrq  = 32.6: avg_rsrp  = 52.8
+
+cell = 2: ue = 5: avg_throughput = 13193.432835820895: avg_rsrq  = 27.414634146341463: avg_rsrp  = 47.951219512195124
+
+cell = 2: ue = 6: avg_throughput = 20447.41176470588: avg_rsrq  = 31.906976744186046: avg_rsrp  = 50.651162790697676
+
+cell = 3: ue = 1: avg_throughput = 18039.153284671534: avg_rsrq  = 32.733333333333334: avg_rsrp  = 47.8
+
+cell = 3: ue = 2: avg_throughput = 17818.880952380954: avg_rsrq  = 28.04: avg_rsrp  = 47.6
+
+cell = 3: ue = 5: avg_throughput = 14270.727272727272: avg_rsrq  = 28.56: avg_rsrp  = 51.28
+
+cell = 3: ue = 7: avg_throughput = 0.0: avg_rsrq  = 32.0: avg_rsrp  = 55.0
+
+cell = 4: ue = 2: avg_throughput = 2110.5882352941176: avg_rsrq  = 24.75: avg_rsrp  = 48.5
+
+cell = 4: ue = 4: avg_throughput = 10042.330434782609: avg_rsrq  = 29.014084507042252: avg_rsrp  = 47.732394366197184
+
+cell = 4: ue = 5: avg_throughput = 8642.050632911392: avg_rsrq  = 27.545454545454547: avg_rsrp  = 52.09090909090909
+
+cell = 4: ue = 6: avg_throughput = 12624.365482233503: avg_rsrq  = 30.621951219512194: avg_rsrp  = 51.951219512195124
+
+cell = 4: ue = 7: avg_throughput = 10060.425974025973: avg_rsrq  = 28.925: avg_rsrp  = 48.7
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 1: ue = 1: avg_throughput = 14809.840707964602: avg_rsrq  = 31.44705882352941: avg_rsrp  = 52.63529411764706
+
+cell = 1: ue = 2: avg_throughput = 11335.744680851063: avg_rsrq  = 31.04: avg_rsrp  = 59.8
+
+cell = 1: ue = 3: avg_throughput = 11631.009174311926: avg_rsrq  = 30.524390243902438: avg_rsrp  = 50.19512195121951
+
+cell = 1: ue = 4: avg_throughput = 11561.5: avg_rsrq  = 29.973214285714285: avg_rsrp  = 52.0625
+
+cell = 1: ue = 5: avg_throughput = 15331.055555555555: avg_rsrq  = 30.96078431372549: avg_rsrp  = 51.833333333333336
+
+cell = 1: ue = 6: avg_throughput = 16036.8281938326: avg_rsrq  = 31.238888888888887: avg_rsrp  = 51.67777777777778
+
+cell = 1: ue = 7: avg_throughput = 15944.027972027972: avg_rsrq  = 30.546666666666667: avg_rsrp  = 51.15555555555556
+
+cell = 1: ue = 8: avg_throughput = 15450.467605633803: avg_rsrq  = 30.667796610169493: avg_rsrp  = 50.60677966101695
+
+cell = 3: ue = 1: avg_throughput = 16439.204819277107: avg_rsrq  = 28.833333333333332: avg_rsrp  = 55.75
+
+cell = 3: ue = 2: avg_throughput = 17456.46017699115: avg_rsrq  = 30.583333333333332: avg_rsrp  = 55.888888888888886
+
+cell = 3: ue = 3: avg_throughput = 17794.212765957447: avg_rsrq  = 31.12676056338028: avg_rsrp  = 47.71830985915493
+
+cell = 3: ue = 4: avg_throughput = 18622.8: avg_rsrq  = 31.602739726027398: avg_rsrp  = 46.945205479452056
+
+cell = 3: ue = 5: avg_throughput = 17298.58064516129: avg_rsrq  = 30.714285714285715: avg_rsrp  = 49.64835164835165
+
+cell = 3: ue = 6: avg_throughput = 17995.53488372093: avg_rsrq  = 30.035714285714285: avg_rsrp  = 57.92857142857143
+
+cell = 3: ue = 7: avg_throughput = 19848.0625: avg_rsrq  = 29.595238095238095: avg_rsrp  = 53.61904761904762
+
+cell = 3: ue = 8: avg_throughput = 14515.2: avg_rsrq  = 29.47826086956522: avg_rsrp  = 59.65217391304348
+
+cell = 2: ue = 1: avg_throughput = 15774.9375: avg_rsrq  = 31.054054054054053: avg_rsrp  = 50.479729729729726
+
+cell = 2: ue = 2: avg_throughput = 13896.878048780487: avg_rsrq  = 30.204918032786885: avg_rsrp  = 52.81147540983606
+
+cell = 2: ue = 3: avg_throughput = 19819.90243902439: avg_rsrq  = 31.100775193798448: avg_rsrp  = 50.16279069767442
+
+cell = 2: ue = 4: avg_throughput = 14357.671232876712: avg_rsrq  = 30.18942731277533: avg_rsrp  = 49.38766519823788
+
+cell = 2: ue = 5: avg_throughput = 14263.2: avg_rsrq  = 30.197802197802197: avg_rsrp  = 52.505494505494504
+
+cell = 2: ue = 6: avg_throughput = 11309.617021276596: avg_rsrq  = 30.862068965517242: avg_rsrp  = 48.87931034482759
+
+cell = 2: ue = 7: avg_throughput = 11718.736842105263: avg_rsrq  = 30.8: avg_rsrp  = 51.55555555555556
+
+cell = 2: ue = 8: avg_throughput = 19039.857868020306: avg_rsrq  = 31.58503401360544: avg_rsrp  = 51.734693877551024
+
+cell = 5: ue = 1: avg_throughput = 17586.301369863013: avg_rsrq  = 31.01685393258427: avg_rsrp  = 53.76966292134831
+
+cell = 5: ue = 2: avg_throughput = 15890.90322580645: avg_rsrq  = 30.5974025974026: avg_rsrp  = 54.422077922077925
+
+cell = 5: ue = 3: avg_throughput = 11153.032258064517: avg_rsrq  = 29.91111111111111: avg_rsrp  = 60.15555555555556
+
+cell = 5: ue = 4: avg_throughput = 13778.8: avg_rsrq  = 29.71264367816092: avg_rsrp  = 56.298850574712645
+
+cell = 5: ue = 5: avg_throughput = 20136.869565217392: avg_rsrq  = 32.06122448979592: avg_rsrp  = 58.46938775510204
+
+cell = 5: ue = 7: avg_throughput = 17898.935779816515: avg_rsrq  = 30.31764705882353: avg_rsrp  = 55.6
+
+cell = 4: ue = 2: avg_throughput = 12816.461538461539: avg_rsrq  = 30.467105263157894: avg_rsrp  = 51.60526315789474
+
+cell = 4: ue = 3: avg_throughput = 15164.540925266903: avg_rsrq  = 29.87772925764192: avg_rsrp  = 52.248908296943235
+
+cell = 4: ue = 4: avg_throughput = 5201.538461538462: avg_rsrq  = 25.547619047619047: avg_rsrp  = 47.333333333333336
+
+cell = 4: ue = 5: avg_throughput = 14578.62385321101: avg_rsrq  = 29.451428571428572: avg_rsrp  = 53.21714285714286
+
+cell = 4: ue = 6: avg_throughput = 15853.933503836317: avg_rsrq  = 30.64437689969605: avg_rsrp  = 50.52279635258358
+
+cell = 4: ue = 7: avg_throughput = 15269.739130434782: avg_rsrq  = 28.81021897810219: avg_rsrp  = 52.1021897810219
+
+cell = 4: ue = 8: avg_throughput = 17190.833333333332: avg_rsrq  = 30.417142857142856: avg_rsrp  = 51.42857142857143
+
+
+
+cell = 1: ue = 1: avg_throughput = 8982.967741935483: avg_rsrq  = 27.25: avg_rsrp  = 51.76923076923077
+
+cell = 1: ue = 2: avg_throughput = 18501.011494252874: avg_rsrq  = 31.185185185185187: avg_rsrp  = 51.4537037037037
+
+cell = 1: ue = 5: avg_throughput = 17161.39534883721: avg_rsrq  = 31.393129770992367: avg_rsrp  = 50.469465648854964
+
+cell = 1: ue = 6: avg_throughput = 13288.8: avg_rsrq  = 30.197604790419163: avg_rsrp  = 51.868263473053894
+
+cell = 1: ue = 7: avg_throughput = 15445.60824742268: avg_rsrq  = 31.5: avg_rsrp  = 52.41358024691358
+
+cell = 2: ue = 1: avg_throughput = 17552.05128205128: avg_rsrq  = 30.19753086419753: avg_rsrp  = 49.52469135802469
+
+cell = 2: ue = 3: avg_throughput = 15008.7: avg_rsrq  = 25.58823529411765: avg_rsrp  = 46.911764705882355
+
+cell = 2: ue = 4: avg_throughput = 19256.075471698114: avg_rsrq  = 30.59090909090909: avg_rsrp  = 49.90151515151515
+
+cell = 2: ue = 6: avg_throughput = 999.6: avg_rsrq  = 24.375: avg_rsrp  = 48.625
+
+cell = 2: ue = 7: avg_throughput = 7173.6: avg_rsrq  = 24.0: avg_rsrp  = 49.0
+
+cell = 3: ue = 1: avg_throughput = 18465.907894736843: avg_rsrq  = 29.921985815602838: avg_rsrp  = 45.99290780141844
+
+cell = 3: ue = 2: avg_throughput = 19758.62613981763: avg_rsrq  = 31.03448275862069: avg_rsrp  = 52.172413793103445
+
+cell = 4: ue = 2: avg_throughput = 665.3333333333334: avg_rsrq  = 28.0: avg_rsrp  = 50.0
+
+cell = 4: ue = 3: avg_throughput = 16070.373134328358: avg_rsrq  = 30.337053571428573: avg_rsrp  = 48.714285714285715
+
+cell = 4: ue = 4: avg_throughput = 16422.94017094017: avg_rsrq  = 30.217543859649123: avg_rsrp  = 52.49122807017544
+
+cell = 4: ue = 5: avg_throughput = 12708.299212598426: avg_rsrq  = 30.391509433962263: avg_rsrp  = 48.43396226415094
+
+cell = 4: ue = 6: avg_throughput = 13897.980327868852: avg_rsrq  = 30.294117647058822: avg_rsrp  = 53.24313725490196
+
+cell = 4: ue = 7: avg_throughput = 14466.422535211268: avg_rsrq  = 30.47257383966245: avg_rsrp  = 53.67932489451477
+
+cell = 5: ue = 3: avg_throughput = 13876.8: avg_rsrq  = 25.875: avg_rsrp  = 47.541666666666664
+
+cell = 5: ue = 4: avg_throughput = 18332.533333333333: avg_rsrq  = 30.42622950819672: avg_rsrp  = 58.21311475409836
+
+cell = 5: ue = 6: avg_throughput = 11178.758620689656: avg_rsrq  = 28.65277777777778: avg_rsrp  = 50.833333333333336
+
+cell = 5: ue = 7: avg_throughput = 15552.101694915254: avg_rsrq  = 29.625: avg_rsrp  = 52.25
+
+
+
+cell = 4: ue = 1: avg_throughput = 9010.331838565022: avg_rsrq  = 29.536082474226806: avg_rsrp  = 48.381443298969074
+
+cell = 4: ue = 3: avg_throughput = 12710.575757575758: avg_rsrq  = 30.676646706586826: avg_rsrp  = 48.05988023952096
+
+cell = 4: ue = 4: avg_throughput = 14077.054945054944: avg_rsrq  = 29.927710843373493: avg_rsrp  = 51.795180722891565
+
+cell = 4: ue = 5: avg_throughput = 3569.4193548387098: avg_rsrq  = 27.875: avg_rsrp  = 49.75
+
+cell = 4: ue = 6: avg_throughput = 13255.172011661807: avg_rsrq  = 29.947712418300654: avg_rsrp  = 53.63398692810458
+
+cell = 4: ue = 7: avg_throughput = 15894.285714285714: avg_rsrq  = 30.171232876712327: avg_rsrp  = 50.917808219178085
+
+cell = 1: ue = 1: avg_throughput = 17543.555555555555: avg_rsrq  = 31.1: avg_rsrp  = 50.95625
+
+cell = 1: ue = 2: avg_throughput = 19191.568965517243: avg_rsrq  = 31.388235294117646: avg_rsrp  = 54.50588235294118
+
+cell = 1: ue = 3: avg_throughput = 17840.851485148516: avg_rsrq  = 30.833333333333332: avg_rsrp  = 51.714285714285715
+
+cell = 1: ue = 5: avg_throughput = 13989.134328358208: avg_rsrq  = 29.044444444444444: avg_rsrp  = 52.13333333333333
+
+cell = 3: ue = 2: avg_throughput = 20162.29508196721: avg_rsrq  = 30.183673469387756: avg_rsrp  = 49.95918367346939
+
+cell = 3: ue = 4: avg_throughput = 18955.263157894737: avg_rsrq  = 31.25: avg_rsrp  = 51.25
+
+cell = 3: ue = 5: avg_throughput = 16210.634146341463: avg_rsrq  = 28.964285714285715: avg_rsrp  = 45.732142857142854
+
+cell = 2: ue = 4: avg_throughput = 19753.471698113208: avg_rsrq  = 30.76086956521739: avg_rsrp  = 51.54347826086956
+
+cell = 2: ue = 5: avg_throughput = 19579.823529411766: avg_rsrq  = 29.96470588235294: avg_rsrp  = 50.09411764705882
+
+cell = 2: ue = 7: avg_throughput = 8854.588235294117: avg_rsrq  = 25.0: avg_rsrp  = 47.0
+
+cell = 5: ue = 4: avg_throughput = 19708.341708542714: avg_rsrq  = 31.44705882352941: avg_rsrp  = 56.11764705882353
+
+cell = 5: ue = 5: avg_throughput = 14112.0: avg_rsrq  = 30.8: avg_rsrp  = 54.0
+
+cell = 5: ue = 6: avg_throughput = 18930.84375: avg_rsrq  = 31.17699115044248: avg_rsrp  = 56.19469026548673
+
+cell = 5: ue = 7: avg_throughput = 19855.417322834644: avg_rsrq  = 30.713043478260868: avg_rsrp  = 54.06956521739131
+
+
+
+cell = 4: ue = 1: avg_throughput = 3773.0: avg_rsrq  = 27.4: avg_rsrp  = 50.0
+
+cell = 4: ue = 2: avg_throughput = 15591.202346041056: avg_rsrq  = 30.477192982456142: avg_rsrp  = 47.94385964912281
+
+cell = 4: ue = 3: avg_throughput = 15170.08547008547: avg_rsrq  = 30.92248062015504: avg_rsrp  = 56.70542635658915
+
+cell = 4: ue = 4: avg_throughput = 13932.655737704918: avg_rsrq  = 29.419117647058822: avg_rsrp  = 50.25735294117647
+
+cell = 4: ue = 5: avg_throughput = 16011.101369863014: avg_rsrq  = 30.50877192982456: avg_rsrp  = 50.343859649122805
+
+cell = 4: ue = 6: avg_throughput = 15051.483870967742: avg_rsrq  = 30.244604316546763: avg_rsrp  = 55.02877697841727
+
+cell = 4: ue = 7: avg_throughput = 15158.624277456647: avg_rsrq  = 30.580645161290324: avg_rsrp  = 50.314516129032256
+
+cell = 1: ue = 1: avg_throughput = 19775.66595289079: avg_rsrq  = 31.0431654676259: avg_rsrp  = 50.70863309352518
+
+cell = 1: ue = 2: avg_throughput = 16914.1875: avg_rsrq  = 30.272: avg_rsrp  = 52.32
+
+cell = 3: ue = 1: avg_throughput = 20766.439024390245: avg_rsrq  = 30.859154929577464: avg_rsrp  = 50.394366197183096
+
+cell = 3: ue = 2: avg_throughput = 12978.608695652174: avg_rsrq  = 28.410714285714285: avg_rsrp  = 47.089285714285715
+
+cell = 3: ue = 4: avg_throughput = 16209.2: avg_rsrq  = 30.466666666666665: avg_rsrp  = 48.6
+
+cell = 3: ue = 5: avg_throughput = 18344.794520547945: avg_rsrq  = 31.545454545454547: avg_rsrp  = 54.72727272727273
+
+cell = 3: ue = 6: avg_throughput = 19776.191489361703: avg_rsrq  = 30.615384615384617: avg_rsrp  = 50.23076923076923
+
+cell = 5: ue = 3: avg_throughput = 16057.9125: avg_rsrq  = 30.608938547486034: avg_rsrp  = 55.31843575418994
+
+cell = 5: ue = 4: avg_throughput = 15630.494845360825: avg_rsrq  = 30.03787878787879: avg_rsrp  = 52.916666666666664
+
+cell = 5: ue = 7: avg_throughput = 17381.28: avg_rsrq  = 30.986486486486488: avg_rsrp  = 55.777027027027025
+
+cell = 2: ue = 3: avg_throughput = 13894.222222222223: avg_rsrq  = 29.372093023255815: avg_rsrp  = 54.48837209302326
+
+cell = 2: ue = 4: avg_throughput = 14790.79411764706: avg_rsrq  = 29.177083333333332: avg_rsrp  = 48.020833333333336
+
+cell = 2: ue = 5: avg_throughput = 18729.136363636364: avg_rsrq  = 30.3265306122449: avg_rsrp  = 57.61224489795919
+
+cell = 2: ue = 6: avg_throughput = 9334.826666666666: avg_rsrq  = 29.278787878787877: avg_rsrp  = 49.24848484848485
+
+cell = 2: ue = 7: avg_throughput = 6174.0: avg_rsrq  = 24.0: avg_rsrp  = 49.0
+
+
+
+cell = 4: ue = 1: avg_throughput = 15835.263157894737: avg_rsrq  = 28.512820512820515: avg_rsrp  = 50.05128205128205
+
+cell = 4: ue = 2: avg_throughput = 13773.616438356165: avg_rsrq  = 28.728813559322035: avg_rsrp  = 56.016949152542374
+
+cell = 4: ue = 3: avg_throughput = 12181.98347107438: avg_rsrq  = 25.96: avg_rsrp  = 49.08
+
+cell = 4: ue = 4: avg_throughput = 15250.486486486487: avg_rsrq  = 29.608695652173914: avg_rsrp  = 54.21739130434783
+
+cell = 4: ue = 5: avg_throughput = 16294.777777777777: avg_rsrq  = 31.0: avg_rsrp  = 57.28089887640449
+
+cell = 4: ue = 6: avg_throughput = 13598.497109826589: avg_rsrq  = 29.61111111111111: avg_rsrp  = 49.40277777777778
+
+cell = 4: ue = 7: avg_throughput = 17727.0780669145: avg_rsrq  = 28.690265486725664: avg_rsrp  = 55.68141592920354
+
+cell = 1: ue = 1: avg_throughput = 18938.200488997554: avg_rsrq  = 30.44705882352941: avg_rsrp  = 50.55294117647059
+
+cell = 1: ue = 3: avg_throughput = 17913.724137931036: avg_rsrq  = 31.4020618556701: avg_rsrp  = 52.74226804123711
+
+cell = 1: ue = 6: avg_throughput = 12746.030769230769: avg_rsrq  = 25.789473684210527: avg_rsrp  = 58.578947368421055
+
+cell = 1: ue = 7: avg_throughput = 11613.0: avg_rsrq  = 32.25: avg_rsrp  = 58.75
+
+cell = 2: ue = 2: avg_throughput = 10081.839416058394: avg_rsrq  = 26.714285714285715: avg_rsrp  = 49.32142857142857
+
+cell = 2: ue = 3: avg_throughput = 5310.375: avg_rsrq  = 31.857142857142858: avg_rsrp  = 47.285714285714285
+
+cell = 2: ue = 4: avg_throughput = 14418.66028708134: avg_rsrq  = 29.25581395348837: avg_rsrp  = 46.7906976744186
+
+cell = 5: ue = 2: avg_throughput = 20244.976744186046: avg_rsrq  = 31.561643835616437: avg_rsrp  = 58.45205479452055
+
+cell = 5: ue = 5: avg_throughput = 18972.595300261095: avg_rsrq  = 30.96273291925466: avg_rsrp  = 55.98136645962733
+
+cell = 5: ue = 7: avg_throughput = 19838.855305466237: avg_rsrq  = 31.213740458015266: avg_rsrp  = 57.0
+
+cell = 3: ue = 3: avg_throughput = 18723.01395348837: avg_rsrq  = 27.394736842105264: avg_rsrp  = 46.86842105263158
+
+cell = 3: ue = 4: avg_throughput = 12190.5: avg_rsrq  = 32.666666666666664: avg_rsrp  = 48.5
+
+cell = 3: ue = 6: avg_throughput = 22506.531914893618: avg_rsrq  = 33.0: avg_rsrp  = 58.5
+
+
+
+cell = 4: ue = 1: avg_throughput = 12756.666666666666: avg_rsrq  = 30.61046511627907: avg_rsrp  = 50.47674418604651
+
+cell = 4: ue = 2: avg_throughput = 9417.719008264463: avg_rsrq  = 28.428571428571427: avg_rsrp  = 48.755102040816325
+
+cell = 4: ue = 4: avg_throughput = 14355.388235294118: avg_rsrq  = 29.685185185185187: avg_rsrp  = 55.01851851851852
+
+cell = 4: ue = 5: avg_throughput = 12559.301886792453: avg_rsrq  = 30.526785714285715: avg_rsrp  = 54.9375
+
+cell = 4: ue = 6: avg_throughput = 11266.819672131147: avg_rsrq  = 30.258064516129032: avg_rsrp  = 50.03225806451613
+
+cell = 4: ue = 7: avg_throughput = 14593.719298245614: avg_rsrq  = 29.526041666666668: avg_rsrp  = 51.614583333333336
+
+cell = 2: ue = 1: avg_throughput = 17928.654545454545: avg_rsrq  = 30.779661016949152: avg_rsrp  = 54.50847457627118
+
+cell = 2: ue = 4: avg_throughput = 15407.112676056338: avg_rsrq  = 30.613333333333333: avg_rsrp  = 49.733333333333334
+
+cell = 2: ue = 5: avg_throughput = 18214.325581395347: avg_rsrq  = 30.141025641025642: avg_rsrp  = 51.243589743589745
+
+cell = 2: ue = 6: avg_throughput = 15358.208955223881: avg_rsrq  = 28.542857142857144: avg_rsrp  = 58.02857142857143
+
+cell = 2: ue = 7: avg_throughput = 17287.904191616766: avg_rsrq  = 30.076923076923077: avg_rsrp  = 50.30769230769231
+
+cell = 3: ue = 1: avg_throughput = 16253.745454545455: avg_rsrq  = 31.319444444444443: avg_rsrp  = 47.72222222222222
+
+cell = 3: ue = 2: avg_throughput = 17489.54117647059: avg_rsrq  = 31.75: avg_rsrp  = 61.85
+
+cell = 3: ue = 3: avg_throughput = 18849.77545691906: avg_rsrq  = 32.27272727272727: avg_rsrp  = 53.09090909090909
+
+cell = 3: ue = 4: avg_throughput = 17117.974025974025: avg_rsrq  = 30.485714285714284: avg_rsrp  = 47.18571428571428
+
+cell = 3: ue = 5: avg_throughput = 15141.0: avg_rsrq  = 30.076923076923077: avg_rsrp  = 59.34615384615385
+
+cell = 3: ue = 6: avg_throughput = 18942.925110132157: avg_rsrq  = 32.3: avg_rsrp  = 55.2
+
+cell = 1: ue = 2: avg_throughput = 12981.986013986014: avg_rsrq  = 29.211111111111112: avg_rsrp  = 54.34444444444444
+
+cell = 1: ue = 3: avg_throughput = 17656.91162790698: avg_rsrq  = 30.338983050847457: avg_rsrp  = 53.13559322033898
+
+cell = 1: ue = 5: avg_throughput = 17488.8: avg_rsrq  = 30.071428571428573: avg_rsrp  = 51.42857142857143
+
+cell = 5: ue = 7: avg_throughput = 19100.516129032258: avg_rsrq  = 30.470588235294116: avg_rsrp  = 57.94117647058823
+
+
+
+cell = 4: ue = 1: avg_throughput = 12354.324324324325: avg_rsrq  = 30.192: avg_rsrp  = 49.752
+
+cell = 4: ue = 2: avg_throughput = 16269.979797979799: avg_rsrq  = 31.352: avg_rsrp  = 57.12
+
+cell = 4: ue = 3: avg_throughput = 14179.32911392405: avg_rsrq  = 30.2406015037594: avg_rsrp  = 50.849624060150376
+
+cell = 4: ue = 4: avg_throughput = 7914.342857142857: avg_rsrq  = 28.774193548387096: avg_rsrp  = 51.61290322580645
+
+cell = 4: ue = 5: avg_throughput = 13310.917808219177: avg_rsrq  = 30.11382113821138: avg_rsrp  = 49.577235772357724
+
+cell = 4: ue = 6: avg_throughput = 10622.806451612903: avg_rsrq  = 29.32075471698113: avg_rsrp  = 50.886792452830186
+
+cell = 4: ue = 7: avg_throughput = 7644.9473684210525: avg_rsrq  = 28.73469387755102: avg_rsrp  = 51.3469387755102
+
+cell = 1: ue = 1: avg_throughput = 16880.66225165563: avg_rsrq  = 31.571428571428573: avg_rsrp  = 49.476190476190474
+
+cell = 1: ue = 2: avg_throughput = 12909.906976744185: avg_rsrq  = 26.324324324324323: avg_rsrp  = 47.648648648648646
+
+cell = 1: ue = 3: avg_throughput = 16889.701357466063: avg_rsrq  = 30.9247311827957: avg_rsrp  = 51.43010752688172
+
+cell = 1: ue = 4: avg_throughput = 17119.613963039013: avg_rsrq  = 31.702564102564104: avg_rsrp  = 52.21025641025641
+
+cell = 1: ue = 5: avg_throughput = 17715.310344827587: avg_rsrq  = 30.8: avg_rsrp  = 51.37647058823529
+
+cell = 1: ue = 6: avg_throughput = 17403.67619047619: avg_rsrq  = 31.03409090909091: avg_rsrp  = 51.60227272727273
+
+cell = 1: ue = 7: avg_throughput = 14204.842105263158: avg_rsrq  = 31.6875: avg_rsrp  = 53.125
+
+cell = 5: ue = 2: avg_throughput = 23110.83870967742: avg_rsrq  = 31.563218390804597: avg_rsrp  = 58.632183908045974
+
+cell = 3: ue = 3: avg_throughput = 15515.612903225807: avg_rsrq  = 31.0: avg_rsrp  = 50.666666666666664
+
+cell = 3: ue = 5: avg_throughput = 19038.80769230769: avg_rsrq  = 31.266666666666666: avg_rsrp  = 49.4
+
+cell = 3: ue = 6: avg_throughput = 11172.0: avg_rsrq  = 28.64: avg_rsrp  = 46.72
+
+cell = 3: ue = 7: avg_throughput = 20787.97427652733: avg_rsrq  = 31.8: avg_rsrp  = 49.8
+
+cell = 2: ue = 4: avg_throughput = 16296.0: avg_rsrq  = 32.5: avg_rsrp  = 64.5
+
+cell = 2: ue = 7: avg_throughput = 16380.848484848484: avg_rsrq  = 30.303030303030305: avg_rsrp  = 56.81818181818182
+
+
+
+cell = 1: ue = 1: avg_throughput = 8659.64331210191: avg_rsrq  = 24.575757575757574: avg_rsrp  = 46.81818181818182
+
+cell = 1: ue = 2: avg_throughput = 13154.962343096235: avg_rsrq  = 29.801980198019802: avg_rsrp  = 48.26732673267327
+
+cell = 1: ue = 4: avg_throughput = 14622.0: avg_rsrq  = 31.216216216216218: avg_rsrp  = 52.67567567567568
+
+cell = 1: ue = 5: avg_throughput = 18481.787234042553: avg_rsrq  = 31.08695652173913: avg_rsrp  = 51.30434782608695
+
+cell = 4: ue = 1: avg_throughput = 14171.58359621451: avg_rsrq  = 29.661654135338345: avg_rsrp  = 49.932330827067666
+
+cell = 4: ue = 2: avg_throughput = 4260.731707317073: avg_rsrq  = 23.88235294117647: avg_rsrp  = 47.88235294117647
+
+cell = 4: ue = 3: avg_throughput = 3414.5945945945946: avg_rsrq  = 22.847826086956523: avg_rsrp  = 48.67391304347826
+
+cell = 4: ue = 4: avg_throughput = 15644.08064516129: avg_rsrq  = 24.32: avg_rsrp  = 56.28
+
+cell = 4: ue = 5: avg_throughput = 10247.776951672862: avg_rsrq  = 28.767857142857142: avg_rsrp  = 48.035714285714285
+
+cell = 4: ue = 6: avg_throughput = 8438.78947368421: avg_rsrq  = 27.896907216494846: avg_rsrp  = 50.58762886597938
+
+cell = 4: ue = 7: avg_throughput = 12809.844559585492: avg_rsrq  = 29.368098159509202: avg_rsrp  = 49.32515337423313
+
+cell = 5: ue = 1: avg_throughput = 14308.0: avg_rsrq  = 25.35593220338983: avg_rsrp  = 49.49152542372882
+
+cell = 5: ue = 3: avg_throughput = 19450.772727272728: avg_rsrq  = 32.0: avg_rsrp  = 56.72222222222222
+
+cell = 5: ue = 4: avg_throughput = 25492.645161290322: avg_rsrq  = 32.34615384615385: avg_rsrp  = 58.65384615384615
+
+cell = 3: ue = 2: avg_throughput = 16040.422222222222: avg_rsrq  = 29.013333333333332: avg_rsrp  = 46.46666666666667
+
+cell = 3: ue = 6: avg_throughput = 20193.798816568047: avg_rsrq  = 32.57142857142857: avg_rsrp  = 48.0
+
+cell = 3: ue = 7: avg_throughput = 16138.04347826087: avg_rsrq  = 31.94736842105263: avg_rsrp  = 47.578947368421055
+
+cell = 2: ue = 2: avg_throughput = 196.0: avg_rsrq  = 31.5: avg_rsrp  = 48.5
+
+cell = 2: ue = 3: avg_throughput = 11690.823529411764: avg_rsrq  = 30.603448275862068: avg_rsrp  = 51.48275862068966
+
+cell = 2: ue = 4: avg_throughput = 15918.506024096385: avg_rsrq  = 28.62857142857143: avg_rsrp  = 58.114285714285714
+
+cell = 2: ue = 6: avg_throughput = 15236.148148148148: avg_rsrq  = 26.488888888888887: avg_rsrp  = 47.75555555555555
+
+cell = 2: ue = 7: avg_throughput = 13256.233846153846: avg_rsrq  = 22.610169491525422: avg_rsrp  = 47.76271186440678
+
+
+
+cell = 4: ue = 1: avg_throughput = 12525.052023121387: avg_rsrq  = 30.013793103448275: avg_rsrp  = 51.07586206896552
+
+cell = 4: ue = 2: avg_throughput = 12455.88990825688: avg_rsrq  = 28.608695652173914: avg_rsrp  = 54.46739130434783
+
+cell = 4: ue = 3: avg_throughput = 14011.159663865546: avg_rsrq  = 29.247524752475247: avg_rsrp  = 54.722772277227726
+
+cell = 4: ue = 4: avg_throughput = 8969.636363636364: avg_rsrq  = 25.53153153153153: avg_rsrp  = 49.63963963963964
+
+cell = 4: ue = 5: avg_throughput = 6991.941176470588: avg_rsrq  = 27.333333333333332: avg_rsrp  = 51.07017543859649
+
+cell = 4: ue = 6: avg_throughput = 10225.2140077821: avg_rsrq  = 28.169811320754718: avg_rsrp  = 48.43396226415094
+
+cell = 2: ue = 1: avg_throughput = 14318.315789473685: avg_rsrq  = 22.64: avg_rsrp  = 49.34
+
+cell = 2: ue = 2: avg_throughput = 16000.384615384615: avg_rsrq  = 28.27777777777778: avg_rsrp  = 60.111111111111114
+
+cell = 2: ue = 3: avg_throughput = 15045.429805615551: avg_rsrq  = 24.394805194805194: avg_rsrp  = 49.97402597402598
+
+cell = 2: ue = 4: avg_throughput = 16974.32854864434: avg_rsrq  = 29.330708661417322: avg_rsrp  = 50.645669291338585
+
+cell = 2: ue = 5: avg_throughput = 16783.40740740741: avg_rsrq  = 18.370786516853933: avg_rsrp  = 43.92134831460674
+
+cell = 2: ue = 6: avg_throughput = 20900.727272727272: avg_rsrq  = 32.75: avg_rsrp  = 63.5
+
+cell = 2: ue = 7: avg_throughput = 16063.32743362832: avg_rsrq  = 28.52173913043478: avg_rsrp  = 58.56521739130435
+
+cell = 3: ue = 1: avg_throughput = 17437.757961783438: avg_rsrq  = 32.75: avg_rsrp  = 50.583333333333336
+
+cell = 3: ue = 2: avg_throughput = 19380.78947368421: avg_rsrq  = 32.0: avg_rsrp  = 64.0
+
+cell = 3: ue = 3: avg_throughput = 14353.872340425532: avg_rsrq  = 28.64406779661017: avg_rsrp  = 45.271186440677965
+
+cell = 3: ue = 5: avg_throughput = 18205.069637883007: avg_rsrq  = 29.598130841121495: avg_rsrp  = 46.429906542056074
+
+cell = 1: ue = 2: avg_throughput = 3437.1428571428573: avg_rsrq  = 23.333333333333332: avg_rsrp  = 47.666666666666664
+
+cell = 1: ue = 6: avg_throughput = 18520.026845637585: avg_rsrq  = 31.5929203539823: avg_rsrp  = 51.70796460176991
+
+cell = 1: ue = 7: avg_throughput = 18899.00502512563: avg_rsrq  = 30.73856209150327: avg_rsrp  = 51.254901960784316
+
+cell = 5: ue = 2: avg_throughput = 16907.095723014256: avg_rsrq  = 27.068181818181817: avg_rsrp  = 51.93181818181818
+
+cell = 5: ue = 4: avg_throughput = 11776.888888888889: avg_rsrq  = 32.0: avg_rsrp  = 57.75
+
+cell = 5: ue = 7: avg_throughput = 20433.0: avg_rsrq  = 32.411764705882355: avg_rsrp  = 61.88235294117647
+
+
+
+cell = 4: ue = 1: avg_throughput = 12367.623529411765: avg_rsrq  = 23.941176470588236: avg_rsrp  = 47.529411764705884
+
+cell = 4: ue = 2: avg_throughput = 15913.248: avg_rsrq  = 28.403846153846153: avg_rsrp  = 48.5
+
+cell = 4: ue = 3: avg_throughput = 15880.806916426513: avg_rsrq  = 29.586206896551722: avg_rsrp  = 52.57931034482758
+
+cell = 4: ue = 4: avg_throughput = 13686.923076923076: avg_rsrq  = 26.244897959183675: avg_rsrp  = 47.89795918367347
+
+cell = 4: ue = 5: avg_throughput = 11434.83116883117: avg_rsrq  = 24.40625: avg_rsrp  = 48.3125
+
+cell = 4: ue = 6: avg_throughput = 14870.0: avg_rsrq  = 28.441176470588236: avg_rsrp  = 51.61764705882353
+
+cell = 4: ue = 7: avg_throughput = 12566.073298429319: avg_rsrq  = 28.6: avg_rsrp  = 49.625
+
+cell = 1: ue = 1: avg_throughput = 17600.953125: avg_rsrq  = 29.401869158878505: avg_rsrp  = 50.06542056074766
+
+cell = 1: ue = 4: avg_throughput = 18956.153424657536: avg_rsrq  = 29.86842105263158: avg_rsrp  = 50.171052631578945
+
+cell = 1: ue = 5: avg_throughput = 16591.135135135137: avg_rsrq  = 28.18421052631579: avg_rsrp  = 49.1578947368421
+
+cell = 1: ue = 7: avg_throughput = 18179.0: avg_rsrq  = 30.258823529411764: avg_rsrp  = 50.423529411764704
+
+cell = 3: ue = 1: avg_throughput = 10335.709090909091: avg_rsrq  = 16.085714285714285: avg_rsrp  = 47.6
+
+cell = 3: ue = 5: avg_throughput = 15406.511627906977: avg_rsrq  = 27.555555555555557: avg_rsrp  = 53.666666666666664
+
+cell = 3: ue = 6: avg_throughput = 18670.13953488372: avg_rsrq  = 32.625: avg_rsrp  = 48.875
+
+cell = 2: ue = 1: avg_throughput = 13904.302702702702: avg_rsrq  = 31.666666666666668: avg_rsrp  = 50.205128205128204
+
+cell = 2: ue = 2: avg_throughput = 8750.823529411764: avg_rsrq  = 32.0: avg_rsrp  = 52.0
+
+cell = 2: ue = 3: avg_throughput = 10546.39534883721: avg_rsrq  = 29.97142857142857: avg_rsrp  = 50.82857142857143
+
+cell = 2: ue = 5: avg_throughput = 15804.727272727272: avg_rsrq  = 30.785714285714285: avg_rsrp  = 51.607142857142854
+
+cell = 2: ue = 6: avg_throughput = 11322.76923076923: avg_rsrq  = 27.09375: avg_rsrp  = 45.0
+
+cell = 5: ue = 2: avg_throughput = 16472.85542168675: avg_rsrq  = 30.26086956521739: avg_rsrp  = 54.10144927536232
+
+cell = 5: ue = 3: avg_throughput = 13106.174117647059: avg_rsrq  = 18.483870967741936: avg_rsrp  = 46.903225806451616
+
+cell = 5: ue = 6: avg_throughput = 17501.647058823528: avg_rsrq  = 28.258064516129032: avg_rsrp  = 54.87096774193548
+
+
+
+cell = 4: ue = 1: avg_throughput = 11480.853333333333: avg_rsrq  = 30.58288770053476: avg_rsrp  = 48.38502673796791
+
+cell = 4: ue = 2: avg_throughput = 13026.139534883721: avg_rsrq  = 29.956521739130434: avg_rsrp  = 55.56521739130435
+
+cell = 4: ue = 3: avg_throughput = 7964.314960629921: avg_rsrq  = 28.676470588235293: avg_rsrp  = 49.01960784313726
+
+cell = 4: ue = 5: avg_throughput = 17105.458193979932: avg_rsrq  = 30.16733067729084: avg_rsrp  = 51.92828685258964
+
+cell = 4: ue = 6: avg_throughput = 993.8666666666667: avg_rsrq  = 27.15625: avg_rsrp  = 49.916666666666664
+
+cell = 4: ue = 7: avg_throughput = 10219.450236966824: avg_rsrq  = 28.943181818181817: avg_rsrp  = 50.02840909090909
+
+cell = 1: ue = 1: avg_throughput = 14838.492211838005: avg_rsrq  = 30.95880149812734: avg_rsrp  = 51.554307116104866
+
+cell = 1: ue = 2: avg_throughput = 18569.13924050633: avg_rsrq  = 31.13142857142857: avg_rsrp  = 51.32
+
+cell = 1: ue = 3: avg_throughput = 11613.0: avg_rsrq  = 28.760563380281692: avg_rsrp  = 53.91549295774648
+
+cell = 1: ue = 4: avg_throughput = 15908.3378746594: avg_rsrq  = 31.10097719869707: avg_rsrp  = 49.618892508143325
+
+cell = 1: ue = 5: avg_throughput = 18731.066666666666: avg_rsrq  = 31.336283185840706: avg_rsrp  = 51.06194690265487
+
+cell = 1: ue = 6: avg_throughput = 410.7945205479452: avg_rsrq  = 26.933333333333334: avg_rsrp  = 49.266666666666666
+
+cell = 3: ue = 1: avg_throughput = 9996.0: avg_rsrq  = 29.58823529411765: avg_rsrp  = 67.0
+
+cell = 3: ue = 3: avg_throughput = 20347.179190751445: avg_rsrq  = 32.58024691358025: avg_rsrp  = 52.629629629629626
+
+cell = 3: ue = 4: avg_throughput = 16010.172413793103: avg_rsrq  = 30.423728813559322: avg_rsrp  = 53.983050847457626
+
+cell = 3: ue = 5: avg_throughput = 15745.333333333334: avg_rsrq  = 28.705882352941178: avg_rsrp  = 49.11764705882353
+
+cell = 3: ue = 6: avg_throughput = 18046.144329896906: avg_rsrq  = 30.434782608695652: avg_rsrp  = 47.82608695652174
+
+cell = 3: ue = 7: avg_throughput = 17453.44578313253: avg_rsrq  = 30.651785714285715: avg_rsrp  = 46.0
+
+cell = 2: ue = 1: avg_throughput = 9888.516129032258: avg_rsrq  = 31.444444444444443: avg_rsrp  = 67.0
+
+cell = 2: ue = 2: avg_throughput = 15141.0: avg_rsrq  = 28.0625: avg_rsrp  = 54.90625
+
+cell = 2: ue = 3: avg_throughput = 17202.127659574468: avg_rsrq  = 29.88888888888889: avg_rsrp  = 61.629629629629626
+
+cell = 2: ue = 4: avg_throughput = 12342.931034482759: avg_rsrq  = 29.877551020408163: avg_rsrp  = 46.224489795918366
+
+cell = 2: ue = 5: avg_throughput = 10682.0: avg_rsrq  = 25.5: avg_rsrp  = 46.0
+
+cell = 2: ue = 6: avg_throughput = 17106.396475770925: avg_rsrq  = 30.633540372670808: avg_rsrp  = 50.45962732919255
+
+cell = 2: ue = 7: avg_throughput = 17166.21582733813: avg_rsrq  = 30.402173913043477: avg_rsrp  = 54.08695652173913
+
+
+
+cell = 4: ue = 1: avg_throughput = 11154.985074626866: avg_rsrq  = 28.48780487804878: avg_rsrp  = 57.8780487804878
+
+cell = 4: ue = 2: avg_throughput = 12885.247706422018: avg_rsrq  = 30.4: avg_rsrp  = 58.8
+
+cell = 4: ue = 3: avg_throughput = 12190.355329949238: avg_rsrq  = 29.170731707317074: avg_rsrp  = 53.926829268292686
+
+cell = 4: ue = 5: avg_throughput = 9862.23350253807: avg_rsrq  = 27.29268292682927: avg_rsrp  = 55.02439024390244
+
+cell = 4: ue = 6: avg_throughput = 12990.393013100436: avg_rsrq  = 29.74468085106383: avg_rsrp  = 54.744680851063826
+
+cell = 4: ue = 8: avg_throughput = 8805.333333333334: avg_rsrq  = 27.258064516129032: avg_rsrp  = 51.83870967741935
+
+cell = 5: ue = 1: avg_throughput = 14736.804828973844: avg_rsrq  = 30.884615384615383: avg_rsrp  = 53.68269230769231
+
+cell = 5: ue = 3: avg_throughput = 16406.491017964072: avg_rsrq  = 31.752380952380953: avg_rsrp  = 55.076190476190476
+
+cell = 5: ue = 6: avg_throughput = 14243.100244498777: avg_rsrq  = 30.50588235294118: avg_rsrp  = 54.31764705882353
+
+cell = 2: ue = 2: avg_throughput = 17247.05769230769: avg_rsrq  = 29.941860465116278: avg_rsrp  = 48.36046511627907
+
+cell = 2: ue = 4: avg_throughput = 19350.545454545456: avg_rsrq  = 27.041666666666668: avg_rsrp  = 54.333333333333336
+
+cell = 2: ue = 5: avg_throughput = 22448.558882235528: avg_rsrq  = 32.24444444444445: avg_rsrp  = 51.644444444444446
+
+cell = 2: ue = 6: avg_throughput = 17370.09836065574: avg_rsrq  = 32.0: avg_rsrp  = 49.38461538461539
+
+cell = 2: ue = 7: avg_throughput = 10055.407407407407: avg_rsrq  = 24.125: avg_rsrp  = 52.0
+
+cell = 3: ue = 2: avg_throughput = 1302.6461538461538: avg_rsrq  = 32.6: avg_rsrp  = 52.2
+
+cell = 3: ue = 4: avg_throughput = 19209.90291262136: avg_rsrq  = 32.42424242424242: avg_rsrp  = 49.07575757575758
+
+cell = 1: ue = 4: avg_throughput = 10363.475409836066: avg_rsrq  = 25.72: avg_rsrp  = 52.92
+
+cell = 1: ue = 7: avg_throughput = 20435.144246353324: avg_rsrq  = 31.674418604651162: avg_rsrp  = 51.0
+
+cell = 1: ue = 8: avg_throughput = 19474.128440366974: avg_rsrq  = 31.88: avg_rsrp  = 52.78
+
+
+
+cell = 4: ue = 1: avg_throughput = 16620.957446808512: avg_rsrq  = 30.10843373493976: avg_rsrp  = 49.397590361445786
+
+cell = 4: ue = 2: avg_throughput = 15643.175257731958: avg_rsrq  = 30.80722891566265: avg_rsrp  = 53.86746987951807
+
+cell = 4: ue = 3: avg_throughput = 18103.532846715327: avg_rsrq  = 30.559322033898304: avg_rsrp  = 54.79661016949152
+
+cell = 4: ue = 4: avg_throughput = 17904.794701986753: avg_rsrq  = 30.77777777777778: avg_rsrp  = 54.73015873015873
+
+cell = 4: ue = 5: avg_throughput = 14795.575757575758: avg_rsrq  = 30.253012048192772: avg_rsrp  = 50.66265060240964
+
+cell = 4: ue = 6: avg_throughput = 17628.699551569505: avg_rsrq  = 30.29591836734694: avg_rsrp  = 55.204081632653065
+
+cell = 4: ue = 7: avg_throughput = 13494.87: avg_rsrq  = 31.227544910179642: avg_rsrp  = 51.19760479041916
+
+cell = 1: ue = 1: avg_throughput = 18588.525547445257: avg_rsrq  = 31.115606936416185: avg_rsrp  = 50.85549132947977
+
+cell = 1: ue = 3: avg_throughput = 13275.137614678899: avg_rsrq  = 30.0752688172043: avg_rsrp  = 51.39784946236559
+
+cell = 1: ue = 4: avg_throughput = 4147.636363636364: avg_rsrq  = 26.636363636363637: avg_rsrp  = 49.54545454545455
+
+cell = 1: ue = 5: avg_throughput = 17663.461346633416: avg_rsrq  = 31.275449101796408: avg_rsrp  = 51.22754491017964
+
+cell = 1: ue = 6: avg_throughput = 2456.0: avg_rsrq  = 26.77777777777778: avg_rsrp  = 49.666666666666664
+
+cell = 5: ue = 2: avg_throughput = 18383.101604278076: avg_rsrq  = 30.950617283950617: avg_rsrp  = 55.617283950617285
+
+cell = 5: ue = 3: avg_throughput = 16432.55614973262: avg_rsrq  = 31.123456790123456: avg_rsrp  = 55.81481481481482
+
+cell = 5: ue = 4: avg_throughput = 19648.251121076235: avg_rsrq  = 31.086021505376344: avg_rsrp  = 54.354838709677416
+
+cell = 5: ue = 6: avg_throughput = 17101.0: avg_rsrq  = 28.78723404255319: avg_rsrp  = 52.148936170212764
+
+cell = 2: ue = 2: avg_throughput = 17223.30708661417: avg_rsrq  = 31.50943396226415: avg_rsrp  = 53.0188679245283
+
+cell = 2: ue = 3: avg_throughput = 19008.620689655174: avg_rsrq  = 31.5: avg_rsrp  = 50.25
+
+cell = 2: ue = 4: avg_throughput = 12865.44: avg_rsrq  = 30.056603773584907: avg_rsrp  = 45.886792452830186
+
+cell = 2: ue = 6: avg_throughput = 14519.761904761905: avg_rsrq  = 29.794117647058822: avg_rsrp  = 57.205882352941174
+
+cell = 2: ue = 7: avg_throughput = 11462.282208588957: avg_rsrq  = 30.47826086956522: avg_rsrp  = 48.57971014492754
+
+cell = 3: ue = 2: avg_throughput = 18445.304347826088: avg_rsrq  = 32.142857142857146: avg_rsrp  = 56.285714285714285
+
+cell = 3: ue = 4: avg_throughput = 12224.592592592593: avg_rsrq  = 29.34285714285714: avg_rsrp  = 44.0
+
+cell = 3: ue = 6: avg_throughput = 16044.423529411764: avg_rsrq  = 32.0: avg_rsrp  = 53.6
+
+cell = 3: ue = 7: avg_throughput = 11351.666666666666: avg_rsrq  = 30.25: avg_rsrp  = 45.625
+
+
+
+cell = 1: ue = 1: avg_throughput = 3736.0: avg_rsrq  = 27.0: avg_rsrp  = 49.0
+
+cell = 1: ue = 2: avg_throughput = 18504.70588235294: avg_rsrq  = 30.852564102564102: avg_rsrp  = 50.87820512820513
+
+cell = 1: ue = 3: avg_throughput = 18161.85: avg_rsrq  = 30.568181818181817: avg_rsrp  = 53.11363636363637
+
+cell = 1: ue = 4: avg_throughput = 17650.562874251496: avg_rsrq  = 31.833333333333332: avg_rsrp  = 55.733333333333334
+
+cell = 1: ue = 6: avg_throughput = 8993.75: avg_rsrq  = 28.0: avg_rsrp  = 51.5
+
+cell = 4: ue = 1: avg_throughput = 16226.036553524804: avg_rsrq  = 30.56122448979592: avg_rsrp  = 54.30612244897959
+
+cell = 4: ue = 2: avg_throughput = 14619.714285714286: avg_rsrq  = 29.914634146341463: avg_rsrp  = 48.6219512195122
+
+cell = 4: ue = 3: avg_throughput = 15768.905852417303: avg_rsrq  = 29.955823293172692: avg_rsrp  = 48.726907630522085
+
+cell = 4: ue = 4: avg_throughput = 15414.88: avg_rsrq  = 29.933333333333334: avg_rsrp  = 54.2
+
+cell = 4: ue = 5: avg_throughput = 15141.907473309608: avg_rsrq  = 29.721649484536083: avg_rsrp  = 49.5
+
+cell = 4: ue = 6: avg_throughput = 14808.169811320755: avg_rsrq  = 29.958677685950413: avg_rsrp  = 55.51239669421488
+
+cell = 4: ue = 7: avg_throughput = 12574.94: avg_rsrq  = 28.26060606060606: avg_rsrp  = 49.86666666666667
+
+cell = 5: ue = 1: avg_throughput = 17066.0: avg_rsrq  = 30.031496062992126: avg_rsrp  = 55.661417322834644
+
+cell = 5: ue = 5: avg_throughput = 17692.396039603962: avg_rsrq  = 28.650793650793652: avg_rsrp  = 55.57142857142857
+
+cell = 5: ue = 6: avg_throughput = 19481.314878892732: avg_rsrq  = 31.3359375: avg_rsrp  = 55.921875
+
+cell = 3: ue = 3: avg_throughput = 15569.75: avg_rsrq  = 29.962962962962962: avg_rsrp  = 49.111111111111114
+
+cell = 3: ue = 4: avg_throughput = 13232.217391304348: avg_rsrq  = 29.25: avg_rsrp  = 47.7171052631579
+
+cell = 3: ue = 5: avg_throughput = 15668.470588235294: avg_rsrq  = 28.4: avg_rsrp  = 43.46666666666667
+
+cell = 3: ue = 7: avg_throughput = 21098.97391304348: avg_rsrq  = 29.463768115942027: avg_rsrp  = 44.44927536231884
+
+cell = 2: ue = 4: avg_throughput = 15812.16: avg_rsrq  = 29.80392156862745: avg_rsrp  = 55.26470588235294
+
+cell = 2: ue = 5: avg_throughput = 16376.673267326732: avg_rsrq  = 28.346153846153847: avg_rsrp  = 47.3
+
+cell = 2: ue = 6: avg_throughput = 10522.181818181818: avg_rsrq  = 28.19148936170213: avg_rsrp  = 55.276595744680854
+
+cell = 2: ue = 7: avg_throughput = 17949.656804733728: avg_rsrq  = 30.112244897959183: avg_rsrp  = 51.92857142857143
+
+
+
+cell = 4: ue = 1: avg_throughput = 6683.333333333333: avg_rsrq  = 28.2: avg_rsrp  = 49.9
+
+cell = 4: ue = 2: avg_throughput = 17120.188976377955: avg_rsrq  = 30.046875: avg_rsrp  = 53.915625
+
+cell = 4: ue = 3: avg_throughput = 14537.648936170213: avg_rsrq  = 31.379537953795378: avg_rsrp  = 51.24752475247525
+
+cell = 4: ue = 4: avg_throughput = 14237.339853300733: avg_rsrq  = 30.7601246105919: avg_rsrp  = 54.75077881619938
+
+cell = 4: ue = 6: avg_throughput = 10185.012658227848: avg_rsrq  = 30.374358974358973: avg_rsrp  = 49.62051282051282
+
+cell = 4: ue = 7: avg_throughput = 9718.678899082568: avg_rsrq  = 30.385474860335197: avg_rsrp  = 48.86033519553072
+
+cell = 1: ue = 1: avg_throughput = 17508.41958041958: avg_rsrq  = 30.454545454545453: avg_rsrp  = 55.02020202020202
+
+cell = 1: ue = 5: avg_throughput = 13529.631578947368: avg_rsrq  = 30.626943005181346: avg_rsrp  = 50.38860103626943
+
+cell = 1: ue = 6: avg_throughput = 17666.25: avg_rsrq  = 30.238805970149254: avg_rsrp  = 56.298507462686565
+
+cell = 1: ue = 7: avg_throughput = 17921.685863874347: avg_rsrq  = 31.028125: avg_rsrp  = 49.740625
+
+cell = 3: ue = 1: avg_throughput = 18239.14691943128: avg_rsrq  = 31.879310344827587: avg_rsrp  = 48.258620689655174
+
+cell = 3: ue = 5: avg_throughput = 18993.98918918919: avg_rsrq  = 31.07547169811321: avg_rsrp  = 48.264150943396224
+
+cell = 3: ue = 6: avg_throughput = 18920.479338842975: avg_rsrq  = 30.849056603773583: avg_rsrp  = 50.264150943396224
+
+cell = 2: ue = 2: avg_throughput = 18716.201834862386: avg_rsrq  = 31.07650273224044: avg_rsrp  = 51.05464480874317
+
+cell = 2: ue = 3: avg_throughput = 18985.513513513513: avg_rsrq  = 31.5752688172043: avg_rsrp  = 50.32258064516129
+
+cell = 2: ue = 4: avg_throughput = 19106.905263157896: avg_rsrq  = 29.246835443037973: avg_rsrp  = 50.35443037974684
+
+cell = 2: ue = 6: avg_throughput = 10851.272727272728: avg_rsrq  = 28.0: avg_rsrp  = 45.0
+
+
+
+cell = 1: ue = 1: avg_throughput = 16261.76: avg_rsrq  = 31.247619047619047: avg_rsrp  = 52.8
+
+cell = 1: ue = 3: avg_throughput = 18389.095890410958: avg_rsrq  = 30.91304347826087: avg_rsrp  = 60.0
+
+cell = 1: ue = 6: avg_throughput = 19012.0: avg_rsrq  = 30.724137931034484: avg_rsrp  = 58.48275862068966
+
+cell = 3: ue = 1: avg_throughput = 19992.0: avg_rsrq  = 32.567567567567565: avg_rsrp  = 49.729729729729726
+
+cell = 3: ue = 3: avg_throughput = 19972.08510638298: avg_rsrq  = 30.17391304347826: avg_rsrp  = 54.30434782608695
+
+cell = 3: ue = 4: avg_throughput = 19481.616: avg_rsrq  = 32.166666666666664: avg_rsrp  = 46.5
+
+cell = 3: ue = 6: avg_throughput = 18161.24017467249: avg_rsrq  = 30.06451612903226: avg_rsrp  = 52.67741935483871
+
+cell = 4: ue = 2: avg_throughput = 9755.901639344262: avg_rsrq  = 27.84313725490196: avg_rsrp  = 52.3921568627451
+
+cell = 4: ue = 3: avg_throughput = 11814.274809160306: avg_rsrq  = 29.513513513513512: avg_rsrp  = 49.333333333333336
+
+cell = 4: ue = 4: avg_throughput = 13571.652173913044: avg_rsrq  = 28.54237288135593: avg_rsrp  = 54.40677966101695
+
+cell = 4: ue = 5: avg_throughput = 13605.4375: avg_rsrq  = 30.1055900621118: avg_rsrp  = 49.41614906832298
+
+cell = 4: ue = 6: avg_throughput = 7521.037037037037: avg_rsrq  = 25.391304347826086: avg_rsrp  = 49.95652173913044
+
+cell = 4: ue = 7: avg_throughput = 11849.806451612903: avg_rsrq  = 29.31297709923664: avg_rsrp  = 52.57251908396947
+
+cell = 2: ue = 2: avg_throughput = 17999.763157894737: avg_rsrq  = 29.953125: avg_rsrp  = 50.5390625
+
+cell = 2: ue = 3: avg_throughput = 12583.2: avg_rsrq  = 32.2: avg_rsrp  = 54.2
+
+cell = 2: ue = 4: avg_throughput = 16539.241706161138: avg_rsrq  = 30.40449438202247: avg_rsrp  = 47.7752808988764
+
+cell = 2: ue = 6: avg_throughput = 15005.221374045801: avg_rsrq  = 29.30909090909091: avg_rsrp  = 50.45454545454545
+
+cell = 2: ue = 7: avg_throughput = 14312.869565217392: avg_rsrq  = 29.19402985074627: avg_rsrp  = 49.74626865671642
+
+cell = 5: ue = 2: avg_throughput = 18016.32: avg_rsrq  = 30.767123287671232: avg_rsrp  = 54.87671232876713
+
+cell = 5: ue = 5: avg_throughput = 19362.78504672897: avg_rsrq  = 31.11111111111111: avg_rsrp  = 56.37777777777778
+
+cell = 5: ue = 6: avg_throughput = 17410.68: avg_rsrq  = 31.0: avg_rsrp  = 53.142857142857146
+
+cell = 5: ue = 7: avg_throughput = 22072.96875: avg_rsrq  = 31.925925925925927: avg_rsrp  = 55.333333333333336
+
+
+
+cell = 1: ue = 1: avg_throughput = 17969.555555555555: avg_rsrq  = 29.972972972972972: avg_rsrp  = 57.270270270270274
+
+cell = 1: ue = 2: avg_throughput = 15567.705069124424: avg_rsrq  = 29.924050632911392: avg_rsrp  = 52.24050632911393
+
+cell = 1: ue = 4: avg_throughput = 14440.063218390804: avg_rsrq  = 24.649484536082475: avg_rsrp  = 48.49484536082474
+
+cell = 1: ue = 6: avg_throughput = 17889.454545454544: avg_rsrq  = 31.714285714285715: avg_rsrp  = 56.07142857142857
+
+cell = 3: ue = 1: avg_throughput = 19265.647058823528: avg_rsrq  = 28.82051282051282: avg_rsrp  = 47.43589743589744
+
+cell = 3: ue = 2: avg_throughput = 17659.344: avg_rsrq  = 25.075: avg_rsrp  = 45.925
+
+cell = 3: ue = 3: avg_throughput = 18910.5: avg_rsrq  = 32.375: avg_rsrp  = 49.125
+
+cell = 3: ue = 4: avg_throughput = 14449.235294117647: avg_rsrq  = 24.37142857142857: avg_rsrp  = 52.91428571428571
+
+cell = 3: ue = 7: avg_throughput = 19630.153846153848: avg_rsrq  = 30.481012658227847: avg_rsrp  = 47.607594936708864
+
+cell = 2: ue = 1: avg_throughput = 8389.652173913044: avg_rsrq  = 28.0: avg_rsrp  = 48.642857142857146
+
+cell = 2: ue = 3: avg_throughput = 11728.216216216217: avg_rsrq  = 28.97872340425532: avg_rsrp  = 46.148936170212764
+
+cell = 2: ue = 4: avg_throughput = 14605.698113207547: avg_rsrq  = 29.386363636363637: avg_rsrp  = 51.06818181818182
+
+cell = 2: ue = 6: avg_throughput = 20864.703557312252: avg_rsrq  = 30.32323232323232: avg_rsrp  = 52.85858585858586
+
+cell = 2: ue = 7: avg_throughput = 19260.266666666666: avg_rsrq  = 30.428571428571427: avg_rsrp  = 52.816326530612244
+
+cell = 5: ue = 1: avg_throughput = 15116.123076923077: avg_rsrq  = 31.0: avg_rsrp  = 53.357142857142854
+
+cell = 5: ue = 3: avg_throughput = 18982.227848101265: avg_rsrq  = 29.838383838383837: avg_rsrp  = 52.58585858585859
+
+cell = 5: ue = 5: avg_throughput = 17648.48076923077: avg_rsrq  = 31.488372093023255: avg_rsrp  = 55.16279069767442
+
+cell = 5: ue = 6: avg_throughput = 16030.424242424242: avg_rsrq  = 28.46511627906977: avg_rsrp  = 56.16279069767442
+
+cell = 4: ue = 2: avg_throughput = 15669.973509933774: avg_rsrq  = 30.094488188976378: avg_rsrp  = 51.40157480314961
+
+cell = 4: ue = 3: avg_throughput = 13104.771428571428: avg_rsrq  = 29.559322033898304: avg_rsrp  = 50.86440677966102
+
+cell = 4: ue = 4: avg_throughput = 8690.533333333333: avg_rsrq  = 24.82051282051282: avg_rsrp  = 48.53846153846154
+
+cell = 4: ue = 5: avg_throughput = 15910.953846153847: avg_rsrq  = 30.012269938650306: avg_rsrp  = 47.68098159509202
+
+cell = 4: ue = 6: avg_throughput = 14728.514285714286: avg_rsrq  = 29.03370786516854: avg_rsrp  = 50.359550561797754
+
+cell = 4: ue = 7: avg_throughput = 8271.677419354839: avg_rsrq  = 26.88888888888889: avg_rsrp  = 52.370370370370374
+
+
+
+cell = 1: ue = 1: avg_throughput = 14822.194690265487: avg_rsrq  = 31.44705882352941: avg_rsrp  = 52.63529411764706
+
+cell = 1: ue = 2: avg_throughput = 11677.061224489797: avg_rsrq  = 31.04: avg_rsrp  = 59.8
+
+cell = 1: ue = 3: avg_throughput = 12028.666666666666: avg_rsrq  = 30.103448275862068: avg_rsrp  = 49.827586206896555
+
+cell = 1: ue = 4: avg_throughput = 12411.827338129497: avg_rsrq  = 29.70689655172414: avg_rsrp  = 52.05172413793103
+
+cell = 1: ue = 5: avg_throughput = 16260.827067669174: avg_rsrq  = 31.23497267759563: avg_rsrp  = 52.03825136612022
+
+cell = 1: ue = 6: avg_throughput = 15927.133858267716: avg_rsrq  = 30.434146341463414: avg_rsrp  = 51.009756097560974
+
+cell = 1: ue = 7: avg_throughput = 15683.727748691099: avg_rsrq  = 28.905537459283387: avg_rsrp  = 50.039087947882734
+
+cell = 1: ue = 8: avg_throughput = 16034.08510638298: avg_rsrq  = 30.349358974358974: avg_rsrp  = 50.5224358974359
+
+cell = 3: ue = 1: avg_throughput = 18198.6: avg_rsrq  = 29.045454545454547: avg_rsrp  = 56.65909090909091
+
+cell = 3: ue = 2: avg_throughput = 17113.196428571428: avg_rsrq  = 30.65714285714286: avg_rsrp  = 55.68571428571428
+
+cell = 3: ue = 3: avg_throughput = 18253.021276595744: avg_rsrq  = 30.885714285714286: avg_rsrp  = 47.628571428571426
+
+cell = 3: ue = 4: avg_throughput = 19242.58823529412: avg_rsrq  = 32.03030303030303: avg_rsrp  = 47.15151515151515
+
+cell = 3: ue = 5: avg_throughput = 16468.388059701494: avg_rsrq  = 29.96078431372549: avg_rsrp  = 48.8921568627451
+
+cell = 3: ue = 6: avg_throughput = 16928.93023255814: avg_rsrq  = 28.48148148148148: avg_rsrp  = 57.888888888888886
+
+cell = 3: ue = 7: avg_throughput = 18075.31491712707: avg_rsrq  = 29.78125: avg_rsrp  = 54.5
+
+cell = 3: ue = 8: avg_throughput = 12936.0: avg_rsrq  = 29.8: avg_rsrp  = 60.3
+
+cell = 2: ue = 1: avg_throughput = 14944.246153846154: avg_rsrq  = 30.838926174496645: avg_rsrp  = 50.348993288590606
+
+cell = 2: ue = 2: avg_throughput = 13132.615384615385: avg_rsrq  = 29.706349206349206: avg_rsrp  = 52.80952380952381
+
+cell = 2: ue = 3: avg_throughput = 12606.025316455696: avg_rsrq  = 30.74015748031496: avg_rsrp  = 50.346456692913385
+
+cell = 2: ue = 4: avg_throughput = 13826.450184501846: avg_rsrq  = 30.65686274509804: avg_rsrp  = 49.245098039215684
+
+cell = 2: ue = 5: avg_throughput = 13967.882352941177: avg_rsrq  = 29.558139534883722: avg_rsrp  = 53.33720930232558
+
+cell = 2: ue = 6: avg_throughput = 12533.260273972603: avg_rsrq  = 30.512: avg_rsrp  = 49.096
+
+cell = 2: ue = 7: avg_throughput = 11010.774193548386: avg_rsrq  = 30.244897959183675: avg_rsrp  = 51.06122448979592
+
+cell = 2: ue = 8: avg_throughput = 17876.565656565657: avg_rsrq  = 31.375838926174495: avg_rsrp  = 51.61073825503356
+
+cell = 5: ue = 1: avg_throughput = 17507.567567567567: avg_rsrq  = 30.90449438202247: avg_rsrp  = 53.69662921348315
+
+cell = 5: ue = 2: avg_throughput = 16753.232432432433: avg_rsrq  = 30.210526315789473: avg_rsrp  = 54.1578947368421
+
+cell = 5: ue = 3: avg_throughput = 11266.838709677419: avg_rsrq  = 29.22222222222222: avg_rsrp  = 59.888888888888886
+
+cell = 5: ue = 4: avg_throughput = 10757.466666666667: avg_rsrq  = 27.72072072072072: avg_rsrp  = 53.585585585585584
+
+cell = 5: ue = 5: avg_throughput = 22369.217391304348: avg_rsrq  = 32.06122448979592: avg_rsrp  = 58.46938775510204
+
+cell = 5: ue = 7: avg_throughput = 18805.11111111111: avg_rsrq  = 30.31764705882353: avg_rsrp  = 55.6
+
+cell = 4: ue = 2: avg_throughput = 11211.640449438202: avg_rsrq  = 30.44295302013423: avg_rsrp  = 51.53020134228188
+
+cell = 4: ue = 3: avg_throughput = 13551.106382978724: avg_rsrq  = 29.675324675324674: avg_rsrp  = 52.099567099567096
+
+cell = 4: ue = 4: avg_throughput = 2837.1: avg_rsrq  = 24.875: avg_rsrp  = 46.53125
+
+cell = 4: ue = 5: avg_throughput = 14328.618025751073: avg_rsrq  = 29.005494505494507: avg_rsrp  = 52.17032967032967
+
+cell = 4: ue = 6: avg_throughput = 15606.99721448468: avg_rsrq  = 30.909395973154364: avg_rsrp  = 50.62751677852349
+
+cell = 4: ue = 7: avg_throughput = 18622.8: avg_rsrq  = 29.821428571428573: avg_rsrp  = 56.75
+
+cell = 4: ue = 8: avg_throughput = 17312.659793814433: avg_rsrq  = 30.681528662420384: avg_rsrp  = 51.605095541401276
+
+
+
+cell = 4: ue = 1: avg_throughput = 13805.175475687103: avg_rsrq  = 30.40625: avg_rsrp  = 51.489583333333336
+
+cell = 4: ue = 2: avg_throughput = 14690.258823529412: avg_rsrq  = 29.383561643835616: avg_rsrp  = 54.0958904109589
+
+cell = 4: ue = 3: avg_throughput = 11954.943396226416: avg_rsrq  = 29.43609022556391: avg_rsrp  = 48.32330827067669
+
+cell = 4: ue = 4: avg_throughput = 4805.828571428571: avg_rsrq  = 26.363636363636363: avg_rsrp  = 51.31818181818182
+
+cell = 4: ue = 6: avg_throughput = 16746.69230769231: avg_rsrq  = 31.727272727272727: avg_rsrp  = 54.0
+
+cell = 4: ue = 7: avg_throughput = 11726.367346938776: avg_rsrq  = 28.83739837398374: avg_rsrp  = 51.707317073170735
+
+cell = 5: ue = 1: avg_throughput = 6361.090909090909: avg_rsrq  = 23.47826086956522: avg_rsrp  = 46.30434782608695
+
+cell = 5: ue = 2: avg_throughput = 15810.852272727272: avg_rsrq  = 29.95945945945946: avg_rsrp  = 52.391891891891895
+
+cell = 5: ue = 3: avg_throughput = 17052.0: avg_rsrq  = 31.879310344827587: avg_rsrp  = 55.793103448275865
+
+cell = 5: ue = 4: avg_throughput = 10363.5: avg_rsrq  = 31.0: avg_rsrp  = 53.23076923076923
+
+cell = 5: ue = 7: avg_throughput = 15075.666666666666: avg_rsrq  = 31.869565217391305: avg_rsrp  = 56.391304347826086
+
+cell = 2: ue = 1: avg_throughput = 0.0: avg_rsrq  = 32.0: avg_rsrp  = 47.0
+
+cell = 2: ue = 2: avg_throughput = 12424.363636363636: avg_rsrq  = 30.25: avg_rsrp  = 45.4375
+
+cell = 2: ue = 4: avg_throughput = 8594.392749244713: avg_rsrq  = 26.597014925373134: avg_rsrp  = 49.940298507462686
+
+cell = 2: ue = 7: avg_throughput = 13625.979716024342: avg_rsrq  = 26.699029126213592: avg_rsrp  = 49.49514563106796
+
+cell = 1: ue = 4: avg_throughput = 13876.8: avg_rsrq  = 27.41176470588235: avg_rsrp  = 59.23529411764706
+
+cell = 1: ue = 5: avg_throughput = 13803.26923076923: avg_rsrq  = 28.374045801526716: avg_rsrp  = 51.51908396946565
+
+cell = 1: ue = 6: avg_throughput = 19359.92673992674: avg_rsrq  = 30.63157894736842: avg_rsrp  = 50.54385964912281
+
+cell = 3: ue = 4: avg_throughput = 19587.59493670886: avg_rsrq  = 26.714285714285715: avg_rsrp  = 51.0
+
+cell = 3: ue = 5: avg_throughput = 18891.80487804878: avg_rsrq  = 30.233333333333334: avg_rsrp  = 46.833333333333336
+
+
+
+cell = 4: ue = 1: avg_throughput = 11374.434782608696: avg_rsrq  = 28.838709677419356: avg_rsrp  = 49.903225806451616
+
+cell = 4: ue = 2: avg_throughput = 12576.263322884013: avg_rsrq  = 29.866242038216562: avg_rsrp  = 48.203821656050955
+
+cell = 4: ue = 3: avg_throughput = 14461.110320284697: avg_rsrq  = 30.68217054263566: avg_rsrp  = 53.53488372093023
+
+cell = 4: ue = 4: avg_throughput = 15835.263157894737: avg_rsrq  = 29.712962962962962: avg_rsrp  = 51.24074074074074
+
+cell = 4: ue = 5: avg_throughput = 18053.779359430606: avg_rsrq  = 30.551470588235293: avg_rsrp  = 54.13235294117647
+
+cell = 4: ue = 6: avg_throughput = 15650.88256227758: avg_rsrq  = 30.2984496124031: avg_rsrp  = 48.22868217054263
+
+cell = 4: ue = 7: avg_throughput = 10325.541984732825: avg_rsrq  = 30.446280991735538: avg_rsrp  = 49.15702479338843
+
+cell = 1: ue = 1: avg_throughput = 18364.258872651357: avg_rsrq  = 31.069767441860463: avg_rsrp  = 50.89302325581395
+
+cell = 1: ue = 4: avg_throughput = 18220.81173594132: avg_rsrq  = 30.914893617021278: avg_rsrp  = 51.090425531914896
+
+cell = 1: ue = 5: avg_throughput = 12615.272727272728: avg_rsrq  = 28.0: avg_rsrp  = 51.0
+
+cell = 1: ue = 7: avg_throughput = 17245.91489361702: avg_rsrq  = 30.414893617021278: avg_rsrp  = 54.90425531914894
+
+cell = 3: ue = 1: avg_throughput = 20842.216216216217: avg_rsrq  = 31.09090909090909: avg_rsrp  = 49.63636363636363
+
+cell = 3: ue = 7: avg_throughput = 16562.784: avg_rsrq  = 28.914634146341463: avg_rsrp  = 50.792682926829265
+
+cell = 2: ue = 2: avg_throughput = 10192.0: avg_rsrq  = 25.0: avg_rsrp  = 47.8125
+
+cell = 2: ue = 3: avg_throughput = 20992.029197080294: avg_rsrq  = 29.561643835616437: avg_rsrp  = 49.84931506849315
+
+cell = 2: ue = 5: avg_throughput = 4851.0: avg_rsrq  = 25.0: avg_rsrp  = 48.0
+
+cell = 2: ue = 6: avg_throughput = 3479.0: avg_rsrq  = 24.7: avg_rsrp  = 48.0
+
+cell = 2: ue = 7: avg_throughput = 17504.30769230769: avg_rsrq  = 30.0: avg_rsrp  = 70.0
+
+cell = 5: ue = 2: avg_throughput = 19135.516981132074: avg_rsrq  = 30.555555555555557: avg_rsrp  = 54.507936507936506
+
+cell = 5: ue = 3: avg_throughput = 20618.983425414364: avg_rsrq  = 30.914634146341463: avg_rsrp  = 53.41463414634146
+
+cell = 5: ue = 5: avg_throughput = 18684.039603960395: avg_rsrq  = 29.801169590643276: avg_rsrp  = 53.64912280701754
+
+cell = 5: ue = 6: avg_throughput = 4050.6666666666665: avg_rsrq  = 28.210526315789473: avg_rsrp  = 51.21052631578947
+
+
+
+cell = 4: ue = 1: avg_throughput = 13625.560975609756: avg_rsrq  = 29.88976377952756: avg_rsrp  = 49.661417322834644
+
+cell = 4: ue = 2: avg_throughput = 9413.234042553191: avg_rsrq  = 29.58823529411765: avg_rsrp  = 51.11764705882353
+
+cell = 4: ue = 3: avg_throughput = 11797.04854368932: avg_rsrq  = 29.06451612903226: avg_rsrp  = 51.806451612903224
+
+cell = 4: ue = 4: avg_throughput = 15486.330708661417: avg_rsrq  = 31.263157894736842: avg_rsrp  = 57.64912280701754
+
+cell = 4: ue = 5: avg_throughput = 14761.73076923077: avg_rsrq  = 30.19047619047619: avg_rsrp  = 54.74285714285714
+
+cell = 4: ue = 6: avg_throughput = 13985.888888888889: avg_rsrq  = 30.73076923076923: avg_rsrp  = 55.21153846153846
+
+cell = 4: ue = 7: avg_throughput = 17976.887459807072: avg_rsrq  = 29.91025641025641: avg_rsrp  = 49.717948717948715
+
+cell = 2: ue = 1: avg_throughput = 15649.846153846154: avg_rsrq  = 25.0: avg_rsrp  = 48.0
+
+cell = 2: ue = 2: avg_throughput = 15443.855421686747: avg_rsrq  = 29.573033707865168: avg_rsrp  = 48.97752808988764
+
+cell = 2: ue = 3: avg_throughput = 16835.36842105263: avg_rsrq  = 30.566666666666666: avg_rsrp  = 58.5
+
+cell = 2: ue = 4: avg_throughput = 19646.653465346535: avg_rsrq  = 30.11111111111111: avg_rsrp  = 53.717171717171716
+
+cell = 2: ue = 5: avg_throughput = 9855.391304347826: avg_rsrq  = 27.314285714285713: avg_rsrp  = 53.885714285714286
+
+cell = 2: ue = 6: avg_throughput = 19404.0: avg_rsrq  = 30.40983606557377: avg_rsrp  = 53.114754098360656
+
+cell = 5: ue = 1: avg_throughput = 18700.129411764705: avg_rsrq  = 30.926666666666666: avg_rsrp  = 53.026666666666664
+
+cell = 5: ue = 2: avg_throughput = 9615.529411764706: avg_rsrq  = 27.0: avg_rsrp  = 48.42857142857143
+
+cell = 5: ue = 4: avg_throughput = 15440.25: avg_rsrq  = 29.45762711864407: avg_rsrp  = 54.067796610169495
+
+cell = 5: ue = 5: avg_throughput = 20011.764705882353: avg_rsrq  = 31.367924528301888: avg_rsrp  = 56.35849056603774
+
+cell = 1: ue = 2: avg_throughput = 15649.846153846154: avg_rsrq  = 30.431818181818183: avg_rsrp  = 56.88636363636363
+
+cell = 1: ue = 3: avg_throughput = 17778.090909090908: avg_rsrq  = 29.868852459016395: avg_rsrp  = 54.967213114754095
+
+cell = 1: ue = 4: avg_throughput = 17059.041916167665: avg_rsrq  = 32.4: avg_rsrp  = 54.833333333333336
+
+cell = 1: ue = 5: avg_throughput = 18206.618181818183: avg_rsrq  = 31.18867924528302: avg_rsrp  = 55.924528301886795
+
+cell = 1: ue = 6: avg_throughput = 18241.889763779527: avg_rsrq  = 32.214285714285715: avg_rsrp  = 55.464285714285715
+
+cell = 1: ue = 7: avg_throughput = 16084.709897610921: avg_rsrq  = 29.89240506329114: avg_rsrp  = 50.88607594936709
+
+cell = 3: ue = 2: avg_throughput = 19365.88888888889: avg_rsrq  = 30.525: avg_rsrp  = 53.05
+
+cell = 3: ue = 3: avg_throughput = 20042.342465753423: avg_rsrq  = 30.73913043478261: avg_rsrp  = 59.130434782608695
+
+cell = 3: ue = 6: avg_throughput = 17069.078838174275: avg_rsrq  = 30.8876404494382: avg_rsrp  = 49.235955056179776
+
+
+
+cell = 4: ue = 1: avg_throughput = 15728.5: avg_rsrq  = 30.301204819277107: avg_rsrp  = 55.19277108433735
+
+cell = 4: ue = 2: avg_throughput = 13986.133333333333: avg_rsrq  = 27.927083333333332: avg_rsrp  = 53.635416666666664
+
+cell = 4: ue = 3: avg_throughput = 10946.297872340425: avg_rsrq  = 27.518987341772153: avg_rsrp  = 49.265822784810126
+
+cell = 4: ue = 4: avg_throughput = 11905.285714285714: avg_rsrq  = 26.72: avg_rsrp  = 51.68
+
+cell = 4: ue = 5: avg_throughput = 14069.238095238095: avg_rsrq  = 31.849056603773583: avg_rsrp  = 57.698113207547166
+
+cell = 4: ue = 6: avg_throughput = 12147.290322580646: avg_rsrq  = 24.14814814814815: avg_rsrp  = 48.55555555555556
+
+cell = 4: ue = 7: avg_throughput = 12799.2: avg_rsrq  = 29.447619047619046: avg_rsrp  = 49.22857142857143
+
+cell = 2: ue = 1: avg_throughput = 12340.018099547511: avg_rsrq  = 30.25263157894737: avg_rsrp  = 49.37894736842105
+
+cell = 2: ue = 4: avg_throughput = 18381.391304347828: avg_rsrq  = 29.08695652173913: avg_rsrp  = 59.34782608695652
+
+cell = 2: ue = 5: avg_throughput = 12962.486486486487: avg_rsrq  = 29.574468085106382: avg_rsrp  = 46.87234042553192
+
+cell = 5: ue = 1: avg_throughput = 21152.27807486631: avg_rsrq  = 30.810126582278482: avg_rsrp  = 54.164556962025316
+
+cell = 5: ue = 2: avg_throughput = 22289.842105263157: avg_rsrq  = 31.9375: avg_rsrp  = 56.395833333333336
+
+cell = 5: ue = 5: avg_throughput = 18954.7610619469: avg_rsrq  = 29.532846715328468: avg_rsrp  = 52.496350364963504
+
+cell = 1: ue = 2: avg_throughput = 17299.873217115688: avg_rsrq  = 27.492537313432837: avg_rsrp  = 51.04477611940298
+
+cell = 1: ue = 3: avg_throughput = 17945.454545454544: avg_rsrq  = 29.52: avg_rsrp  = 60.12
+
+cell = 1: ue = 4: avg_throughput = 19461.971830985916: avg_rsrq  = 32.0: avg_rsrp  = 53.1
+
+cell = 1: ue = 6: avg_throughput = 16326.382978723404: avg_rsrq  = 30.282828282828284: avg_rsrp  = 49.24242424242424
+
+cell = 1: ue = 7: avg_throughput = 17525.35849056604: avg_rsrq  = 31.4: avg_rsrp  = 58.67272727272727
+
+cell = 3: ue = 3: avg_throughput = 21183.329341317367: avg_rsrq  = 33.0: avg_rsrp  = 48.0
+
+cell = 3: ue = 4: avg_throughput = 21590.97897897898: avg_rsrq  = 30.818181818181817: avg_rsrp  = 55.36363636363637
+
+cell = 3: ue = 5: avg_throughput = 11490.5: avg_rsrq  = 31.6: avg_rsrp  = 47.8
+
+cell = 3: ue = 6: avg_throughput = 21419.165562913906: avg_rsrq  = 32.30769230769231: avg_rsrp  = 49.38461538461539
+
+cell = 3: ue = 7: avg_throughput = 21586.68062827225: avg_rsrq  = 30.444444444444443: avg_rsrp  = 56.2962962962963
+
+
+
+cell = 2: ue = 1: avg_throughput = 11248.875: avg_rsrq  = 29.55: avg_rsrp  = 57.65
+
+cell = 2: ue = 2: avg_throughput = 14105.359223300971: avg_rsrq  = 29.571428571428573: avg_rsrp  = 50.82539682539682
+
+cell = 2: ue = 3: avg_throughput = 7056.0: avg_rsrq  = 23.0: avg_rsrp  = 51.0
+
+cell = 2: ue = 4: avg_throughput = 12569.29411764706: avg_rsrq  = 28.936842105263157: avg_rsrp  = 51.54736842105263
+
+cell = 2: ue = 5: avg_throughput = 17164.7: avg_rsrq  = 30.446153846153845: avg_rsrp  = 48.55384615384615
+
+cell = 2: ue = 6: avg_throughput = 9535.135135135135: avg_rsrq  = 27.03030303030303: avg_rsrp  = 53.121212121212125
+
+cell = 2: ue = 7: avg_throughput = 13608.0: avg_rsrq  = 28.692307692307693: avg_rsrp  = 53.15384615384615
+
+cell = 4: ue = 1: avg_throughput = 16059.75: avg_rsrq  = 29.955223880597014: avg_rsrp  = 58.208955223880594
+
+cell = 4: ue = 2: avg_throughput = 0.0: avg_rsrq  = 27.0: avg_rsrp  = 56.0
+
+cell = 4: ue = 3: avg_throughput = 15352.962025316456: avg_rsrq  = 29.443708609271525: avg_rsrp  = 51.09933774834437
+
+cell = 4: ue = 4: avg_throughput = 15389.303370786516: avg_rsrq  = 28.88950276243094: avg_rsrp  = 50.32044198895028
+
+cell = 4: ue = 5: avg_throughput = 15609.869731800767: avg_rsrq  = 31.333333333333332: avg_rsrp  = 53.027027027027025
+
+cell = 4: ue = 6: avg_throughput = 12867.492957746479: avg_rsrq  = 29.389705882352942: avg_rsrp  = 52.31617647058823
+
+cell = 4: ue = 7: avg_throughput = 13763.634980988592: avg_rsrq  = 29.817518248175183: avg_rsrp  = 51.07299270072993
+
+cell = 5: ue = 1: avg_throughput = 20468.756756756757: avg_rsrq  = 31.25609756097561: avg_rsrp  = 57.51219512195122
+
+cell = 5: ue = 2: avg_throughput = 18518.4578313253: avg_rsrq  = 30.70731707317073: avg_rsrp  = 52.63414634146341
+
+cell = 5: ue = 4: avg_throughput = 19600.0: avg_rsrq  = 29.714285714285715: avg_rsrp  = 52.214285714285715
+
+cell = 5: ue = 6: avg_throughput = 17397.256198347106: avg_rsrq  = 30.013157894736842: avg_rsrp  = 53.53947368421053
+
+cell = 5: ue = 7: avg_throughput = 17248.0: avg_rsrq  = 30.529411764705884: avg_rsrp  = 55.96078431372549
+
+cell = 1: ue = 1: avg_throughput = 15681.441176470587: avg_rsrq  = 30.56756756756757: avg_rsrp  = 50.554054054054056
+
+cell = 1: ue = 2: avg_throughput = 16371.157894736842: avg_rsrq  = 30.297520661157026: avg_rsrp  = 49.12396694214876
+
+cell = 1: ue = 3: avg_throughput = 16072.0: avg_rsrq  = 30.384615384615383: avg_rsrp  = 52.455128205128204
+
+cell = 1: ue = 4: avg_throughput = 13161.191489361701: avg_rsrq  = 28.526315789473685: avg_rsrp  = 50.3421052631579
+
+cell = 1: ue = 5: avg_throughput = 17846.425531914894: avg_rsrq  = 30.91111111111111: avg_rsrp  = 50.62222222222222
+
+cell = 1: ue = 6: avg_throughput = 17185.17948717949: avg_rsrq  = 30.550847457627118: avg_rsrp  = 51.40677966101695
+
+cell = 1: ue = 7: avg_throughput = 13694.21052631579: avg_rsrq  = 24.85185185185185: avg_rsrp  = 59.03703703703704
+
+cell = 3: ue = 2: avg_throughput = 19129.17391304348: avg_rsrq  = 30.069767441860463: avg_rsrp  = 46.76744186046512
+
+cell = 3: ue = 3: avg_throughput = 17084.219178082192: avg_rsrq  = 30.071428571428573: avg_rsrp  = 49.976190476190474
+
+cell = 3: ue = 5: avg_throughput = 15154.656: avg_rsrq  = 29.508474576271187: avg_rsrp  = 48.69491525423729
+
+cell = 3: ue = 7: avg_throughput = 19570.808510638297: avg_rsrq  = 30.384615384615383: avg_rsrp  = 52.84615384615385
+
+
+
